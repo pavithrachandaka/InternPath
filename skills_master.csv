@@ -1,0 +1,27 @@
+skill_id,skill_name,category,demand_level
+1,Python,Technical,Medium
+2,Java,Technical,Medium
+3,Excel,Technical,Medium
+4,Communication,Soft Skills,Medium
+5,Leadership,Soft Skills,Medium
+6,Problem Solving,Soft Skills,Medium
+7,Data Analysis,Technical,Low
+8,Social Media,Domain,Low
+9,Teaching,Domain,Medium
+10,Research,Domain,Medium
+11,MS Office,Technical,Medium
+12,Sales,Domain,High
+13,Marketing,Domain,Medium
+14,Design,Technical,Medium
+15,Finance,Domain,High
+16,Healthcare,Domain,High
+17,Agriculture,Domain,High
+18,Customer Service,Domain,Low
+19,Project Management,Domain,Medium
+20,Team Work,Soft Skills,High
+21,English,Domain,High
+22,Local Language,Domain,Medium
+23,Field Work,Domain,Low
+24,Biology,Domain,High
+25,Chemistry,Domain,Medium
+26,Mathematics,Domain,Medium

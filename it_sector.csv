@@ -1,0 +1,51 @@
+S.no,Title,Provider,URL,Duration
+1,Cisco Introduction to Cybersecurity,Cisco Networking Academy,https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity,15 hours
+2,Cisco Cybersecurity Essentials,Cisco Networking Academy,https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials,30 hours
+3,Cisco Introduction to Packet Tracer,Cisco Networking Academy,https://www.netacad.com/courses/packet-tracer,10 hours
+4,Cisco Programming Essentials in Python,Cisco Networking Academy,https://www.netacad.com/courses/programming/pcap-programming-essentials-python,70 hours
+5,Cisco CCNA: Introduction to Networks,Cisco Networking Academy,https://www.netacad.com/courses/networking/ccna-introduction-networks,70 hours
+6,Responsive Web Design Certification,FreeCodeCamp,https://www.freecodecamp.org/learn/responsive-web-design/,300 hours
+7,JavaScript Algorithms and Data Structures,FreeCodeCamp,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/,300 hours
+8,Front End Development Libraries,FreeCodeCamp,https://www.freecodecamp.org/learn/front-end-development-libraries/,300 hours
+9,Data Visualization,FreeCodeCamp,https://www.freecodecamp.org/learn/data-visualization/,300 hours
+10,APIs and Microservices,FreeCodeCamp,https://www.freecodecamp.org/learn/apis-and-microservices/,300 hours
+11,Oracle Database Fundamentals,Oracle Academy,https://academy.oracle.com/en/oa-web-overview.html,40 hours
+12,Java Programming Fundamentals,Oracle Academy,https://academy.oracle.com/en/oa-web-overview.html,45 hours
+13,Oracle Cloud Infrastructure Foundations,Oracle,https://learn.oracle.com/ols/learning-path/become-oci-foundations-associate/35644/98057,15 hours
+14,MySQL Database Administration,Oracle Academy,https://academy.oracle.com/en/oa-web-overview.html,30 hours
+15,Oracle SQL Fundamentals,Oracle Academy,https://academy.oracle.com/en/oa-web-overview.html,25 hours
+16,Computer Networks,Alison,https://alison.com/course/computer-networks,3-4 hours
+17,Introduction to Computer Programming,Alison,https://alison.com/course/introduction-to-programming,2-3 hours
+18,Database Management Systems,Alison,https://alison.com/course/database-management-systems,4-5 hours
+19,Web Development Fundamentals,Alison,https://alison.com/course/web-development-fundamentals,6-8 hours
+20,Digital Marketing Fundamentals,Alison,https://alison.com/course/digital-marketing-fundamentals,5-6 hours
+21,Introduction to Artificial Intelligence,Simplilearn SkillUP,https://www.simplilearn.com/skillup-free-online-courses,4 hours
+22,Data Science Fundamentals,Simplilearn SkillUP,https://www.simplilearn.com/skillup-free-online-courses,6 hours
+23,Digital Marketing Essentials,Simplilearn SkillUP,https://www.simplilearn.com/skillup-free-online-courses,5 hours
+24,Cloud Computing Basics,Simplilearn SkillUP,https://www.simplilearn.com/skillup-free-online-courses,4 hours
+25,Cybersecurity Fundamentals,Simplilearn SkillUP,https://www.simplilearn.com/skillup-free-online-courses,5 hours
+26,Introduction to Computer Science,Harvard University (edX),https://www.edx.org/course/introduction-computer-science-harvardx-cs50x,11 weeks
+27,MIT Introduction to Programming,MIT (edX),https://www.edx.org/course/introduction-to-computer-science-and-programming-7,9 weeks
+28,Computer Networks and Internet,edX,https://www.edx.org/course/computer-networks,8 weeks
+29,Artificial Intelligence Fundamentals,edX,https://www.edx.org/course/artificial-intelligence,6 weeks
+30,Cybersecurity Fundamentals,edX,https://www.edx.org/course/cybersecurity-fundamentals,5 weeks
+31,Jr Penetration Tester,TryHackMe,https://tryhackme.com/path/outline/jrpenetrationtester,64 hours
+32,Cyber Defense,TryHackMe,https://tryhackme.com/path/outline/blueteam,48 hours
+33,Complete Beginner,TryHackMe,https://tryhackme.com/path/outline/beginner,40 hours
+34,Web Fundamentals,TryHackMe,https://tryhackme.com/path/outline/web,32 hours
+35,CompTIA Pentest+,TryHackMe,https://tryhackme.com/path/outline/pentestplus,51 hours
+36,Kubernetes Basics,Kubernetes Academy,https://kube.academy/,10 hours
+37,Linux Fundamentals,Linux Foundation,https://training.linuxfoundation.org/resources/free-courses/,12 hours
+38,MongoDB Basics,MongoDB University,https://university.mongodb.com/,7 hours
+39,Content Marketing,HubSpot Academy,https://academy.hubspot.com/courses/content-marketing,4.5 hours
+40,Email Marketing,HubSpot Academy,https://academy.hubspot.com/courses/email-marketing,3.5 hours
+41,Social Media Marketing,HubSpot Academy,https://academy.hubspot.com/courses/social-media,5 hours
+42,SEO Fundamentals,HubSpot Academy,https://academy.hubspot.com/courses/seo-training,4 hours
+43,Inbound Marketing,HubSpot Academy,https://academy.hubspot.com/courses/inbound,4.5 hours
+44,DevOps Fundamentals,Microsoft (edX),https://www.edx.org/course/devops-fundamentals,5 weeks
+45,Quality Assurance Testing,FreeCodeCamp,https://www.freecodecamp.org/learn/quality-assurance/,300 hours
+46,Mobile App Development,MIT (edX),https://www.edx.org/course/mobile-application-development,12 weeks
+47,Digital Forensics,Cybrary,https://www.cybrary.it/course/digital-forensics/,15 hours
+48,Network Security,Cybrary,https://www.cybrary.it/course/network-security/,12 hours
+49,Ethical Hacking,Cybrary,https://www.cybrary.it/course/ethical-hacking/,16 hours
+50, Saylor, Introduction to programming, https://learn.saylor.org/course/view.php?id=1146, 26 hours

@@ -1,0 +1,26 @@
+company_id,company_name,sector,size,locations,total_internship_slots,rating
+1,Reliance Industries,Finance,Medium,Single-city,85,3.8
+2,Tata Consultancy Services,Finance,Large,Single-city,13,3.6
+3,Infosys,Government,Large,Single-city,37,4.4
+4,HDFC Bank,Government,Medium,Pan-India,85,4.9
+5,ICICI Bank,Healthcare,Medium,Single-city,39,4.0
+6,State Bank of India,Manufacturing,Large,Single-city,39,4.4
+7,Maruti Suzuki,IT,Large,Pan-India,41,4.9
+8,Asian Paints,Manufacturing,Medium,Pan-India,81,4.5
+9,Larsen & Toubro,Government,Startup,Pan-India,70,4.5
+10,Hindustan Unilever,IT,Large,Pan-India,34,3.8
+11,Bajaj Finance,Manufacturing,Small,Pan-India,45,4.2
+12,Mahindra Group,IT,Startup,Pan-India,46,4.1
+13,Wipro,Government,Large,Pan-India,35,4.2
+14,Dr. Reddy's Labs,IT,Medium,Pan-India,77,4.7
+15,Sun Pharma,Finance,Large,Pan-India,29,4.2
+16,Bharti Airtel,IT,Medium,Multi-city,49,3.6
+17,Tech Mahindra,Healthcare,Large,Single-city,44,4.9
+18,UltraTech Cement,Healthcare,Medium,Single-city,29,4.3
+19,Nestle India,Manufacturing,Large,Multi-city,47,4.9
+20,Godrej Consumer,Healthcare,Medium,Pan-India,71,4.4
+21,Eicher Motors,Manufacturing,Startup,Single-city,91,3.6
+22,Jubilant Foodworks,Healthcare,Medium,Single-city,57,4.3
+23,Muthoot Finance,Healthcare,Large,Pan-India,40,4.4
+24,Hero MotoCorp,Government,Small,Pan-India,38,3.8
+25,TVS Motor,Government,Medium,Pan-India,81,4.2

@@ -1,0 +1,1001 @@
+student_id,name,age,gender,education_level,cgpa,previous_internships,location_type,family_income,digital_literacy,skills,preferred_sector,preferred_location
+1,Student_1,20,Male,Diploma,8.47,0,Rural,<2 Lakh,Intermediate,"English, Communication",Agriculture,Chennai
+2,Student_2,25,Female,Diploma,7.94,0,Semi-Urban,5-8 Lakh,Advanced,"Python, Biology, Teaching",IT,Chennai
+3,Student_3,22,Female,Postgraduate,8.02,1,Rural,5-8 Lakh,Basic,"Social Media, Leadership, Biology, Communication, Local Language",Media,Mumbai
+4,Student_4,21,Female,Diploma,5.56,3,Rural,<2 Lakh,Intermediate,"Biology, Customer Service, Excel, Project Management",Environment,Bangalore
+5,Student_5,19,Female,Diploma,8.65,0,Urban,2-5 Lakh,Advanced,"Design, Java, Python, Excel, Data Analysis",Environment,Delhi
+6,Student_6,19,Female,Undergraduate,7.51,0,Semi-Urban,<2 Lakh,Advanced,"Social Media, Agriculture, Team Work, Python, Customer Service",Media,Pune
+7,Student_7,18,Female,Undergraduate,6.76,0,Rural,2-5 Lakh,Basic,"Data Analysis, Field Work",Government,Mumbai
+8,Student_8,23,Female,Undergraduate,7.37,1,Urban,<2 Lakh,Advanced,"English, Field Work, Customer Service, Design",Environment,Bangalore
+9,Student_9,21,Male,High School,5.07,0,Semi-Urban,2-5 Lakh,Basic,"Social Media, Finance, Project Management",Government,Rural
+10,Student_10,22,Male,Undergraduate,7.69,1,Rural,2-5 Lakh,Intermediate,"Teaching, Mathematics, Python, Chemistry, Problem Solving",IT,Bangalore
+11,Student_11,18,Male,High School,5.96,3,Urban,2-5 Lakh,Basic,"Field Work, Design, MS Office",IT,Mumbai
+12,Student_12,25,Other,High School,5.58,1,Rural,5-8 Lakh,Basic,"Teaching, Leadership, Data Analysis, Chemistry, MS Office",NGO,Mumbai
+13,Student_13,23,Female,Postgraduate,5.37,0,Urban,5-8 Lakh,Intermediate,"Communication, Excel, Marketing, Sales",NGO,Rural
+14,Student_14,19,Male,High School,8.54,1,Semi-Urban,<2 Lakh,Intermediate,"Sales, Team Work, Teaching, Mathematics",Manufacturing,Delhi
+15,Student_15,19,Female,Undergraduate,6.44,0,Urban,<2 Lakh,Basic,"Java, Biology",IT,Chennai
+16,Student_16,19,Female,Undergraduate,9.04,2,Semi-Urban,5-8 Lakh,Basic,"Finance, Customer Service",IT,Chennai
+17,Student_17,20,Male,Diploma,6.56,1,Rural,<2 Lakh,Intermediate,"Communication, Marketing, Excel, Customer Service",NGO,Rural
+18,Student_18,21,Female,Postgraduate,5.15,0,Urban,>8 Lakh,Basic,"Research, English",Marketing,Pune
+19,Student_19,20,Female,High School,5.86,1,Semi-Urban,5-8 Lakh,Intermediate,"Team Work, Sales, Project Management, Data Analysis",NGO,Rural
+20,Student_20,20,Male,Undergraduate,8.68,1,Rural,2-5 Lakh,Basic,"Field Work, Excel",Marketing,Delhi
+21,Student_21,21,Female,Postgraduate,7.01,1,Urban,>8 Lakh,Basic,"Java, Local Language, Social Media, Chemistry",IT,Mumbai
+22,Student_22,19,Male,Undergraduate,6.54,0,Rural,<2 Lakh,Basic,"Research, Excel, Social Media",NGO,Mumbai
+23,Student_23,20,Female,Postgraduate,7.39,2,Semi-Urban,2-5 Lakh,Intermediate,"Communication, Marketing, Teaching, Finance",Environment,Delhi
+24,Student_24,20,Female,High School,7.8,2,Urban,2-5 Lakh,Basic,"English, Sales, Problem Solving, Data Analysis",Manufacturing,Mumbai
+25,Student_25,21,Female,Undergraduate,8.54,1,Urban,2-5 Lakh,Basic,"Local Language, Teaching, Field Work",Education,Bangalore
+26,Student_26,22,Male,Diploma,8.94,3,Urban,>8 Lakh,Advanced,"Local Language, English",Healthcare,Hyderabad
+27,Student_27,19,Female,Undergraduate,6.77,0,Urban,<2 Lakh,Intermediate,"Excel, Team Work",Healthcare,Pune
+28,Student_28,21,Female,Postgraduate,5.61,1,Rural,2-5 Lakh,Basic,"English, Problem Solving, Customer Service",NGO,Bangalore
+29,Student_29,21,Male,Diploma,6.7,1,Rural,2-5 Lakh,Intermediate,"Biology, Social Media, Problem Solving",Education,Rural
+30,Student_30,18,Female,Undergraduate,7.51,1,Urban,5-8 Lakh,Advanced,"Finance, Marketing, Teaching, English",Finance,Bangalore
+31,Student_31,21,Male,Diploma,6.04,1,Urban,<2 Lakh,Basic,"Field Work, Customer Service, Social Media",Finance,Mumbai
+32,Student_32,19,Female,Undergraduate,6.05,0,Urban,2-5 Lakh,Basic,"Local Language, MS Office, Chemistry",Media,Hyderabad
+33,Student_33,18,Male,Undergraduate,7.61,0,Semi-Urban,5-8 Lakh,Intermediate,"Chemistry, Java, Social Media",NGO,Delhi
+34,Student_34,24,Male,Postgraduate,7.14,0,Urban,<2 Lakh,Intermediate,"Java, Mathematics",Marketing,Delhi
+35,Student_35,25,Male,Undergraduate,7.24,0,Semi-Urban,5-8 Lakh,Intermediate,"MS Office, Marketing, Teaching",Agriculture,Bangalore
+36,Student_36,23,Female,Diploma,6.29,1,Rural,2-5 Lakh,Basic,"Excel, Data Analysis, Project Management, Field Work, MS Office",Marketing,Any
+37,Student_37,20,Male,High School,6.92,0,Urban,5-8 Lakh,Basic,"Data Analysis, English, Healthcare, Marketing, Finance",Manufacturing,Rural
+38,Student_38,18,Female,Diploma,6.09,0,Semi-Urban,5-8 Lakh,Intermediate,"Leadership, Teaching, Social Media",Healthcare,Delhi
+39,Student_39,22,Male,Diploma,8.27,1,Rural,<2 Lakh,Basic,"Biology, Customer Service, Teaching",Agriculture,Rural
+40,Student_40,20,Male,Diploma,8.44,1,Rural,2-5 Lakh,Intermediate,"Biology, Project Management, Design, Marketing",Manufacturing,Rural
+41,Student_41,19,Female,Postgraduate,4.98,2,Semi-Urban,5-8 Lakh,Intermediate,"Sales, Social Media, Leadership",Government,Pune
+42,Student_42,21,Female,Undergraduate,6.08,1,Urban,2-5 Lakh,Basic,"Agriculture, Healthcare",Media,Rural
+43,Student_43,18,Male,Undergraduate,5.4,0,Urban,>8 Lakh,Advanced,"Excel, Chemistry",Finance,Bangalore
+44,Student_44,24,Female,High School,6.42,2,Rural,2-5 Lakh,Intermediate,"Java, Communication, Leadership",Finance,Mumbai
+45,Student_45,20,Female,Postgraduate,7.1,1,Urban,<2 Lakh,Intermediate,"English, Problem Solving, Mathematics, Local Language, Design",Marketing,Chennai
+46,Student_46,22,Female,Undergraduate,5.46,0,Urban,2-5 Lakh,Basic,"Team Work, Excel, Marketing, Finance",Environment,Hyderabad
+47,Student_47,20,Male,High School,6.09,1,Urban,>8 Lakh,Basic,"Agriculture, Teaching",Healthcare,Hyderabad
+48,Student_48,21,Male,Undergraduate,6.0,2,Urban,2-5 Lakh,Intermediate,"Customer Service, Python",Environment,Hyderabad
+49,Student_49,21,Female,Undergraduate,7.45,0,Rural,5-8 Lakh,Basic,"Local Language, Biology, Communication, Customer Service",Environment,Any
+50,Student_50,19,Male,High School,7.28,0,Urban,5-8 Lakh,Advanced,"Chemistry, Teaching, English, MS Office",IT,Any
+51,Student_51,25,Female,Undergraduate,6.33,0,Rural,2-5 Lakh,Basic,"Communication, Research, Design, Problem Solving",Healthcare,Rural
+52,Student_52,22,Female,Undergraduate,7.41,0,Rural,<2 Lakh,Intermediate,"Finance, Python, Biology, Teaching",Manufacturing,Rural
+53,Student_53,24,Female,Diploma,6.54,1,Urban,5-8 Lakh,Basic,"Agriculture, Chemistry",Manufacturing,Any
+54,Student_54,23,Female,Postgraduate,6.87,1,Urban,2-5 Lakh,Intermediate,"Problem Solving, Agriculture, Communication, English",Manufacturing,Delhi
+55,Student_55,21,Other,Undergraduate,9.21,0,Rural,5-8 Lakh,Basic,"Research, English, Agriculture, Team Work",NGO,Mumbai
+56,Student_56,24,Male,Undergraduate,8.81,2,Urban,2-5 Lakh,Intermediate,"Data Analysis, Leadership, Sales",Government,Chennai
+57,Student_57,18,Female,Undergraduate,5.64,2,Rural,2-5 Lakh,Basic,"Chemistry, Problem Solving, Customer Service, Agriculture",IT,Rural
+58,Student_58,19,Male,Undergraduate,8.2,1,Semi-Urban,5-8 Lakh,Advanced,"Python, Team Work",Environment,Chennai
+59,Student_59,18,Male,Undergraduate,8.17,2,Urban,2-5 Lakh,Basic,"MS Office, Healthcare",IT,Rural
+60,Student_60,20,Female,Undergraduate,5.82,0,Rural,2-5 Lakh,Advanced,"Python, Communication",Education,Delhi
+61,Student_61,20,Female,High School,8.18,1,Rural,2-5 Lakh,Intermediate,"Sales, Mathematics",Healthcare,Mumbai
+62,Student_62,20,Other,Undergraduate,9.05,1,Urban,2-5 Lakh,Basic,"Research, Social Media, Java",Government,Rural
+63,Student_63,23,Female,Undergraduate,5.85,2,Semi-Urban,2-5 Lakh,Intermediate,"Social Media, Project Management, Excel",Manufacturing,Mumbai
+64,Student_64,20,Male,Undergraduate,6.1,2,Semi-Urban,5-8 Lakh,Basic,"Excel, Biology, Healthcare",Environment,Bangalore
+65,Student_65,20,Male,High School,8.42,0,Urban,2-5 Lakh,Advanced,"Excel, Chemistry, Customer Service",Agriculture,Mumbai
+66,Student_66,21,Female,Undergraduate,7.53,2,Rural,2-5 Lakh,Intermediate,"Chemistry, Leadership, Local Language",Media,Bangalore
+67,Student_67,19,Male,Diploma,7.86,0,Semi-Urban,5-8 Lakh,Basic,"Healthcare, Customer Service",Healthcare,Rural
+68,Student_68,23,Male,Diploma,7.61,2,Semi-Urban,<2 Lakh,Basic,"Problem Solving, Teaching, Agriculture, Team Work",NGO,Bangalore
+69,Student_69,18,Male,Diploma,7.67,3,Rural,<2 Lakh,Basic,"Design, Data Analysis, Customer Service",IT,Hyderabad
+70,Student_70,25,Male,Diploma,5.61,0,Rural,>8 Lakh,Advanced,"Chemistry, Biology, Field Work",Finance,Delhi
+71,Student_71,22,Male,Undergraduate,8.46,1,Urban,5-8 Lakh,Basic,"Data Analysis, Field Work, Research, Marketing, Local Language",Finance,Rural
+72,Student_72,19,Male,Undergraduate,8.6,0,Semi-Urban,2-5 Lakh,Intermediate,"English, Sales, Finance, Agriculture",Media,Bangalore
+73,Student_73,18,Male,Diploma,6.92,1,Urban,2-5 Lakh,Intermediate,"Finance, Communication, Social Media, Excel, MS Office",Government,Pune
+74,Student_74,23,Male,Postgraduate,7.15,1,Rural,<2 Lakh,Advanced,"Python, Project Management, Customer Service",Marketing,Rural
+75,Student_75,22,Other,Postgraduate,5.36,1,Urban,2-5 Lakh,Basic,"Social Media, Project Management",IT,Mumbai
+76,Student_76,22,Male,Postgraduate,7.82,2,Urban,2-5 Lakh,Intermediate,"Social Media, Python, Excel, Field Work",Healthcare,Any
+77,Student_77,22,Male,Diploma,7.89,1,Urban,2-5 Lakh,Intermediate,"English, Java",Environment,Pune
+78,Student_78,18,Female,Undergraduate,7.13,1,Semi-Urban,2-5 Lakh,Intermediate,"Social Media, Excel, Java",Marketing,Chennai
+79,Student_79,20,Male,Postgraduate,8.55,2,Urban,<2 Lakh,Basic,"MS Office, Excel",NGO,Mumbai
+80,Student_80,19,Female,Undergraduate,6.8,3,Rural,<2 Lakh,Basic,"Agriculture, Social Media, Teaching, Local Language",Media,Any
+81,Student_81,23,Female,High School,7.88,0,Urban,>8 Lakh,Basic,"Healthcare, Data Analysis",Environment,Rural
+82,Student_82,21,Male,High School,5.98,3,Urban,2-5 Lakh,Intermediate,"Customer Service, Leadership, Biology, Project Management, Healthcare",IT,Mumbai
+83,Student_83,20,Male,Undergraduate,7.17,0,Urban,2-5 Lakh,Basic,"Social Media, Mathematics, Healthcare, Design, Data Analysis",Education,Bangalore
+84,Student_84,18,Female,Postgraduate,6.99,2,Rural,<2 Lakh,Intermediate,"Communication, Local Language, Design",Agriculture,Rural
+85,Student_85,20,Female,Undergraduate,7.47,0,Urban,<2 Lakh,Basic,"Sales, Design, Finance, Biology",IT,Rural
+86,Student_86,20,Male,Undergraduate,6.76,0,Urban,5-8 Lakh,Advanced,"Java, Local Language, English, Communication",Finance,Rural
+87,Student_87,22,Female,High School,7.04,1,Urban,2-5 Lakh,Advanced,"Java, Marketing, Biology, MS Office",Media,Chennai
+88,Student_88,21,Male,Undergraduate,8.19,1,Urban,2-5 Lakh,Intermediate,"Mathematics, Communication, Social Media",Education,Rural
+89,Student_89,23,Other,Undergraduate,6.68,0,Semi-Urban,<2 Lakh,Basic,"Data Analysis, Customer Service, Finance, Leadership",Manufacturing,Bangalore
+90,Student_90,21,Male,Diploma,5.27,0,Semi-Urban,5-8 Lakh,Basic,"Design, Problem Solving, Teaching",Healthcare,Mumbai
+91,Student_91,19,Female,Undergraduate,9.3,1,Urban,<2 Lakh,Basic,"Finance, Social Media, Excel, Mathematics, Customer Service",Marketing,Pune
+92,Student_92,22,Female,Postgraduate,8.86,2,Rural,<2 Lakh,Basic,"Communication, Java, English",Education,Any
+93,Student_93,22,Female,Diploma,5.65,0,Semi-Urban,2-5 Lakh,Intermediate,"Customer Service, Python, Excel",Media,Bangalore
+94,Student_94,21,Male,Undergraduate,8.03,0,Urban,<2 Lakh,Intermediate,"Chemistry, Social Media, Problem Solving, Design",Finance,Chennai
+95,Student_95,22,Male,Diploma,6.6,1,Semi-Urban,<2 Lakh,Advanced,"Healthcare, Data Analysis, Marketing, Java",Media,Pune
+96,Student_96,21,Male,Undergraduate,7.52,0,Semi-Urban,2-5 Lakh,Basic,"Problem Solving, Marketing, Python",Manufacturing,Hyderabad
+97,Student_97,21,Male,Undergraduate,7.55,2,Urban,5-8 Lakh,Intermediate,"Marketing, Teaching",Environment,Rural
+98,Student_98,20,Male,Undergraduate,6.92,2,Urban,5-8 Lakh,Intermediate,"Mathematics, Finance, Research",NGO,Rural
+99,Student_99,18,Female,Undergraduate,6.26,1,Semi-Urban,2-5 Lakh,Intermediate,"Design, Field Work, Biology, Mathematics, Customer Service",Agriculture,Delhi
+100,Student_100,19,Male,Diploma,6.37,0,Rural,<2 Lakh,Basic,"Local Language, Field Work, Healthcare, Leadership",Manufacturing,Any
+101,Student_101,18,Male,Postgraduate,6.1,2,Urban,<2 Lakh,Intermediate,"Data Analysis, Research, Java, Project Management",Education,Rural
+102,Student_102,21,Female,Undergraduate,6.2,1,Urban,>8 Lakh,Intermediate,"Biology, Customer Service",Healthcare,Rural
+103,Student_103,20,Female,Diploma,7.12,2,Urban,2-5 Lakh,Intermediate,"Java, Biology, MS Office",NGO,Pune
+104,Student_104,21,Female,Undergraduate,6.34,1,Rural,5-8 Lakh,Advanced,"Java, Project Management, Healthcare, Agriculture",Agriculture,Rural
+105,Student_105,24,Other,Undergraduate,8.02,2,Rural,<2 Lakh,Basic,"Agriculture, Problem Solving, Java, Excel",IT,Delhi
+106,Student_106,19,Male,Diploma,8.98,1,Semi-Urban,2-5 Lakh,Basic,"Problem Solving, Excel",Healthcare,Bangalore
+107,Student_107,20,Male,Postgraduate,6.5,1,Urban,<2 Lakh,Intermediate,"Team Work, Excel, Local Language, Social Media, Marketing",Manufacturing,Rural
+108,Student_108,22,Female,Postgraduate,7.49,3,Rural,2-5 Lakh,Intermediate,"Communication, Project Management, Social Media",Finance,Mumbai
+109,Student_109,19,Female,Diploma,7.8,1,Rural,>8 Lakh,Basic,"Project Management, Team Work",Healthcare,Delhi
+110,Student_110,18,Male,Postgraduate,7.77,1,Urban,>8 Lakh,Intermediate,"Java, Team Work, Excel",Agriculture,Rural
+111,Student_111,20,Female,High School,7.29,0,Urban,2-5 Lakh,Advanced,"Design, Local Language, Project Management",Media,Rural
+112,Student_112,19,Male,Diploma,8.09,1,Semi-Urban,2-5 Lakh,Advanced,"Project Management, Agriculture, MS Office",Media,Mumbai
+113,Student_113,24,Male,Diploma,7.78,1,Semi-Urban,>8 Lakh,Basic,"Teaching, Data Analysis",Media,Rural
+114,Student_114,23,Female,Postgraduate,5.71,0,Rural,5-8 Lakh,Advanced,"Local Language, Field Work",Manufacturing,Rural
+115,Student_115,21,Female,Undergraduate,8.24,0,Rural,<2 Lakh,Intermediate,"MS Office, Social Media, Teaching, Marketing",Agriculture,Hyderabad
+116,Student_116,23,Female,Diploma,8.26,1,Urban,2-5 Lakh,Intermediate,"Leadership, Local Language",IT,Rural
+117,Student_117,23,Male,Undergraduate,6.28,2,Rural,<2 Lakh,Intermediate,"English, Research",Environment,Bangalore
+118,Student_118,19,Female,Undergraduate,7.25,1,Rural,2-5 Lakh,Intermediate,"Finance, MS Office, Chemistry",Marketing,Mumbai
+119,Student_119,23,Male,High School,8.02,0,Rural,2-5 Lakh,Intermediate,"Excel, Python, Finance",Government,Mumbai
+120,Student_120,21,Male,Postgraduate,6.95,1,Semi-Urban,2-5 Lakh,Basic,"Team Work, Project Management, Communication, Excel",Government,Chennai
+121,Student_121,23,Female,Undergraduate,8.49,0,Rural,2-5 Lakh,Intermediate,"Customer Service, Data Analysis, Agriculture",Finance,Hyderabad
+122,Student_122,23,Female,Undergraduate,10.0,1,Urban,<2 Lakh,Intermediate,"Teaching, Leadership, Sales, Excel",Agriculture,Rural
+123,Student_123,20,Female,Postgraduate,6.26,0,Rural,2-5 Lakh,Basic,"Social Media, Sales, Research, Problem Solving",NGO,Rural
+124,Student_124,19,Female,Undergraduate,5.54,0,Urban,5-8 Lakh,Advanced,"Finance, Customer Service",Manufacturing,Hyderabad
+125,Student_125,19,Female,Postgraduate,7.56,0,Urban,5-8 Lakh,Intermediate,"Field Work, Research",Manufacturing,Rural
+126,Student_126,20,Female,Undergraduate,8.07,0,Urban,2-5 Lakh,Intermediate,"Team Work, Mathematics, English",Education,Mumbai
+127,Student_127,23,Male,Undergraduate,6.92,0,Urban,>8 Lakh,Basic,"Agriculture, Python, Local Language",Environment,Delhi
+128,Student_128,23,Male,Diploma,8.94,0,Rural,>8 Lakh,Intermediate,"Customer Service, Research, Local Language, Communication",Media,Rural
+129,Student_129,18,Male,Postgraduate,5.59,1,Rural,<2 Lakh,Basic,"Leadership, Teaching, Communication",Environment,Delhi
+130,Student_130,21,Male,Undergraduate,8.03,1,Rural,<2 Lakh,Basic,"Communication, Biology, Customer Service",Manufacturing,Mumbai
+131,Student_131,20,Female,Diploma,6.47,0,Rural,5-8 Lakh,Intermediate,"Leadership, Teaching",Healthcare,Rural
+132,Student_132,19,Male,High School,9.26,2,Urban,5-8 Lakh,Intermediate,"Research, Team Work",Media,Bangalore
+133,Student_133,19,Male,Undergraduate,9.59,0,Semi-Urban,>8 Lakh,Intermediate,"Data Analysis, Field Work, MS Office",Marketing,Rural
+134,Student_134,20,Male,Undergraduate,6.28,1,Urban,5-8 Lakh,Basic,"Data Analysis, Local Language, English",Finance,Mumbai
+135,Student_135,24,Female,Undergraduate,6.54,0,Urban,2-5 Lakh,Intermediate,"Teaching, Agriculture, Healthcare",Healthcare,Delhi
+136,Student_136,20,Male,Postgraduate,8.23,0,Rural,2-5 Lakh,Basic,"Teaching, Java",Healthcare,Bangalore
+137,Student_137,21,Female,High School,6.74,1,Urban,<2 Lakh,Advanced,"Excel, English, Design, Teaching",Marketing,Hyderabad
+138,Student_138,22,Male,Undergraduate,7.15,1,Urban,<2 Lakh,Intermediate,"Java, Python, MS Office, Chemistry, Leadership",Education,Bangalore
+139,Student_139,20,Male,Diploma,7.23,2,Rural,2-5 Lakh,Intermediate,"English, Teaching, Problem Solving",Manufacturing,Hyderabad
+140,Student_140,25,Female,Postgraduate,4.9,1,Rural,2-5 Lakh,Basic,"Biology, Finance, Customer Service",Environment,Rural
+141,Student_141,25,Female,Undergraduate,7.18,3,Urban,2-5 Lakh,Basic,"Field Work, Design, Customer Service, Python, Communication",Education,Any
+142,Student_142,20,Male,Undergraduate,6.37,0,Semi-Urban,5-8 Lakh,Advanced,"Excel, Field Work, Leadership",Manufacturing,Mumbai
+143,Student_143,21,Female,Undergraduate,6.61,0,Rural,<2 Lakh,Basic,"Customer Service, Java, Sales",Agriculture,Chennai
+144,Student_144,20,Female,Diploma,8.93,0,Semi-Urban,2-5 Lakh,Intermediate,"Project Management, Customer Service",Agriculture,Hyderabad
+145,Student_145,20,Male,Undergraduate,5.69,0,Urban,<2 Lakh,Intermediate,"Leadership, Design, Java, Research",Healthcare,Any
+146,Student_146,18,Female,Undergraduate,8.18,1,Rural,2-5 Lakh,Basic,"Sales, Mathematics",Healthcare,Any
+147,Student_147,21,Female,Undergraduate,6.87,1,Semi-Urban,5-8 Lakh,Intermediate,"Java, Sales, Data Analysis, Local Language, Social Media",IT,Mumbai
+148,Student_148,21,Female,Diploma,6.86,0,Rural,5-8 Lakh,Intermediate,"Local Language, Communication, Sales, Chemistry",Marketing,Rural
+149,Student_149,18,Female,Undergraduate,8.15,2,Rural,>8 Lakh,Basic,"Customer Service, Design, Team Work, Biology",Government,Bangalore
+150,Student_150,20,Female,Undergraduate,7.61,2,Urban,<2 Lakh,Basic,"Leadership, Social Media, Problem Solving, Mathematics",Agriculture,Delhi
+151,Student_151,24,Female,Diploma,7.88,0,Urban,2-5 Lakh,Basic,"Mathematics, Problem Solving, Design",Marketing,Delhi
+152,Student_152,19,Female,Diploma,8.36,0,Rural,2-5 Lakh,Advanced,"Python, Problem Solving, Biology",Healthcare,Chennai
+153,Student_153,19,Female,Undergraduate,6.8,0,Urban,2-5 Lakh,Intermediate,"MS Office, Mathematics, Design, Local Language, Biology",Education,Chennai
+154,Student_154,21,Female,Undergraduate,6.47,0,Semi-Urban,5-8 Lakh,Basic,"Mathematics, Social Media, Teaching, Problem Solving, Field Work",Healthcare,Delhi
+155,Student_155,25,Female,High School,5.9,0,Urban,5-8 Lakh,Basic,"Communication, Marketing, Java",Education,Rural
+156,Student_156,19,Female,Diploma,6.21,1,Semi-Urban,5-8 Lakh,Intermediate,"Healthcare, Social Media, Data Analysis, Finance, Sales",Manufacturing,Mumbai
+157,Student_157,22,Male,High School,10.0,0,Semi-Urban,<2 Lakh,Intermediate,"Research, Mathematics, Social Media",Government,Hyderabad
+158,Student_158,22,Female,Diploma,8.69,0,Urban,5-8 Lakh,Intermediate,"Social Media, Python, Local Language",NGO,Bangalore
+159,Student_159,19,Female,Undergraduate,5.58,3,Urban,<2 Lakh,Basic,"Data Analysis, Marketing, MS Office",NGO,Mumbai
+160,Student_160,22,Male,Undergraduate,5.61,1,Semi-Urban,5-8 Lakh,Basic,"Teaching, Excel",NGO,Bangalore
+161,Student_161,20,Female,Undergraduate,7.78,2,Semi-Urban,2-5 Lakh,Intermediate,"Chemistry, Teaching",Manufacturing,Mumbai
+162,Student_162,21,Male,Undergraduate,7.86,0,Urban,2-5 Lakh,Advanced,"Sales, English",Healthcare,Hyderabad
+163,Student_163,21,Male,Diploma,7.86,0,Urban,2-5 Lakh,Basic,"Agriculture, Marketing, Local Language",IT,Mumbai
+164,Student_164,21,Female,Undergraduate,6.89,1,Rural,>8 Lakh,Intermediate,"Customer Service, MS Office, Python",Healthcare,Chennai
+165,Student_165,18,Male,Undergraduate,7.05,0,Rural,<2 Lakh,Intermediate,"Communication, Teaching, Problem Solving",Agriculture,Mumbai
+166,Student_166,23,Female,Postgraduate,7.59,0,Urban,2-5 Lakh,Intermediate,"Project Management, Teaching, Java, Communication, Team Work",NGO,Pune
+167,Student_167,20,Female,Undergraduate,7.3,1,Rural,5-8 Lakh,Basic,"Design, Sales, Biology",Healthcare,Rural
+168,Student_168,19,Male,High School,4.54,1,Urban,2-5 Lakh,Intermediate,"Mathematics, MS Office, Design",Media,Delhi
+169,Student_169,18,Male,Undergraduate,6.92,1,Urban,<2 Lakh,Intermediate,"Team Work, Agriculture",Media,Chennai
+170,Student_170,21,Male,Diploma,6.18,1,Urban,2-5 Lakh,Intermediate,"Communication, Marketing",Agriculture,Delhi
+171,Student_171,22,Female,Undergraduate,7.41,1,Urban,2-5 Lakh,Basic,"Project Management, Data Analysis, Teaching, Java",Manufacturing,Hyderabad
+172,Student_172,18,Other,High School,10.0,0,Urban,>8 Lakh,Basic,"Field Work, Design, Python",IT,Mumbai
+173,Student_173,21,Female,Diploma,7.64,0,Rural,5-8 Lakh,Basic,"Agriculture, Mathematics, Customer Service, Local Language",Marketing,Hyderabad
+174,Student_174,19,Male,Postgraduate,6.82,0,Urban,2-5 Lakh,Intermediate,"Biology, Local Language",Manufacturing,Chennai
+175,Student_175,21,Female,Diploma,8.31,0,Urban,>8 Lakh,Basic,"Data Analysis, Sales, Design",Manufacturing,Any
+176,Student_176,19,Female,Undergraduate,7.78,3,Urban,2-5 Lakh,Intermediate,"Excel, Local Language, MS Office",Healthcare,Hyderabad
+177,Student_177,22,Female,Diploma,7.7,1,Semi-Urban,<2 Lakh,Basic,"Team Work, MS Office",NGO,Hyderabad
+178,Student_178,20,Male,Undergraduate,7.93,1,Urban,<2 Lakh,Intermediate,"Local Language, Communication",Finance,Bangalore
+179,Student_179,24,Female,Undergraduate,9.67,0,Urban,2-5 Lakh,Intermediate,"Biology, Research",Media,Any
+180,Student_180,19,Female,Undergraduate,5.84,0,Rural,<2 Lakh,Basic,"Agriculture, Research, Local Language",NGO,Rural
+181,Student_181,20,Female,Diploma,7.77,0,Semi-Urban,>8 Lakh,Basic,"Design, MS Office",Education,Mumbai
+182,Student_182,19,Male,Diploma,6.09,0,Urban,5-8 Lakh,Basic,"Marketing, Field Work, Research, Customer Service, Leadership",Environment,Rural
+183,Student_183,24,Female,High School,7.87,0,Rural,<2 Lakh,Intermediate,"Data Analysis, Design, Local Language",Manufacturing,Chennai
+184,Student_184,23,Female,Diploma,6.1,2,Rural,2-5 Lakh,Intermediate,"Marketing, Local Language",Education,Rural
+185,Student_185,20,Male,Undergraduate,6.7,1,Rural,5-8 Lakh,Basic,"Biology, Problem Solving",Education,Rural
+186,Student_186,22,Female,Postgraduate,6.85,1,Urban,>8 Lakh,Intermediate,"Team Work, Project Management, Research",Marketing,Mumbai
+187,Student_187,23,Female,Postgraduate,8.37,1,Rural,5-8 Lakh,Basic,"Marketing, Customer Service",Marketing,Rural
+188,Student_188,21,Male,Undergraduate,8.3,2,Urban,2-5 Lakh,Basic,"Python, Research, Data Analysis, Design, Mathematics",Marketing,Mumbai
+189,Student_189,21,Male,Undergraduate,5.71,0,Rural,5-8 Lakh,Basic,"Project Management, Team Work, English, MS Office, Finance",Government,Mumbai
+190,Student_190,19,Female,Undergraduate,7.27,0,Rural,2-5 Lakh,Advanced,"Finance, Local Language",Education,Mumbai
+191,Student_191,18,Male,Diploma,6.35,0,Urban,2-5 Lakh,Basic,"Data Analysis, Agriculture, Healthcare",Healthcare,Rural
+192,Student_192,23,Female,Postgraduate,5.69,2,Semi-Urban,<2 Lakh,Basic,"Mathematics, Biology",Education,Mumbai
+193,Student_193,24,Male,Undergraduate,6.94,3,Urban,<2 Lakh,Basic,"Problem Solving, Local Language, Excel, Research",Manufacturing,Delhi
+194,Student_194,21,Female,Undergraduate,6.83,0,Semi-Urban,2-5 Lakh,Basic,"Agriculture, Local Language, English",Marketing,Rural
+195,Student_195,20,Male,High School,10.0,2,Rural,<2 Lakh,Intermediate,"Team Work, MS Office, Excel",Manufacturing,Mumbai
+196,Student_196,20,Female,Undergraduate,7.72,2,Urban,<2 Lakh,Basic,"Chemistry, Social Media",Marketing,Delhi
+197,Student_197,22,Female,Undergraduate,5.55,0,Urban,5-8 Lakh,Basic,"Local Language, Research, Social Media, Mathematics",Government,Mumbai
+198,Student_198,23,Female,Postgraduate,6.52,0,Semi-Urban,<2 Lakh,Intermediate,"Data Analysis, Leadership, Python",Healthcare,Bangalore
+199,Student_199,23,Female,Undergraduate,8.43,1,Urban,2-5 Lakh,Basic,"Java, Social Media",Agriculture,Chennai
+200,Student_200,22,Male,Diploma,9.71,3,Urban,2-5 Lakh,Intermediate,"Healthcare, Team Work, Chemistry, Excel",Marketing,Delhi
+201,Student_201,21,Female,Postgraduate,5.3,0,Urban,>8 Lakh,Intermediate,"Finance, Design, English",Finance,Any
+202,Student_202,18,Male,High School,4.94,2,Rural,2-5 Lakh,Basic,"Project Management, Data Analysis, Field Work, Marketing, Healthcare",Environment,Rural
+203,Student_203,19,Male,Undergraduate,9.45,0,Rural,<2 Lakh,Intermediate,"Marketing, Social Media",Government,Bangalore
+204,Student_204,23,Male,High School,7.67,1,Urban,2-5 Lakh,Basic,"Leadership, English, Field Work, Python",Media,Bangalore
+205,Student_205,21,Male,Undergraduate,6.16,1,Urban,5-8 Lakh,Intermediate,"Chemistry, Communication, Design, Social Media",Media,Chennai
+206,Student_206,18,Female,Postgraduate,7.84,1,Urban,>8 Lakh,Intermediate,"Problem Solving, Mathematics",Finance,Pune
+207,Student_207,19,Female,Diploma,4.04,2,Urban,2-5 Lakh,Basic,"Field Work, Agriculture, Finance, Java",Government,Delhi
+208,Student_208,22,Male,Postgraduate,7.2,2,Urban,2-5 Lakh,Intermediate,"Customer Service, Social Media, Communication",Healthcare,Mumbai
+209,Student_209,18,Male,Diploma,7.59,2,Rural,>8 Lakh,Advanced,"Finance, Leadership, Mathematics, Local Language, Agriculture",Education,Rural
+210,Student_210,19,Other,Postgraduate,8.31,0,Urban,<2 Lakh,Advanced,"Customer Service, Team Work",Marketing,Mumbai
+211,Student_211,21,Male,Undergraduate,5.98,1,Urban,2-5 Lakh,Intermediate,"MS Office, Chemistry, Finance, Team Work",IT,Bangalore
+212,Student_212,22,Male,Undergraduate,7.3,0,Urban,2-5 Lakh,Intermediate,"Biology, Agriculture, Design",Manufacturing,Rural
+213,Student_213,22,Male,High School,6.09,1,Semi-Urban,<2 Lakh,Basic,"Customer Service, Finance, Problem Solving, Biology, Healthcare",Agriculture,Pune
+214,Student_214,19,Female,Postgraduate,7.51,1,Semi-Urban,2-5 Lakh,Basic,"Finance, Teaching, Chemistry",Media,Bangalore
+215,Student_215,22,Female,Undergraduate,6.13,1,Semi-Urban,<2 Lakh,Intermediate,"Social Media, English, Teaching, Chemistry, Agriculture",Manufacturing,Rural
+216,Student_216,19,Male,Diploma,6.71,1,Urban,5-8 Lakh,Basic,"Healthcare, English, Social Media, Teaching, Finance",Agriculture,Delhi
+217,Student_217,20,Male,Undergraduate,6.01,3,Urban,>8 Lakh,Advanced,"Excel, Field Work, Research",Government,Rural
+218,Student_218,22,Female,Diploma,7.98,0,Urban,<2 Lakh,Basic,"Social Media, Teaching, MS Office, Customer Service",Agriculture,Chennai
+219,Student_219,21,Female,Postgraduate,8.23,1,Urban,5-8 Lakh,Basic,"Excel, Leadership, Social Media, Marketing, Field Work",Manufacturing,Rural
+220,Student_220,23,Male,High School,6.92,0,Rural,<2 Lakh,Basic,"Leadership, Field Work, Data Analysis",Environment,Any
+221,Student_221,22,Female,Undergraduate,7.25,0,Rural,2-5 Lakh,Intermediate,"Excel, Design, MS Office",Media,Any
+222,Student_222,21,Male,Undergraduate,5.46,0,Semi-Urban,<2 Lakh,Intermediate,"Customer Service, Finance, Design",Education,Any
+223,Student_223,18,Male,High School,6.84,2,Semi-Urban,>8 Lakh,Intermediate,"Java, Data Analysis, Design",Marketing,Chennai
+224,Student_224,20,Female,Diploma,7.14,2,Urban,5-8 Lakh,Basic,"Marketing, Chemistry",Agriculture,Bangalore
+225,Student_225,20,Male,High School,10.0,2,Rural,5-8 Lakh,Intermediate,"Project Management, Field Work",Media,Chennai
+226,Student_226,19,Female,Undergraduate,5.87,3,Urban,5-8 Lakh,Basic,"Python, Chemistry, Project Management",Finance,Rural
+227,Student_227,25,Male,Diploma,8.96,0,Urban,2-5 Lakh,Advanced,"Marketing, Healthcare, Python",Government,Any
+228,Student_228,20,Male,Undergraduate,8.4,0,Rural,>8 Lakh,Intermediate,"Sales, Research",Agriculture,Mumbai
+229,Student_229,23,Other,Diploma,7.54,1,Urban,5-8 Lakh,Basic,"Chemistry, Marketing, Design, Customer Service, Biology",Education,Any
+230,Student_230,21,Male,Diploma,9.31,1,Urban,>8 Lakh,Intermediate,"Biology, Customer Service, Mathematics, Team Work",Manufacturing,Rural
+231,Student_231,22,Female,Undergraduate,7.65,1,Urban,2-5 Lakh,Intermediate,"Social Media, Healthcare",Agriculture,Any
+232,Student_232,21,Male,High School,7.67,0,Rural,<2 Lakh,Basic,"Social Media, Teaching, Design, Healthcare",Marketing,Any
+233,Student_233,21,Male,Postgraduate,7.14,1,Rural,2-5 Lakh,Advanced,"Python, Marketing, MS Office, Local Language",Environment,Mumbai
+234,Student_234,21,Male,Postgraduate,8.67,1,Urban,<2 Lakh,Intermediate,"Local Language, Mathematics, Marketing, Biology, Problem Solving",Government,Delhi
+235,Student_235,19,Female,Undergraduate,8.52,0,Semi-Urban,2-5 Lakh,Basic,"Finance, Leadership",Media,Delhi
+236,Student_236,22,Male,Undergraduate,6.45,1,Urban,2-5 Lakh,Basic,"Team Work, Customer Service",Finance,Mumbai
+237,Student_237,20,Female,Postgraduate,5.62,1,Urban,2-5 Lakh,Intermediate,"Python, Marketing, Project Management, Local Language, Excel",Agriculture,Pune
+238,Student_238,18,Male,Diploma,6.96,1,Rural,<2 Lakh,Intermediate,"English, Design, Leadership, Finance, Problem Solving",Manufacturing,Rural
+239,Student_239,21,Female,High School,6.24,0,Rural,<2 Lakh,Intermediate,"Java, Teaching, Marketing, MS Office",Marketing,Any
+240,Student_240,19,Male,Diploma,7.12,1,Semi-Urban,2-5 Lakh,Intermediate,"Data Analysis, Finance, MS Office, Chemistry",Manufacturing,Pune
+241,Student_241,24,Female,Undergraduate,8.68,0,Urban,>8 Lakh,Intermediate,"Marketing, Teaching",Agriculture,Delhi
+242,Student_242,25,Female,High School,6.65,0,Rural,2-5 Lakh,Advanced,"Chemistry, Design, Teaching",Healthcare,Mumbai
+243,Student_243,24,Female,Undergraduate,7.15,2,Rural,2-5 Lakh,Intermediate,"Excel, Healthcare",Media,Delhi
+244,Student_244,20,Female,Postgraduate,7.27,1,Semi-Urban,5-8 Lakh,Intermediate,"Python, Biology",Finance,Bangalore
+245,Student_245,18,Female,Postgraduate,8.22,0,Urban,2-5 Lakh,Basic,"Customer Service, Java, Sales, Social Media",Media,Chennai
+246,Student_246,24,Female,Undergraduate,4.5,1,Rural,<2 Lakh,Basic,"English, Excel",NGO,Delhi
+247,Student_247,20,Male,High School,6.47,1,Rural,2-5 Lakh,Basic,"Chemistry, English, Java",Education,Bangalore
+248,Student_248,25,Male,Undergraduate,7.45,2,Urban,<2 Lakh,Intermediate,"Chemistry, Python, Social Media, Data Analysis, Team Work",Environment,Mumbai
+249,Student_249,25,Female,Undergraduate,8.64,1,Rural,>8 Lakh,Advanced,"Leadership, Social Media",NGO,Pune
+250,Student_250,23,Female,High School,6.61,1,Urban,<2 Lakh,Basic,"Leadership, Healthcare, Local Language, Communication, Project Management",IT,Chennai
+251,Student_251,20,Female,High School,4.95,1,Rural,2-5 Lakh,Basic,"Data Analysis, Finance, Field Work, Teaching, Chemistry",Government,Chennai
+252,Student_252,20,Male,Postgraduate,7.94,0,Semi-Urban,<2 Lakh,Advanced,"Sales, Problem Solving, Team Work",Finance,Chennai
+253,Student_253,23,Male,Undergraduate,6.44,0,Rural,<2 Lakh,Basic,"Team Work, Biology",Government,Any
+254,Student_254,20,Male,Undergraduate,5.77,1,Rural,5-8 Lakh,Intermediate,"Field Work, Communication, Chemistry",Marketing,Mumbai
+255,Student_255,19,Female,Postgraduate,6.45,1,Rural,<2 Lakh,Intermediate,"Problem Solving, Research, Communication",Healthcare,Chennai
+256,Student_256,21,Male,Undergraduate,6.98,1,Urban,<2 Lakh,Intermediate,"Project Management, Python, Research",Manufacturing,Rural
+257,Student_257,24,Male,Undergraduate,6.47,0,Urban,2-5 Lakh,Basic,"Project Management, Local Language, Marketing",Environment,Hyderabad
+258,Student_258,22,Male,Undergraduate,4.55,0,Rural,<2 Lakh,Basic,"Marketing, Field Work, Data Analysis, Excel, Project Management",Government,Any
+259,Student_259,21,Male,Diploma,8.28,1,Urban,<2 Lakh,Intermediate,"Field Work, English",Education,Bangalore
+260,Student_260,18,Female,Undergraduate,8.73,0,Urban,5-8 Lakh,Advanced,"Social Media, Communication, Field Work, Chemistry",Environment,Chennai
+261,Student_261,21,Male,Undergraduate,7.98,1,Rural,5-8 Lakh,Intermediate,"Research, Local Language",Marketing,Delhi
+262,Student_262,25,Female,Undergraduate,5.83,0,Urban,>8 Lakh,Basic,"Team Work, Mathematics, Communication",Finance,Pune
+263,Student_263,19,Male,Postgraduate,6.96,1,Urban,5-8 Lakh,Intermediate,"Mathematics, Project Management, Java, Sales, Customer Service",Marketing,Mumbai
+264,Student_264,21,Male,Undergraduate,7.19,2,Rural,5-8 Lakh,Advanced,"Design, Local Language, Sales",Environment,Mumbai
+265,Student_265,23,Male,Undergraduate,7.92,0,Urban,<2 Lakh,Intermediate,"Excel, Agriculture",Education,Hyderabad
+266,Student_266,22,Male,Undergraduate,8.0,1,Semi-Urban,5-8 Lakh,Advanced,"English, MS Office, Python, Design",Manufacturing,Hyderabad
+267,Student_267,22,Male,Undergraduate,6.32,0,Semi-Urban,5-8 Lakh,Basic,"Healthcare, Communication, Design, Sales",Manufacturing,Delhi
+268,Student_268,22,Male,Undergraduate,7.3,1,Rural,5-8 Lakh,Basic,"English, Finance, Field Work, Leadership",Healthcare,Rural
+269,Student_269,20,Female,Diploma,7.75,1,Urban,2-5 Lakh,Intermediate,"Design, Problem Solving, Biology",Government,Pune
+270,Student_270,20,Male,Undergraduate,8.95,1,Rural,<2 Lakh,Intermediate,"Agriculture, English, Teaching",Media,Mumbai
+271,Student_271,23,Female,High School,8.05,1,Semi-Urban,5-8 Lakh,Basic,"Team Work, Mathematics, Customer Service, Chemistry, Healthcare",Government,Chennai
+272,Student_272,23,Female,Diploma,8.15,2,Rural,5-8 Lakh,Basic,"Finance, Design, Biology, Project Management, Teaching",Media,Rural
+273,Student_273,23,Female,Undergraduate,7.3,0,Urban,>8 Lakh,Intermediate,"MS Office, Social Media, Excel",Manufacturing,Hyderabad
+274,Student_274,24,Male,Undergraduate,8.89,0,Rural,<2 Lakh,Basic,"Teaching, Finance, Social Media, Chemistry",NGO,Bangalore
+275,Student_275,21,Male,Postgraduate,7.69,2,Semi-Urban,<2 Lakh,Basic,"Finance, Project Management, Team Work",NGO,Bangalore
+276,Student_276,21,Male,Undergraduate,6.17,1,Rural,<2 Lakh,Intermediate,"Local Language, Marketing, MS Office",Manufacturing,Pune
+277,Student_277,22,Male,Undergraduate,8.88,2,Rural,5-8 Lakh,Intermediate,"Python, Healthcare",NGO,Any
+278,Student_278,21,Other,Undergraduate,8.04,1,Rural,<2 Lakh,Intermediate,"MS Office, Problem Solving, Healthcare",IT,Pune
+279,Student_279,22,Male,Undergraduate,6.67,2,Rural,<2 Lakh,Basic,"Data Analysis, Sales, Mathematics",Agriculture,Delhi
+280,Student_280,22,Male,High School,6.62,1,Urban,>8 Lakh,Intermediate,"Teaching, MS Office",NGO,Chennai
+281,Student_281,23,Female,Diploma,7.56,1,Rural,<2 Lakh,Intermediate,"Teaching, Team Work, Field Work",Media,Any
+282,Student_282,20,Female,Diploma,7.76,2,Urban,5-8 Lakh,Intermediate,"Teaching, Customer Service, Python, Agriculture",Environment,Delhi
+283,Student_283,20,Female,Undergraduate,7.44,1,Urban,2-5 Lakh,Intermediate,"Data Analysis, Excel, Social Media, Biology",Healthcare,Any
+284,Student_284,18,Male,High School,7.57,0,Urban,5-8 Lakh,Basic,"Design, Healthcare, Customer Service, Chemistry",Healthcare,Any
+285,Student_285,21,Male,High School,9.24,0,Rural,2-5 Lakh,Basic,"Social Media, Field Work, Healthcare, English, Finance",Finance,Delhi
+286,Student_286,18,Male,Diploma,8.49,0,Urban,>8 Lakh,Basic,"Mathematics, Python",Environment,Any
+287,Student_287,21,Male,Postgraduate,7.43,0,Rural,>8 Lakh,Basic,"Excel, Research, Social Media",Environment,Bangalore
+288,Student_288,21,Male,Diploma,8.33,0,Rural,<2 Lakh,Intermediate,"Marketing, Field Work, Social Media, Research",Agriculture,Rural
+289,Student_289,20,Male,Undergraduate,5.96,1,Urban,<2 Lakh,Intermediate,"Local Language, Project Management, Sales",Education,Bangalore
+290,Student_290,21,Male,Diploma,7.68,1,Urban,<2 Lakh,Intermediate,"Healthcare, Customer Service, Agriculture",Environment,Chennai
+291,Student_291,18,Male,Undergraduate,9.37,1,Urban,5-8 Lakh,Intermediate,"Sales, Design",Media,Pune
+292,Student_292,18,Male,Diploma,6.94,1,Semi-Urban,5-8 Lakh,Basic,"Biology, Customer Service, MS Office, Sales, Field Work",IT,Rural
+293,Student_293,23,Female,Diploma,6.18,0,Rural,2-5 Lakh,Intermediate,"Finance, Teaching, Research",Media,Delhi
+294,Student_294,20,Female,Undergraduate,6.42,0,Rural,2-5 Lakh,Basic,"Teaching, Social Media, Communication, Biology, Data Analysis",Environment,Hyderabad
+295,Student_295,19,Female,High School,5.89,0,Urban,<2 Lakh,Basic,"MS Office, Communication, Biology",Environment,Mumbai
+296,Student_296,21,Male,High School,6.26,1,Rural,5-8 Lakh,Basic,"Customer Service, Chemistry, Field Work, Problem Solving",Environment,Bangalore
+297,Student_297,22,Male,Diploma,6.76,0,Semi-Urban,>8 Lakh,Intermediate,"Data Analysis, Biology, Healthcare, Teaching",Manufacturing,Bangalore
+298,Student_298,19,Male,High School,5.51,0,Semi-Urban,<2 Lakh,Advanced,"Biology, Project Management, Chemistry, Agriculture",Agriculture,Chennai
+299,Student_299,21,Female,High School,7.22,1,Rural,2-5 Lakh,Basic,"Team Work, Research, Communication",Manufacturing,Bangalore
+300,Student_300,18,Female,Diploma,8.28,2,Urban,<2 Lakh,Basic,"Data Analysis, Research, Social Media",Healthcare,Delhi
+301,Student_301,18,Male,Undergraduate,6.11,0,Urban,2-5 Lakh,Intermediate,"Sales, Problem Solving, Research, Python",IT,Delhi
+302,Student_302,21,Female,Undergraduate,9.02,1,Urban,2-5 Lakh,Basic,"Field Work, Customer Service, Leadership",Healthcare,Delhi
+303,Student_303,21,Male,Undergraduate,7.81,1,Urban,<2 Lakh,Intermediate,"Teaching, Java, Customer Service",Marketing,Chennai
+304,Student_304,21,Female,Diploma,8.44,2,Urban,2-5 Lakh,Intermediate,"Research, Field Work",Finance,Any
+305,Student_305,22,Female,Postgraduate,6.41,2,Urban,2-5 Lakh,Advanced,"Leadership, English, Chemistry, Healthcare, Communication",NGO,Delhi
+306,Student_306,25,Female,Diploma,8.23,0,Urban,2-5 Lakh,Intermediate,"Python, Project Management",NGO,Any
+307,Student_307,21,Female,High School,5.89,0,Semi-Urban,2-5 Lakh,Intermediate,"Research, Healthcare, Finance, MS Office",NGO,Rural
+308,Student_308,20,Female,Undergraduate,8.27,2,Rural,<2 Lakh,Intermediate,"Problem Solving, Java, Teaching",Media,Pune
+309,Student_309,22,Male,High School,7.41,1,Semi-Urban,5-8 Lakh,Intermediate,"Healthcare, Communication, Excel",Media,Pune
+310,Student_310,20,Female,Diploma,7.86,1,Rural,5-8 Lakh,Intermediate,"Marketing, Healthcare, Excel, Project Management",Finance,Rural
+311,Student_311,20,Male,Undergraduate,5.79,1,Urban,2-5 Lakh,Basic,"English, Local Language",Government,Delhi
+312,Student_312,18,Female,Postgraduate,6.13,1,Rural,<2 Lakh,Intermediate,"Java, Leadership, Mathematics",Agriculture,Chennai
+313,Student_313,18,Female,Undergraduate,7.92,2,Urban,5-8 Lakh,Intermediate,"Project Management, Research, Excel, Social Media",Manufacturing,Rural
+314,Student_314,25,Female,Undergraduate,6.06,3,Rural,>8 Lakh,Intermediate,"Communication, Customer Service, Chemistry, Design",Government,Hyderabad
+315,Student_315,23,Male,Postgraduate,7.76,1,Urban,<2 Lakh,Intermediate,"Team Work, Mathematics",Environment,Rural
+316,Student_316,22,Female,High School,5.56,0,Semi-Urban,2-5 Lakh,Intermediate,"Team Work, Social Media, Chemistry, Agriculture, Marketing",Media,Delhi
+317,Student_317,20,Female,Diploma,8.22,2,Urban,<2 Lakh,Basic,"Finance, Research, Project Management, Design",NGO,Rural
+318,Student_318,19,Female,Diploma,5.72,0,Urban,2-5 Lakh,Intermediate,"Research, Project Management, Team Work, Java, Biology",Education,Hyderabad
+319,Student_319,19,Male,Undergraduate,7.86,0,Semi-Urban,<2 Lakh,Intermediate,"Communication, Chemistry, Data Analysis",Agriculture,Bangalore
+320,Student_320,20,Male,Undergraduate,7.95,2,Urban,2-5 Lakh,Advanced,"English, Data Analysis, Teaching",IT,Bangalore
+321,Student_321,21,Male,Postgraduate,6.36,0,Rural,5-8 Lakh,Advanced,"Local Language, Excel, Problem Solving, Social Media, Customer Service",Government,Pune
+322,Student_322,22,Male,Undergraduate,7.9,0,Rural,2-5 Lakh,Basic,"Excel, Problem Solving, Python, Design, Finance",Healthcare,Any
+323,Student_323,22,Female,Undergraduate,7.51,0,Semi-Urban,2-5 Lakh,Intermediate,"Field Work, Team Work, Healthcare",Marketing,Chennai
+324,Student_324,20,Male,Diploma,6.55,2,Semi-Urban,2-5 Lakh,Basic,"Research, Java, Social Media",Manufacturing,Rural
+325,Student_325,25,Female,Undergraduate,5.99,1,Semi-Urban,2-5 Lakh,Basic,"Research, Field Work, Finance",Healthcare,Bangalore
+326,Student_326,22,Male,Postgraduate,4.84,1,Urban,<2 Lakh,Intermediate,"Excel, Local Language, Social Media",Healthcare,Delhi
+327,Student_327,21,Male,Undergraduate,7.62,0,Semi-Urban,<2 Lakh,Basic,"Teaching, Mathematics, English",Education,Delhi
+328,Student_328,21,Female,High School,5.32,2,Rural,5-8 Lakh,Intermediate,"Project Management, Local Language, Mathematics",Agriculture,Delhi
+329,Student_329,20,Female,Undergraduate,7.31,2,Rural,<2 Lakh,Basic,"Data Analysis, Design, Communication, Customer Service, Social Media",Marketing,Bangalore
+330,Student_330,19,Male,High School,6.88,0,Urban,5-8 Lakh,Basic,"English, Leadership",Agriculture,Bangalore
+331,Student_331,20,Female,Diploma,8.01,1,Rural,>8 Lakh,Intermediate,"Teaching, Leadership, Excel, Java",Government,Rural
+332,Student_332,22,Female,High School,6.84,0,Semi-Urban,<2 Lakh,Intermediate,"Problem Solving, Mathematics",Finance,Rural
+333,Student_333,18,Male,Undergraduate,6.8,3,Semi-Urban,2-5 Lakh,Advanced,"Research, Team Work, Biology",NGO,Delhi
+334,Student_334,19,Other,Undergraduate,8.08,1,Urban,2-5 Lakh,Intermediate,"Project Management, Research",Government,Mumbai
+335,Student_335,18,Female,High School,7.6,2,Urban,5-8 Lakh,Intermediate,"Finance, Communication, Field Work",Agriculture,Mumbai
+336,Student_336,18,Female,Diploma,7.58,0,Urban,>8 Lakh,Basic,"Research, Field Work, Marketing, Teaching",Government,Hyderabad
+337,Student_337,23,Male,Undergraduate,7.76,2,Semi-Urban,5-8 Lakh,Basic,"Agriculture, Customer Service, Healthcare, Finance, Excel",Healthcare,Delhi
+338,Student_338,22,Female,Diploma,5.36,2,Rural,<2 Lakh,Basic,"Team Work, Java",Government,Delhi
+339,Student_339,21,Male,High School,8.11,1,Rural,5-8 Lakh,Intermediate,"Design, Biology, MS Office",Government,Any
+340,Student_340,18,Male,Undergraduate,7.93,3,Urban,2-5 Lakh,Intermediate,"Team Work, Teaching, Python",Agriculture,Rural
+341,Student_341,21,Male,Undergraduate,5.98,0,Urban,2-5 Lakh,Intermediate,"Excel, Social Media, Local Language, Project Management, Python",Healthcare,Mumbai
+342,Student_342,21,Male,High School,6.91,0,Rural,<2 Lakh,Intermediate,"Chemistry, Local Language, Teaching, Project Management",Marketing,Bangalore
+343,Student_343,19,Female,High School,7.15,1,Semi-Urban,<2 Lakh,Intermediate,"Java, Chemistry, Problem Solving",IT,Bangalore
+344,Student_344,20,Female,Diploma,7.04,1,Rural,5-8 Lakh,Basic,"Healthcare, Agriculture, English, Finance",Healthcare,Rural
+345,Student_345,20,Female,Postgraduate,7.6,1,Urban,2-5 Lakh,Basic,"Teaching, Problem Solving, Project Management, Design",IT,Chennai
+346,Student_346,21,Male,Undergraduate,8.92,0,Rural,2-5 Lakh,Intermediate,"English, Healthcare",Agriculture,Delhi
+347,Student_347,21,Male,Undergraduate,8.5,1,Urban,2-5 Lakh,Intermediate,"Excel, Healthcare, Sales",Environment,Rural
+348,Student_348,18,Male,Diploma,5.63,0,Semi-Urban,5-8 Lakh,Advanced,"Design, MS Office, Local Language, Communication, Problem Solving",Healthcare,Bangalore
+349,Student_349,20,Other,Undergraduate,7.95,1,Urban,5-8 Lakh,Basic,"MS Office, Design, Field Work, Healthcare",Environment,Mumbai
+350,Student_350,21,Male,High School,8.79,1,Rural,<2 Lakh,Advanced,"Research, Local Language, Marketing",Education,Bangalore
+351,Student_351,21,Female,Undergraduate,7.66,1,Urban,<2 Lakh,Basic,"Chemistry, Customer Service, Java",Finance,Chennai
+352,Student_352,23,Female,Postgraduate,8.51,0,Rural,<2 Lakh,Basic,"Finance, Excel, MS Office",NGO,Bangalore
+353,Student_353,22,Male,Undergraduate,9.61,1,Rural,>8 Lakh,Advanced,"Teaching, MS Office, Communication",Education,Mumbai
+354,Student_354,19,Female,Postgraduate,8.43,0,Rural,2-5 Lakh,Basic,"Chemistry, Marketing, Agriculture, Python",NGO,Bangalore
+355,Student_355,18,Male,Undergraduate,7.5,0,Urban,2-5 Lakh,Intermediate,"Local Language, Customer Service, Finance",Education,Delhi
+356,Student_356,21,Female,High School,8.45,2,Urban,2-5 Lakh,Basic,"Design, Java, Data Analysis, Agriculture",Agriculture,Rural
+357,Student_357,18,Female,Postgraduate,7.37,2,Urban,2-5 Lakh,Intermediate,"Sales, Team Work, Chemistry, Healthcare, English",NGO,Mumbai
+358,Student_358,21,Male,High School,7.23,0,Rural,5-8 Lakh,Advanced,"Finance, Chemistry",Manufacturing,Delhi
+359,Student_359,24,Male,Undergraduate,6.78,2,Urban,2-5 Lakh,Basic,"Java, Data Analysis, Teaching",Government,Pune
+360,Student_360,21,Female,High School,9.08,2,Rural,<2 Lakh,Intermediate,"Customer Service, Leadership, Research",Finance,Rural
+361,Student_361,20,Female,High School,6.22,2,Semi-Urban,<2 Lakh,Basic,"Finance, Field Work, Healthcare, Communication",Manufacturing,Rural
+362,Student_362,21,Male,Undergraduate,9.04,0,Semi-Urban,2-5 Lakh,Intermediate,"Python, English",Environment,Chennai
+363,Student_363,21,Female,Diploma,7.8,3,Urban,>8 Lakh,Basic,"Team Work, Mathematics, Social Media, Field Work",Education,Mumbai
+364,Student_364,21,Female,Undergraduate,5.52,0,Rural,2-5 Lakh,Basic,"Problem Solving, Research, Customer Service, Python, Design",Education,Rural
+365,Student_365,24,Female,Undergraduate,7.64,0,Urban,5-8 Lakh,Basic,"Excel, Social Media, Communication",Environment,Rural
+366,Student_366,20,Male,High School,4.68,0,Rural,5-8 Lakh,Basic,"Finance, Communication, English, Leadership, Healthcare",Environment,Mumbai
+367,Student_367,25,Female,High School,7.95,1,Semi-Urban,<2 Lakh,Advanced,"Field Work, Research, Agriculture, Teaching, Design",Manufacturing,Any
+368,Student_368,24,Female,Undergraduate,8.26,0,Urban,<2 Lakh,Basic,"Healthcare, Social Media",Manufacturing,Delhi
+369,Student_369,19,Male,Diploma,6.49,0,Urban,<2 Lakh,Basic,"Finance, Customer Service",IT,Any
+370,Student_370,18,Male,Undergraduate,7.35,0,Semi-Urban,5-8 Lakh,Intermediate,"Leadership, Marketing, Data Analysis, Team Work, Agriculture",Media,Rural
+371,Student_371,19,Female,Undergraduate,9.54,2,Semi-Urban,<2 Lakh,Basic,"Biology, Leadership, Excel, Teaching, Chemistry",Finance,Rural
+372,Student_372,18,Male,Undergraduate,6.59,2,Urban,2-5 Lakh,Intermediate,"Mathematics, Design",Government,Any
+373,Student_373,18,Female,Undergraduate,5.93,0,Rural,2-5 Lakh,Advanced,"MS Office, Mathematics",Media,Rural
+374,Student_374,22,Male,Undergraduate,8.98,2,Urban,5-8 Lakh,Intermediate,"Agriculture, Teaching",Manufacturing,Mumbai
+375,Student_375,18,Male,Undergraduate,9.56,2,Urban,<2 Lakh,Advanced,"Python, Research, Biology, Project Management, Local Language",Manufacturing,Chennai
+376,Student_376,20,Female,Diploma,7.2,2,Semi-Urban,2-5 Lakh,Intermediate,"Healthcare, Leadership",IT,Delhi
+377,Student_377,23,Male,Diploma,8.41,0,Semi-Urban,2-5 Lakh,Basic,"Finance, Customer Service, Healthcare",Finance,Bangalore
+378,Student_378,18,Male,Undergraduate,8.81,1,Rural,2-5 Lakh,Intermediate,"Sales, MS Office, Customer Service, Chemistry",Finance,Rural
+379,Student_379,23,Male,Undergraduate,6.31,2,Urban,5-8 Lakh,Intermediate,"Customer Service, Marketing",Marketing,Bangalore
+380,Student_380,20,Female,Undergraduate,6.62,1,Semi-Urban,<2 Lakh,Intermediate,"Finance, MS Office, Data Analysis, Field Work",Healthcare,Bangalore
+381,Student_381,19,Male,Undergraduate,8.68,0,Urban,5-8 Lakh,Advanced,"Social Media, Project Management, Marketing",Media,Hyderabad
+382,Student_382,22,Male,Postgraduate,9.22,1,Urban,5-8 Lakh,Intermediate,"Social Media, Chemistry, Design, Java, MS Office",Healthcare,Rural
+383,Student_383,21,Female,Postgraduate,7.88,1,Rural,2-5 Lakh,Advanced,"Biology, Healthcare, Field Work",NGO,Delhi
+384,Student_384,23,Male,Undergraduate,6.14,1,Urban,5-8 Lakh,Intermediate,"Mathematics, Marketing, Local Language, English",Education,Bangalore
+385,Student_385,22,Female,Diploma,9.58,0,Rural,2-5 Lakh,Intermediate,"Leadership, Healthcare, Java, Agriculture",Agriculture,Mumbai
+386,Student_386,23,Male,Undergraduate,6.56,0,Rural,<2 Lakh,Intermediate,"Project Management, MS Office",Agriculture,Rural
+387,Student_387,20,Female,Diploma,6.8,2,Urban,5-8 Lakh,Basic,"Communication, Finance",Finance,Delhi
+388,Student_388,19,Male,Undergraduate,7.61,2,Urban,2-5 Lakh,Advanced,"Communication, Agriculture, Finance",Government,Pune
+389,Student_389,22,Female,Undergraduate,9.06,0,Urban,2-5 Lakh,Intermediate,"Python, Biology, Leadership",Healthcare,Mumbai
+390,Student_390,23,Male,Undergraduate,8.22,3,Urban,2-5 Lakh,Basic,"Design, English, Leadership, Excel",Marketing,Mumbai
+391,Student_391,25,Male,Diploma,7.7,0,Rural,>8 Lakh,Basic,"Healthcare, Mathematics, Teaching, MS Office",Environment,Any
+392,Student_392,20,Male,Diploma,7.76,1,Semi-Urban,2-5 Lakh,Intermediate,"Team Work, Field Work, Marketing",Government,Delhi
+393,Student_393,20,Male,Undergraduate,7.25,2,Urban,<2 Lakh,Basic,"English, Excel, MS Office, Local Language",NGO,Chennai
+394,Student_394,22,Male,High School,7.87,2,Urban,2-5 Lakh,Basic,"Customer Service, Marketing, MS Office, English",Environment,Delhi
+395,Student_395,20,Male,Postgraduate,4.16,2,Rural,5-8 Lakh,Intermediate,"Field Work, Chemistry, Healthcare, Customer Service",Agriculture,Chennai
+396,Student_396,24,Female,Diploma,6.84,0,Semi-Urban,5-8 Lakh,Basic,"Java, Team Work, Excel",Media,Chennai
+397,Student_397,23,Male,Diploma,7.49,2,Urban,2-5 Lakh,Intermediate,"Social Media, English, Local Language",Manufacturing,Bangalore
+398,Student_398,20,Male,High School,5.82,0,Urban,5-8 Lakh,Basic,"Research, Social Media, Biology",Media,Delhi
+399,Student_399,22,Female,Undergraduate,7.66,1,Rural,<2 Lakh,Basic,"Excel, Design, Communication",Manufacturing,Bangalore
+400,Student_400,22,Female,Undergraduate,6.95,1,Urban,2-5 Lakh,Intermediate,"Chemistry, English, Field Work",Media,Pune
+401,Student_401,19,Male,Diploma,9.31,1,Urban,5-8 Lakh,Intermediate,"Communication, Finance, Problem Solving",Healthcare,Rural
+402,Student_402,24,Male,High School,9.09,0,Rural,5-8 Lakh,Basic,"Field Work, Research",Agriculture,Hyderabad
+403,Student_403,21,Male,Undergraduate,6.64,2,Rural,5-8 Lakh,Basic,"Python, Java, MS Office, Mathematics",Agriculture,Hyderabad
+404,Student_404,23,Female,Diploma,7.02,0,Rural,5-8 Lakh,Intermediate,"Java, Research",Government,Mumbai
+405,Student_405,20,Female,Undergraduate,7.11,0,Rural,<2 Lakh,Basic,"Sales, Design",Media,Mumbai
+406,Student_406,23,Male,Undergraduate,6.66,1,Rural,5-8 Lakh,Basic,"Leadership, Social Media, Agriculture",Education,Mumbai
+407,Student_407,20,Female,Diploma,7.43,1,Urban,2-5 Lakh,Basic,"Design, Project Management",Environment,Mumbai
+408,Student_408,18,Female,Diploma,6.29,2,Urban,<2 Lakh,Intermediate,"Local Language, Mathematics, Problem Solving",Marketing,Mumbai
+409,Student_409,24,Female,Postgraduate,5.84,0,Urban,<2 Lakh,Intermediate,"Problem Solving, Excel, Team Work",Media,Chennai
+410,Student_410,18,Female,Undergraduate,7.95,0,Urban,2-5 Lakh,Intermediate,"Marketing, Team Work, Local Language",Media,Hyderabad
+411,Student_411,20,Male,Undergraduate,7.96,2,Rural,<2 Lakh,Intermediate,"Social Media, Healthcare, Project Management",Healthcare,Any
+412,Student_412,25,Male,High School,6.23,1,Semi-Urban,2-5 Lakh,Intermediate,"Leadership, Social Media",Environment,Mumbai
+413,Student_413,25,Male,Undergraduate,8.27,0,Semi-Urban,<2 Lakh,Intermediate,"Finance, English",Education,Pune
+414,Student_414,21,Male,High School,6.44,1,Rural,<2 Lakh,Intermediate,"Teaching, Finance, Local Language, Python, Mathematics",Agriculture,Rural
+415,Student_415,21,Female,Undergraduate,7.5,1,Urban,2-5 Lakh,Basic,"Finance, Research, Local Language",Healthcare,Hyderabad
+416,Student_416,20,Female,Postgraduate,8.18,1,Urban,2-5 Lakh,Intermediate,"Customer Service, Problem Solving, Excel",Finance,Mumbai
+417,Student_417,20,Male,Diploma,7.16,1,Semi-Urban,2-5 Lakh,Intermediate,"Finance, Sales",Marketing,Mumbai
+418,Student_418,20,Male,High School,7.75,2,Rural,5-8 Lakh,Intermediate,"Project Management, Research, English",Healthcare,Delhi
+419,Student_419,22,Male,High School,6.58,2,Rural,5-8 Lakh,Basic,"Design, Field Work, Teaching",Education,Bangalore
+420,Student_420,22,Female,Diploma,6.96,1,Rural,5-8 Lakh,Basic,"Finance, Research, Data Analysis",Agriculture,Rural
+421,Student_421,22,Male,Diploma,6.95,0,Rural,2-5 Lakh,Intermediate,"Marketing, Healthcare, Communication, Social Media",Education,Delhi
+422,Student_422,22,Male,High School,6.3,2,Semi-Urban,5-8 Lakh,Intermediate,"Marketing, Project Management",NGO,Mumbai
+423,Student_423,18,Male,Undergraduate,6.99,1,Urban,<2 Lakh,Advanced,"Sales, Project Management, Research",Manufacturing,Rural
+424,Student_424,21,Male,Undergraduate,5.34,1,Rural,<2 Lakh,Basic,"Field Work, Research, Python, Local Language",Manufacturing,Rural
+425,Student_425,18,Other,Diploma,6.61,0,Semi-Urban,2-5 Lakh,Intermediate,"Marketing, Teaching, Python, Project Management, Local Language",Media,Chennai
+426,Student_426,21,Female,Postgraduate,6.86,2,Urban,5-8 Lakh,Intermediate,"Chemistry, Biology",Education,Rural
+427,Student_427,20,Male,High School,6.89,1,Rural,<2 Lakh,Advanced,"Java, Team Work, Biology",Media,Bangalore
+428,Student_428,23,Female,Postgraduate,6.91,0,Urban,<2 Lakh,Intermediate,"Healthcare, Research",Manufacturing,Mumbai
+429,Student_429,20,Female,Diploma,7.13,1,Semi-Urban,<2 Lakh,Intermediate,"Chemistry, Mathematics",Manufacturing,Bangalore
+430,Student_430,19,Female,Postgraduate,7.78,2,Urban,5-8 Lakh,Intermediate,"Social Media, Team Work, Mathematics",Education,Hyderabad
+431,Student_431,19,Male,Undergraduate,8.25,0,Rural,2-5 Lakh,Intermediate,"Sales, Social Media",Government,Any
+432,Student_432,22,Male,Undergraduate,6.42,3,Urban,<2 Lakh,Advanced,"English, Data Analysis, Team Work, Teaching",Environment,Delhi
+433,Student_433,21,Male,Postgraduate,5.76,1,Rural,2-5 Lakh,Basic,"Local Language, Chemistry, Biology",NGO,Chennai
+434,Student_434,19,Female,Diploma,5.95,1,Urban,2-5 Lakh,Basic,"Chemistry, Local Language",Environment,Bangalore
+435,Student_435,18,Male,Postgraduate,6.62,0,Urban,5-8 Lakh,Advanced,"Local Language, Leadership",Education,Chennai
+436,Student_436,22,Male,Diploma,6.78,0,Rural,<2 Lakh,Intermediate,"English, Communication, Java, Research",NGO,Delhi
+437,Student_437,18,Male,Diploma,6.28,2,Semi-Urban,5-8 Lakh,Intermediate,"Mathematics, Finance",Education,Bangalore
+438,Student_438,23,Female,Diploma,5.64,0,Urban,2-5 Lakh,Intermediate,"Java, Project Management, Sales, Biology",Government,Rural
+439,Student_439,22,Male,Undergraduate,6.65,2,Urban,5-8 Lakh,Basic,"Leadership, Excel, Research",Marketing,Hyderabad
+440,Student_440,18,Female,Diploma,7.42,0,Rural,<2 Lakh,Intermediate,"MS Office, Biology, Design",Education,Chennai
+441,Student_441,18,Female,Undergraduate,7.91,0,Rural,2-5 Lakh,Intermediate,"Problem Solving, Data Analysis, Leadership",Education,Mumbai
+442,Student_442,25,Male,Undergraduate,6.53,0,Semi-Urban,2-5 Lakh,Basic,"Mathematics, Customer Service",Agriculture,Mumbai
+443,Student_443,20,Female,Undergraduate,6.7,1,Urban,2-5 Lakh,Basic,"Sales, Agriculture",Government,Bangalore
+444,Student_444,20,Male,Undergraduate,6.09,3,Rural,<2 Lakh,Intermediate,"Agriculture, Teaching",Media,Rural
+445,Student_445,23,Female,Undergraduate,7.16,0,Urban,5-8 Lakh,Basic,"Problem Solving, Teaching, Healthcare",IT,Any
+446,Student_446,24,Male,Diploma,6.18,0,Urban,<2 Lakh,Advanced,"Mathematics, Research, Biology, MS Office",Agriculture,Chennai
+447,Student_447,25,Female,Diploma,7.89,0,Rural,5-8 Lakh,Basic,"Mathematics, Communication, Finance",IT,Bangalore
+448,Student_448,22,Female,Diploma,5.06,1,Rural,5-8 Lakh,Intermediate,"Excel, Leadership",Government,Rural
+449,Student_449,20,Female,High School,6.77,1,Rural,2-5 Lakh,Advanced,"Chemistry, Social Media, Local Language",Education,Chennai
+450,Student_450,18,Female,Diploma,7.56,2,Urban,5-8 Lakh,Intermediate,"Biology, Local Language, Marketing, Mathematics",Finance,Hyderabad
+451,Student_451,22,Male,Diploma,7.42,1,Urban,5-8 Lakh,Intermediate,"Customer Service, Sales, Excel, Mathematics, Marketing",Manufacturing,Mumbai
+452,Student_452,21,Female,Postgraduate,10.0,1,Urban,2-5 Lakh,Intermediate,"Python, Teaching, Customer Service",NGO,Rural
+453,Student_453,20,Female,Undergraduate,7.62,0,Semi-Urban,5-8 Lakh,Basic,"Communication, Finance, Sales",NGO,Hyderabad
+454,Student_454,24,Female,Diploma,6.0,3,Urban,<2 Lakh,Basic,"Local Language, Biology, Teaching",Environment,Rural
+455,Student_455,19,Male,Undergraduate,7.09,0,Urban,2-5 Lakh,Advanced,"Project Management, Marketing, English, Sales, Communication",Government,Rural
+456,Student_456,21,Female,High School,5.07,0,Urban,5-8 Lakh,Intermediate,"Local Language, Social Media, Healthcare, Python",Manufacturing,Mumbai
+457,Student_457,18,Female,Undergraduate,7.1,1,Rural,2-5 Lakh,Intermediate,"Team Work, Customer Service, MS Office",Environment,Rural
+458,Student_458,21,Female,Undergraduate,6.2,1,Urban,2-5 Lakh,Basic,"Team Work, Social Media",Government,Rural
+459,Student_459,18,Male,Undergraduate,8.3,1,Semi-Urban,2-5 Lakh,Basic,"English, Excel, Finance",Manufacturing,Bangalore
+460,Student_460,19,Female,Undergraduate,6.54,1,Urban,5-8 Lakh,Basic,"Field Work, Research, English",Government,Mumbai
+461,Student_461,19,Male,Postgraduate,7.06,2,Semi-Urban,>8 Lakh,Intermediate,"Design, Communication, Leadership, Java",Government,Delhi
+462,Student_462,21,Female,Postgraduate,6.44,0,Urban,2-5 Lakh,Intermediate,"Java, Research, Healthcare",Education,Chennai
+463,Student_463,22,Male,Undergraduate,9.29,2,Rural,5-8 Lakh,Intermediate,"Communication, Social Media",Healthcare,Bangalore
+464,Student_464,21,Female,Undergraduate,6.81,1,Semi-Urban,>8 Lakh,Intermediate,"Customer Service, Leadership, Marketing, Finance",Media,Hyderabad
+465,Student_465,25,Other,Undergraduate,9.4,1,Urban,<2 Lakh,Basic,"Sales, Local Language, Biology, Field Work",IT,Mumbai
+466,Student_466,20,Male,Diploma,8.18,1,Semi-Urban,<2 Lakh,Basic,"Customer Service, Design, Project Management",Finance,Rural
+467,Student_467,20,Female,Diploma,7.78,0,Rural,5-8 Lakh,Basic,"Biology, Leadership, Design, English",Marketing,Mumbai
+468,Student_468,23,Male,High School,7.64,2,Semi-Urban,5-8 Lakh,Intermediate,"Communication, Healthcare, Team Work",IT,Mumbai
+469,Student_469,19,Female,Undergraduate,7.67,1,Rural,5-8 Lakh,Basic,"Design, Teaching, Java, Field Work, Sales",Marketing,Chennai
+470,Student_470,25,Female,Undergraduate,4.89,0,Urban,2-5 Lakh,Advanced,"Data Analysis, Finance, Social Media, Sales",Finance,Chennai
+471,Student_471,18,Female,Diploma,6.87,1,Urban,<2 Lakh,Basic,"Communication, Local Language, Sales",NGO,Mumbai
+472,Student_472,25,Female,Postgraduate,8.21,3,Urban,2-5 Lakh,Advanced,"Customer Service, English, Sales, Java",Marketing,Mumbai
+473,Student_473,18,Female,Postgraduate,7.14,1,Urban,<2 Lakh,Intermediate,"Marketing, Teaching, Data Analysis, Communication, Finance",Education,Mumbai
+474,Student_474,23,Male,Undergraduate,5.51,2,Urban,<2 Lakh,Advanced,"Excel, Local Language, Data Analysis",Government,Rural
+475,Student_475,21,Male,Undergraduate,7.14,0,Urban,5-8 Lakh,Intermediate,"English, Team Work, Python",Media,Rural
+476,Student_476,25,Female,Postgraduate,9.24,0,Urban,<2 Lakh,Advanced,"Java, Mathematics, MS Office, Social Media",Government,Chennai
+477,Student_477,18,Female,High School,8.7,0,Rural,5-8 Lakh,Basic,"Leadership, Mathematics",NGO,Rural
+478,Student_478,21,Female,Undergraduate,7.13,1,Urban,2-5 Lakh,Intermediate,"Project Management, Data Analysis, Excel",NGO,Rural
+479,Student_479,25,Female,High School,8.34,0,Urban,2-5 Lakh,Advanced,"Chemistry, Customer Service, Data Analysis, Project Management, Social Media",Healthcare,Delhi
+480,Student_480,21,Male,Undergraduate,6.76,0,Rural,<2 Lakh,Basic,"MS Office, Chemistry, Leadership, Mathematics",Media,Any
+481,Student_481,21,Female,Diploma,5.16,2,Urban,2-5 Lakh,Basic,"Team Work, Python, Teaching",Healthcare,Rural
+482,Student_482,22,Male,Postgraduate,6.09,2,Urban,<2 Lakh,Intermediate,"Leadership, Customer Service",Marketing,Mumbai
+483,Student_483,21,Female,Postgraduate,9.08,1,Urban,>8 Lakh,Advanced,"Teaching, Mathematics, Problem Solving",NGO,Mumbai
+484,Student_484,21,Male,High School,6.87,0,Semi-Urban,5-8 Lakh,Intermediate,"Communication, Local Language, Python",Agriculture,Delhi
+485,Student_485,21,Male,Undergraduate,6.91,0,Semi-Urban,2-5 Lakh,Intermediate,"Leadership, Python",NGO,Delhi
+486,Student_486,24,Male,Postgraduate,6.84,0,Urban,<2 Lakh,Basic,"Sales, Mathematics, Social Media, Project Management",IT,Rural
+487,Student_487,18,Male,Undergraduate,9.48,1,Rural,>8 Lakh,Basic,"MS Office, Python, Problem Solving",Government,Chennai
+488,Student_488,20,Female,Postgraduate,9.15,2,Rural,2-5 Lakh,Intermediate,"Teaching, Java, Leadership",NGO,Rural
+489,Student_489,25,Male,Undergraduate,9.86,1,Rural,<2 Lakh,Basic,"Biology, Design, Agriculture",Finance,Rural
+490,Student_490,23,Male,Diploma,7.01,0,Rural,2-5 Lakh,Intermediate,"Communication, Biology, Excel, Healthcare, Finance",Manufacturing,Pune
+491,Student_491,21,Male,Diploma,7.55,1,Rural,>8 Lakh,Advanced,"Chemistry, Sales, Agriculture",Healthcare,Rural
+492,Student_492,21,Male,Diploma,5.38,0,Urban,<2 Lakh,Basic,"Project Management, Communication",Environment,Delhi
+493,Student_493,20,Male,Undergraduate,8.97,0,Urban,<2 Lakh,Intermediate,"Finance, Agriculture",Finance,Bangalore
+494,Student_494,19,Male,Diploma,5.8,1,Rural,>8 Lakh,Basic,"Social Media, Team Work, Java",Marketing,Pune
+495,Student_495,21,Female,Undergraduate,7.46,1,Semi-Urban,<2 Lakh,Intermediate,"Biology, Mathematics, Local Language",IT,Delhi
+496,Student_496,20,Female,Undergraduate,5.88,0,Rural,<2 Lakh,Basic,"Agriculture, Research, Finance",Government,Delhi
+497,Student_497,21,Female,Undergraduate,6.49,0,Semi-Urban,2-5 Lakh,Intermediate,"English, Python, Java",Marketing,Rural
+498,Student_498,18,Male,Postgraduate,6.2,3,Semi-Urban,5-8 Lakh,Basic,"Healthcare, Marketing",Agriculture,Rural
+499,Student_499,25,Male,Postgraduate,6.47,0,Urban,2-5 Lakh,Intermediate,"Design, Local Language, Communication",Healthcare,Mumbai
+500,Student_500,25,Female,Undergraduate,6.55,0,Rural,>8 Lakh,Intermediate,"Healthcare, Field Work, Finance",Government,Rural
+501,Student_501,22,Male,Undergraduate,6.54,0,Rural,5-8 Lakh,Basic,"Excel, MS Office",Healthcare,Rural
+502,Student_502,21,Male,Undergraduate,8.2,0,Semi-Urban,<2 Lakh,Intermediate,"Team Work, Leadership",Finance,Bangalore
+503,Student_503,20,Male,Undergraduate,5.87,0,Semi-Urban,>8 Lakh,Basic,"Excel, Leadership",Finance,Delhi
+504,Student_504,23,Male,Postgraduate,7.46,2,Rural,2-5 Lakh,Intermediate,"Teaching, Team Work",Media,Any
+505,Student_505,22,Male,Diploma,8.66,0,Urban,<2 Lakh,Basic,"English, Project Management, Customer Service, Field Work",Agriculture,Bangalore
+506,Student_506,19,Male,High School,6.58,1,Rural,2-5 Lakh,Intermediate,"MS Office, Marketing",Media,Delhi
+507,Student_507,24,Female,Postgraduate,6.34,1,Urban,2-5 Lakh,Basic,"Team Work, Agriculture, Research",Environment,Chennai
+508,Student_508,23,Female,Undergraduate,6.92,1,Rural,<2 Lakh,Intermediate,"Finance, Agriculture",Manufacturing,Rural
+509,Student_509,24,Female,Undergraduate,8.62,2,Semi-Urban,<2 Lakh,Basic,"Team Work, Design, Communication, Mathematics, Field Work",Education,Mumbai
+510,Student_510,22,Female,Postgraduate,7.43,2,Urban,2-5 Lakh,Intermediate,"Communication, English, Chemistry, Customer Service, Biology",Media,Mumbai
+511,Student_511,21,Female,High School,6.56,0,Rural,5-8 Lakh,Basic,"Data Analysis, Design",Education,Mumbai
+512,Student_512,20,Female,Postgraduate,7.78,2,Urban,2-5 Lakh,Advanced,"Finance, Social Media, Design",Finance,Any
+513,Student_513,24,Female,Undergraduate,5.88,1,Urban,>8 Lakh,Advanced,"MS Office, Finance",Finance,Mumbai
+514,Student_514,23,Male,Undergraduate,8.02,3,Urban,<2 Lakh,Basic,"Marketing, Design, Biology",IT,Hyderabad
+515,Student_515,18,Male,Undergraduate,7.69,1,Rural,<2 Lakh,Intermediate,"Communication, MS Office",Media,Any
+516,Student_516,18,Male,Postgraduate,6.83,3,Semi-Urban,<2 Lakh,Basic,"Design, MS Office, Local Language, Teaching",Agriculture,Delhi
+517,Student_517,20,Female,High School,6.19,2,Semi-Urban,<2 Lakh,Basic,"Sales, Leadership, Local Language",NGO,Any
+518,Student_518,23,Female,Undergraduate,6.14,0,Urban,<2 Lakh,Intermediate,"Healthcare, Excel, Design, Communication, Biology",Marketing,Any
+519,Student_519,25,Male,Undergraduate,7.84,1,Semi-Urban,5-8 Lakh,Intermediate,"Biology, Sales",Media,Any
+520,Student_520,19,Female,Undergraduate,8.67,3,Rural,>8 Lakh,Intermediate,"Mathematics, Leadership, Customer Service, Java",NGO,Mumbai
+521,Student_521,21,Male,Undergraduate,6.44,2,Urban,>8 Lakh,Basic,"Project Management, Customer Service, MS Office, Local Language",Education,Pune
+522,Student_522,20,Female,High School,7.75,0,Urban,<2 Lakh,Basic,"Communication, Design",Agriculture,Rural
+523,Student_523,25,Male,Diploma,4.7,1,Urban,5-8 Lakh,Basic,"Sales, Local Language, Chemistry",Marketing,Any
+524,Student_524,23,Male,Diploma,6.5,0,Semi-Urban,2-5 Lakh,Intermediate,"Design, Biology",Marketing,Mumbai
+525,Student_525,23,Male,Undergraduate,7.16,0,Rural,<2 Lakh,Intermediate,"Java, Research, Team Work",Media,Rural
+526,Student_526,21,Male,Diploma,6.11,1,Rural,5-8 Lakh,Intermediate,"Research, Sales, Communication",Marketing,Bangalore
+527,Student_527,20,Male,Diploma,6.08,0,Urban,2-5 Lakh,Basic,"Project Management, Agriculture, Data Analysis",NGO,Mumbai
+528,Student_528,20,Male,Postgraduate,6.4,2,Rural,<2 Lakh,Basic,"Leadership, Local Language, Healthcare",Environment,Chennai
+529,Student_529,18,Female,High School,7.55,0,Urban,2-5 Lakh,Basic,"Social Media, Communication, Sales, Customer Service, Chemistry",Healthcare,Rural
+530,Student_530,23,Female,Postgraduate,6.98,2,Urban,<2 Lakh,Basic,"Teaching, Project Management",Education,Chennai
+531,Student_531,23,Male,Undergraduate,4.51,0,Rural,5-8 Lakh,Basic,"Social Media, Mathematics, Design, Customer Service, Chemistry",Manufacturing,Hyderabad
+532,Student_532,25,Female,Undergraduate,4.66,0,Urban,2-5 Lakh,Intermediate,"Team Work, Local Language",IT,Any
+533,Student_533,25,Female,Diploma,6.47,0,Semi-Urban,>8 Lakh,Advanced,"English, Customer Service, Python, Team Work",Marketing,Bangalore
+534,Student_534,21,Male,High School,7.75,0,Urban,<2 Lakh,Intermediate,"Local Language, Field Work, Teaching",Environment,Pune
+535,Student_535,22,Male,Undergraduate,4.0,0,Rural,2-5 Lakh,Intermediate,"Python, Problem Solving",Education,Bangalore
+536,Student_536,24,Male,Undergraduate,6.6,0,Urban,2-5 Lakh,Basic,"Teaching, Field Work, Chemistry, Research, MS Office",Education,Bangalore
+537,Student_537,23,Male,Undergraduate,6.57,1,Rural,2-5 Lakh,Advanced,"Sales, Python, Problem Solving",Finance,Rural
+538,Student_538,19,Female,High School,8.87,0,Urban,2-5 Lakh,Basic,"Leadership, Project Management, Local Language, Marketing",Education,Any
+539,Student_539,21,Male,Undergraduate,6.74,1,Urban,5-8 Lakh,Advanced,"Excel, Leadership, Biology",Agriculture,Hyderabad
+540,Student_540,19,Female,Undergraduate,7.66,0,Semi-Urban,5-8 Lakh,Intermediate,"English, Python, Excel",Finance,Rural
+541,Student_541,25,Female,Undergraduate,7.37,2,Urban,>8 Lakh,Basic,"Biology, Agriculture, Data Analysis",Environment,Delhi
+542,Student_542,21,Male,Undergraduate,4.64,2,Semi-Urban,5-8 Lakh,Advanced,"Marketing, Design, Finance, MS Office",Manufacturing,Mumbai
+543,Student_543,19,Female,Undergraduate,8.12,1,Semi-Urban,5-8 Lakh,Basic,"Problem Solving, Sales",Government,Chennai
+544,Student_544,22,Male,Undergraduate,7.46,0,Urban,2-5 Lakh,Intermediate,"Research, Biology, MS Office, Chemistry",Education,Delhi
+545,Student_545,21,Female,High School,7.81,0,Urban,5-8 Lakh,Intermediate,"Project Management, Team Work, Excel, Java, Leadership",Media,Mumbai
+546,Student_546,20,Male,Undergraduate,10.0,3,Rural,2-5 Lakh,Basic,"Problem Solving, Chemistry",Environment,Chennai
+547,Student_547,19,Female,High School,4.7,0,Semi-Urban,2-5 Lakh,Intermediate,"Team Work, Java",Marketing,Delhi
+548,Student_548,22,Female,Undergraduate,9.27,0,Semi-Urban,2-5 Lakh,Intermediate,"Local Language, Excel, Teaching, Finance",Environment,Mumbai
+549,Student_549,21,Male,Undergraduate,6.86,0,Rural,2-5 Lakh,Intermediate,"Local Language, Design, Healthcare",Manufacturing,Chennai
+550,Student_550,22,Female,High School,7.54,0,Rural,<2 Lakh,Basic,"Team Work, Finance, Design",Manufacturing,Hyderabad
+551,Student_551,21,Female,Diploma,7.15,0,Urban,>8 Lakh,Advanced,"Teaching, Data Analysis",Government,Any
+552,Student_552,23,Female,High School,6.69,2,Semi-Urban,2-5 Lakh,Basic,"Chemistry, Agriculture, Communication",Healthcare,Pune
+553,Student_553,21,Female,Undergraduate,6.52,0,Semi-Urban,<2 Lakh,Basic,"Sales, Design",Environment,Bangalore
+554,Student_554,21,Female,Postgraduate,7.6,1,Urban,2-5 Lakh,Basic,"Communication, Research, Local Language",Healthcare,Any
+555,Student_555,23,Male,High School,5.38,0,Urban,<2 Lakh,Basic,"Local Language, Project Management, Healthcare, Agriculture",Manufacturing,Rural
+556,Student_556,20,Male,Postgraduate,8.1,0,Urban,<2 Lakh,Basic,"Local Language, Research, Java",NGO,Mumbai
+557,Student_557,19,Female,Undergraduate,6.7,2,Urban,<2 Lakh,Advanced,"Social Media, Marketing, Team Work",Marketing,Delhi
+558,Student_558,18,Male,Diploma,5.84,0,Semi-Urban,2-5 Lakh,Basic,"Java, Python, Data Analysis, Research, Chemistry",Agriculture,Pune
+559,Student_559,22,Female,High School,6.66,2,Urban,2-5 Lakh,Basic,"Leadership, Chemistry, Teaching, Research",Government,Hyderabad
+560,Student_560,21,Female,Undergraduate,8.71,1,Urban,5-8 Lakh,Basic,"MS Office, Communication, Python, Healthcare",Government,Rural
+561,Student_561,22,Male,Undergraduate,6.56,0,Urban,5-8 Lakh,Intermediate,"Biology, Design, Problem Solving",Agriculture,Rural
+562,Student_562,19,Male,Undergraduate,7.63,3,Semi-Urban,2-5 Lakh,Advanced,"Leadership, Marketing, Customer Service, Field Work",Media,Pune
+563,Student_563,19,Female,High School,6.32,0,Rural,2-5 Lakh,Basic,"Social Media, Agriculture",IT,Any
+564,Student_564,18,Male,High School,8.11,2,Urban,2-5 Lakh,Basic,"Customer Service, Local Language",Healthcare,Hyderabad
+565,Student_565,20,Female,Undergraduate,8.02,0,Urban,5-8 Lakh,Basic,"Mathematics, Sales",Government,Delhi
+566,Student_566,21,Male,Diploma,9.42,2,Semi-Urban,<2 Lakh,Basic,"Excel, Marketing, Biology",Environment,Rural
+567,Student_567,20,Female,Diploma,6.99,0,Semi-Urban,<2 Lakh,Basic,"Java, Design, Python, Finance",Environment,Mumbai
+568,Student_568,20,Male,Diploma,8.0,1,Urban,5-8 Lakh,Intermediate,"Excel, MS Office, Project Management",Agriculture,Rural
+569,Student_569,24,Female,Undergraduate,7.32,2,Urban,2-5 Lakh,Basic,"Design, Project Management, Marketing, Field Work",Healthcare,Any
+570,Student_570,20,Male,Postgraduate,8.76,2,Urban,<2 Lakh,Intermediate,"English, Design, Research, Communication",NGO,Rural
+571,Student_571,21,Female,Undergraduate,6.34,2,Urban,<2 Lakh,Basic,"Marketing, Python, MS Office",Manufacturing,Hyderabad
+572,Student_572,22,Male,Postgraduate,8.09,2,Rural,>8 Lakh,Advanced,"Problem Solving, Mathematics, Team Work",Finance,Chennai
+573,Student_573,20,Female,Diploma,6.97,2,Semi-Urban,5-8 Lakh,Advanced,"Finance, Field Work, Sales",Manufacturing,Bangalore
+574,Student_574,21,Female,Undergraduate,7.12,0,Rural,5-8 Lakh,Intermediate,"Excel, Design, Communication",Finance,Bangalore
+575,Student_575,23,Male,Diploma,7.31,0,Semi-Urban,2-5 Lakh,Basic,"Social Media, Design",Government,Pune
+576,Student_576,24,Male,Undergraduate,7.5,0,Urban,2-5 Lakh,Basic,"Project Management, Marketing, Agriculture, Excel, Research",Marketing,Rural
+577,Student_577,19,Male,Postgraduate,7.06,0,Rural,>8 Lakh,Intermediate,"Biology, MS Office",Agriculture,Pune
+578,Student_578,24,Female,Undergraduate,7.46,0,Rural,>8 Lakh,Intermediate,"Social Media, MS Office",Marketing,Mumbai
+579,Student_579,21,Female,Diploma,9.09,1,Urban,<2 Lakh,Intermediate,"Chemistry, Problem Solving, Excel, Agriculture, English",Agriculture,Chennai
+580,Student_580,20,Female,Undergraduate,8.38,0,Urban,5-8 Lakh,Advanced,"Communication, Agriculture, Data Analysis",NGO,Rural
+581,Student_581,21,Male,High School,8.24,1,Rural,<2 Lakh,Advanced,"Chemistry, Sales, Biology, English",Media,Chennai
+582,Student_582,25,Male,Postgraduate,6.65,0,Urban,<2 Lakh,Basic,"Leadership, Social Media, Communication",Education,Hyderabad
+583,Student_583,21,Female,Undergraduate,6.13,0,Urban,5-8 Lakh,Intermediate,"Leadership, Teaching, Data Analysis",Media,Rural
+584,Student_584,20,Male,Undergraduate,8.35,1,Rural,2-5 Lakh,Basic,"Problem Solving, Team Work, Leadership",Government,Pune
+585,Student_585,21,Other,Undergraduate,8.25,2,Semi-Urban,>8 Lakh,Basic,"Chemistry, English, Excel",Agriculture,Bangalore
+586,Student_586,19,Male,Undergraduate,8.97,1,Rural,<2 Lakh,Intermediate,"Problem Solving, Chemistry, English",Environment,Any
+587,Student_587,18,Female,High School,6.48,1,Semi-Urban,2-5 Lakh,Basic,"Healthcare, Finance, Chemistry, Project Management",IT,Mumbai
+588,Student_588,19,Male,Undergraduate,6.92,0,Urban,>8 Lakh,Advanced,"Chemistry, Project Management, Finance",IT,Any
+589,Student_589,19,Male,Diploma,5.23,1,Rural,>8 Lakh,Basic,"Local Language, Project Management, English, Team Work, MS Office",Healthcare,Delhi
+590,Student_590,19,Female,Undergraduate,6.73,0,Rural,<2 Lakh,Intermediate,"English, MS Office",Environment,Delhi
+591,Student_591,19,Female,Undergraduate,8.4,0,Semi-Urban,2-5 Lakh,Intermediate,"Leadership, Finance, Excel",Government,Any
+592,Student_592,21,Other,Undergraduate,6.64,1,Urban,2-5 Lakh,Intermediate,"Healthcare, Finance, English",IT,Mumbai
+593,Student_593,19,Male,Undergraduate,7.97,0,Rural,<2 Lakh,Basic,"Research, Mathematics, Teaching, Project Management, Java",Healthcare,Rural
+594,Student_594,20,Male,Undergraduate,6.97,0,Rural,>8 Lakh,Advanced,"Sales, Agriculture",Education,Rural
+595,Student_595,23,Female,High School,7.59,3,Urban,>8 Lakh,Intermediate,"Excel, Research, Finance",Government,Rural
+596,Student_596,21,Female,Undergraduate,5.82,3,Urban,<2 Lakh,Intermediate,"Finance, Java, Sales, Research, Excel",Government,Any
+597,Student_597,22,Male,Diploma,7.3,0,Urban,<2 Lakh,Basic,"English, Excel",IT,Mumbai
+598,Student_598,19,Male,Undergraduate,4.0,0,Urban,<2 Lakh,Intermediate,"Team Work, Agriculture, Marketing, Finance, Project Management",Manufacturing,Rural
+599,Student_599,19,Male,Diploma,6.98,0,Semi-Urban,>8 Lakh,Intermediate,"Customer Service, Mathematics",Finance,Delhi
+600,Student_600,18,Female,High School,5.24,0,Urban,<2 Lakh,Intermediate,"Biology, Java, Finance, Mathematics",Education,Bangalore
+601,Student_601,19,Male,Undergraduate,8.65,2,Urban,2-5 Lakh,Intermediate,"Project Management, English, Data Analysis, MS Office, Team Work",Environment,Rural
+602,Student_602,20,Male,High School,8.13,0,Rural,2-5 Lakh,Intermediate,"Healthcare, Agriculture, Leadership, Java",Marketing,Bangalore
+603,Student_603,19,Male,Undergraduate,7.76,2,Urban,2-5 Lakh,Basic,"Finance, Communication, Mathematics",Education,Hyderabad
+604,Student_604,18,Male,Diploma,9.03,0,Rural,<2 Lakh,Basic,"MS Office, Field Work",Marketing,Chennai
+605,Student_605,19,Male,High School,6.06,3,Urban,<2 Lakh,Basic,"Excel, Agriculture, English, Problem Solving, Java",Healthcare,Pune
+606,Student_606,21,Male,Undergraduate,9.3,0,Semi-Urban,>8 Lakh,Intermediate,"Social Media, Field Work, Finance",Environment,Any
+607,Student_607,19,Male,High School,8.32,2,Semi-Urban,>8 Lakh,Intermediate,"Finance, Agriculture",Agriculture,Delhi
+608,Student_608,20,Female,Diploma,6.92,0,Semi-Urban,5-8 Lakh,Basic,"Agriculture, Team Work, Problem Solving, Sales",Marketing,Hyderabad
+609,Student_609,21,Male,Undergraduate,8.56,1,Urban,<2 Lakh,Intermediate,"Sales, Research, Marketing",Healthcare,Rural
+610,Student_610,22,Female,High School,5.87,0,Rural,2-5 Lakh,Intermediate,"Design, Chemistry",Agriculture,Chennai
+611,Student_611,18,Female,Undergraduate,6.21,0,Urban,2-5 Lakh,Intermediate,"MS Office, Local Language",Environment,Delhi
+612,Student_612,22,Female,High School,6.47,2,Urban,<2 Lakh,Basic,"Team Work, Java",Environment,Hyderabad
+613,Student_613,21,Female,Diploma,6.57,2,Urban,>8 Lakh,Basic,"Mathematics, English, MS Office",Education,Bangalore
+614,Student_614,18,Male,Undergraduate,5.93,2,Rural,2-5 Lakh,Basic,"Excel, MS Office, Communication, Customer Service",IT,Mumbai
+615,Student_615,23,Male,Diploma,8.67,1,Rural,<2 Lakh,Basic,"Local Language, Marketing, Research",Manufacturing,Rural
+616,Student_616,24,Female,High School,6.89,2,Rural,>8 Lakh,Basic,"Teaching, Biology, Local Language, Team Work",Environment,Hyderabad
+617,Student_617,18,Other,Diploma,7.62,0,Urban,>8 Lakh,Basic,"Leadership, MS Office, Excel, Project Management, Local Language",Marketing,Any
+618,Student_618,20,Female,Diploma,6.52,0,Urban,<2 Lakh,Intermediate,"Leadership, Sales, Research, English",Finance,Rural
+619,Student_619,23,Female,Undergraduate,5.02,0,Rural,2-5 Lakh,Basic,"Field Work, Local Language",Manufacturing,Rural
+620,Student_620,22,Female,Diploma,7.52,1,Urban,2-5 Lakh,Advanced,"Marketing, Leadership, Team Work, Field Work",Environment,Delhi
+621,Student_621,19,Male,Undergraduate,4.91,0,Rural,2-5 Lakh,Basic,"Excel, Research, Customer Service",Healthcare,Chennai
+622,Student_622,19,Male,Postgraduate,7.12,0,Urban,<2 Lakh,Basic,"Marketing, English, Mathematics",Healthcare,Mumbai
+623,Student_623,20,Female,Undergraduate,5.56,1,Semi-Urban,2-5 Lakh,Basic,"MS Office, Leadership, Local Language, Field Work",IT,Any
+624,Student_624,21,Female,Postgraduate,9.58,2,Rural,>8 Lakh,Basic,"Biology, Local Language, Agriculture",Finance,Mumbai
+625,Student_625,21,Male,Diploma,8.29,0,Urban,2-5 Lakh,Intermediate,"Excel, English, Local Language, Design, Agriculture",Government,Mumbai
+626,Student_626,20,Female,Postgraduate,7.33,0,Urban,<2 Lakh,Basic,"Sales, Python",Healthcare,Chennai
+627,Student_627,21,Male,High School,8.72,0,Rural,2-5 Lakh,Advanced,"Sales, Research, Problem Solving, Data Analysis",Education,Mumbai
+628,Student_628,22,Female,Undergraduate,6.18,0,Semi-Urban,2-5 Lakh,Advanced,"MS Office, Chemistry",Media,Mumbai
+629,Student_629,18,Male,Undergraduate,7.85,0,Urban,5-8 Lakh,Intermediate,"Healthcare, Data Analysis, Social Media, Leadership, Excel",Finance,Hyderabad
+630,Student_630,20,Male,Diploma,7.44,1,Urban,2-5 Lakh,Intermediate,"Research, Mathematics",NGO,Delhi
+631,Student_631,22,Female,Undergraduate,7.52,1,Semi-Urban,<2 Lakh,Intermediate,"Communication, Agriculture",Environment,Delhi
+632,Student_632,23,Male,Undergraduate,8.73,1,Rural,<2 Lakh,Basic,"Chemistry, Customer Service, Biology",Government,Bangalore
+633,Student_633,21,Female,High School,8.08,0,Urban,5-8 Lakh,Intermediate,"Agriculture, Java, Local Language",IT,Rural
+634,Student_634,21,Female,Diploma,7.55,2,Rural,<2 Lakh,Basic,"MS Office, Chemistry",IT,Hyderabad
+635,Student_635,19,Female,Undergraduate,5.21,0,Urban,5-8 Lakh,Basic,"Team Work, Leadership, Marketing",Agriculture,Chennai
+636,Student_636,20,Male,Undergraduate,6.05,1,Rural,<2 Lakh,Intermediate,"Leadership, Problem Solving, Field Work",Healthcare,Hyderabad
+637,Student_637,21,Male,Postgraduate,7.05,2,Urban,2-5 Lakh,Intermediate,"Chemistry, Team Work",Manufacturing,Bangalore
+638,Student_638,19,Male,Undergraduate,7.31,0,Semi-Urban,2-5 Lakh,Advanced,"Mathematics, Problem Solving, Biology",Education,Any
+639,Student_639,20,Other,Postgraduate,5.84,0,Rural,>8 Lakh,Basic,"Finance, Java, Design, Sales",Government,Delhi
+640,Student_640,20,Female,Undergraduate,10.0,2,Rural,>8 Lakh,Intermediate,"Local Language, Biology, Social Media, Finance",Healthcare,Pune
+641,Student_641,18,Female,Diploma,9.02,0,Rural,<2 Lakh,Basic,"Team Work, Research, Chemistry, Biology",Finance,Any
+642,Student_642,20,Female,High School,7.92,1,Semi-Urban,2-5 Lakh,Basic,"Mathematics, Finance, Social Media, Customer Service",Manufacturing,Rural
+643,Student_643,19,Female,Undergraduate,7.29,0,Semi-Urban,<2 Lakh,Basic,"Social Media, Research, Mathematics",Healthcare,Mumbai
+644,Student_644,20,Female,Undergraduate,6.95,1,Rural,2-5 Lakh,Intermediate,"Mathematics, Healthcare",Healthcare,Mumbai
+645,Student_645,19,Male,High School,6.06,0,Rural,2-5 Lakh,Basic,"Data Analysis, Sales, Local Language",Healthcare,Rural
+646,Student_646,23,Female,Diploma,7.29,0,Rural,>8 Lakh,Intermediate,"Project Management, Finance, Chemistry, Research",Agriculture,Delhi
+647,Student_647,21,Male,Postgraduate,7.51,1,Rural,>8 Lakh,Intermediate,"Chemistry, Marketing, Agriculture, Design, Problem Solving",Agriculture,Rural
+648,Student_648,22,Female,Undergraduate,5.71,0,Urban,2-5 Lakh,Intermediate,"Data Analysis, Mathematics, Team Work",Marketing,Rural
+649,Student_649,22,Female,Undergraduate,7.6,0,Rural,2-5 Lakh,Intermediate,"Leadership, Teaching",Education,Rural
+650,Student_650,21,Female,Undergraduate,7.01,0,Urban,5-8 Lakh,Intermediate,"Java, English",Manufacturing,Delhi
+651,Student_651,18,Male,Diploma,4.91,0,Semi-Urban,5-8 Lakh,Intermediate,"Healthcare, Sales, Customer Service",Education,Rural
+652,Student_652,21,Male,Diploma,6.17,0,Urban,<2 Lakh,Intermediate,"Communication, Field Work, Agriculture",Environment,Pune
+653,Student_653,21,Male,Diploma,6.7,0,Semi-Urban,2-5 Lakh,Basic,"Communication, Research",Environment,Rural
+654,Student_654,22,Male,High School,9.47,2,Rural,2-5 Lakh,Advanced,"Excel, Chemistry, Problem Solving, Teaching, Finance",Education,Delhi
+655,Student_655,20,Male,Undergraduate,7.87,0,Rural,<2 Lakh,Intermediate,"Agriculture, Leadership, Design",Healthcare,Delhi
+656,Student_656,19,Female,Undergraduate,5.6,1,Rural,<2 Lakh,Basic,"Excel, Social Media, Finance, Sales, Python",NGO,Bangalore
+657,Student_657,20,Female,Undergraduate,7.78,0,Urban,<2 Lakh,Basic,"Design, Java, Marketing, Agriculture",Media,Delhi
+658,Student_658,20,Male,Postgraduate,5.34,0,Urban,2-5 Lakh,Intermediate,"Sales, Social Media, Marketing, Excel",IT,Hyderabad
+659,Student_659,21,Male,Diploma,8.5,2,Urban,<2 Lakh,Basic,"Sales, Social Media, Python, MS Office",Media,Any
+660,Student_660,21,Male,Undergraduate,6.63,0,Rural,<2 Lakh,Advanced,"Communication, Field Work, English, MS Office",Environment,Bangalore
+661,Student_661,20,Female,Undergraduate,7.09,3,Urban,<2 Lakh,Basic,"Mathematics, Leadership, Java, Research",Education,Rural
+662,Student_662,25,Male,Postgraduate,8.79,0,Rural,5-8 Lakh,Intermediate,"Healthcare, Field Work, Leadership, Chemistry",Government,Delhi
+663,Student_663,21,Female,Diploma,5.66,1,Urban,5-8 Lakh,Basic,"Field Work, Healthcare, Finance",Agriculture,Mumbai
+664,Student_664,19,Male,Undergraduate,5.52,1,Urban,2-5 Lakh,Intermediate,"Team Work, Python, Excel, Teaching, Data Analysis",Finance,Delhi
+665,Student_665,19,Other,Undergraduate,6.5,2,Urban,2-5 Lakh,Advanced,"Leadership, Customer Service, Biology, Team Work",Environment,Bangalore
+666,Student_666,19,Female,Diploma,8.45,1,Semi-Urban,>8 Lakh,Intermediate,"Agriculture, Design, Communication, Chemistry",Education,Any
+667,Student_667,19,Male,High School,5.38,1,Rural,<2 Lakh,Intermediate,"Research, Social Media, Communication, Java, Design",Manufacturing,Delhi
+668,Student_668,19,Female,Undergraduate,4.0,0,Urban,<2 Lakh,Basic,"English, Mathematics",Media,Pune
+669,Student_669,19,Male,Undergraduate,6.66,0,Rural,<2 Lakh,Basic,"Team Work, Finance",Environment,Chennai
+670,Student_670,20,Female,Diploma,7.86,2,Urban,<2 Lakh,Basic,"Excel, Communication, Healthcare",Government,Any
+671,Student_671,19,Male,Undergraduate,8.64,0,Semi-Urban,2-5 Lakh,Intermediate,"Team Work, Customer Service, Python",Finance,Delhi
+672,Student_672,23,Female,Diploma,6.64,0,Rural,>8 Lakh,Basic,"English, Agriculture, Project Management, Social Media",Healthcare,Mumbai
+673,Student_673,18,Female,Undergraduate,6.71,2,Urban,2-5 Lakh,Basic,"Field Work, Leadership, Research",Healthcare,Delhi
+674,Student_674,21,Female,Diploma,8.58,0,Rural,2-5 Lakh,Intermediate,"Design, Python, Team Work",Education,Chennai
+675,Student_675,20,Female,Postgraduate,4.96,3,Urban,>8 Lakh,Intermediate,"Sales, Social Media, Project Management",Healthcare,Mumbai
+676,Student_676,25,Male,Diploma,6.73,1,Semi-Urban,<2 Lakh,Intermediate,"Design, Problem Solving",Media,Rural
+677,Student_677,19,Male,Diploma,7.43,1,Urban,<2 Lakh,Basic,"Local Language, Excel, Agriculture, Sales",Manufacturing,Pune
+678,Student_678,20,Male,High School,7.74,2,Rural,2-5 Lakh,Basic,"Excel, Agriculture, Customer Service, Mathematics",Agriculture,Pune
+679,Student_679,25,Male,High School,6.59,0,Urban,2-5 Lakh,Advanced,"Agriculture, Customer Service",Manufacturing,Hyderabad
+680,Student_680,23,Female,Undergraduate,7.24,0,Rural,<2 Lakh,Basic,"Python, Marketing, Healthcare",Agriculture,Delhi
+681,Student_681,23,Male,Diploma,4.21,1,Rural,2-5 Lakh,Advanced,"Java, English, Marketing",Education,Chennai
+682,Student_682,20,Female,Undergraduate,6.41,0,Rural,2-5 Lakh,Advanced,"Sales, Teaching",Finance,Any
+683,Student_683,19,Female,High School,7.74,1,Rural,5-8 Lakh,Intermediate,"Biology, Python",Marketing,Rural
+684,Student_684,22,Female,Diploma,6.02,2,Semi-Urban,2-5 Lakh,Basic,"Sales, Mathematics, Excel, Social Media, Biology",Environment,Any
+685,Student_685,24,Male,Diploma,7.27,1,Urban,2-5 Lakh,Intermediate,"Local Language, English, Communication",Healthcare,Rural
+686,Student_686,21,Female,High School,7.74,0,Urban,<2 Lakh,Intermediate,"Chemistry, Project Management",Finance,Delhi
+687,Student_687,21,Female,High School,6.79,3,Urban,2-5 Lakh,Intermediate,"Biology, Chemistry",NGO,Mumbai
+688,Student_688,20,Male,Undergraduate,7.4,1,Semi-Urban,<2 Lakh,Basic,"MS Office, Leadership, Java, Sales",Media,Delhi
+689,Student_689,22,Female,Undergraduate,6.04,1,Urban,>8 Lakh,Basic,"Customer Service, MS Office, English, Problem Solving",Media,Bangalore
+690,Student_690,19,Female,Undergraduate,6.95,0,Rural,2-5 Lakh,Basic,"Chemistry, Local Language, Finance, Field Work",Media,Delhi
+691,Student_691,20,Male,Undergraduate,7.93,2,Rural,2-5 Lakh,Intermediate,"Healthcare, English",Marketing,Chennai
+692,Student_692,20,Male,Undergraduate,7.39,1,Urban,5-8 Lakh,Intermediate,"Problem Solving, Mathematics, Leadership, Excel, Field Work",IT,Pune
+693,Student_693,21,Male,High School,6.5,2,Urban,2-5 Lakh,Basic,"Chemistry, Finance, Java",Environment,Rural
+694,Student_694,19,Male,Undergraduate,7.47,2,Urban,2-5 Lakh,Intermediate,"Research, Data Analysis, Java",Marketing,Rural
+695,Student_695,19,Male,Postgraduate,8.06,0,Urban,5-8 Lakh,Basic,"Mathematics, Data Analysis, Java",Finance,Any
+696,Student_696,21,Male,Undergraduate,4.74,1,Urban,5-8 Lakh,Intermediate,"MS Office, Research, Agriculture",NGO,Delhi
+697,Student_697,20,Male,Undergraduate,8.59,2,Urban,5-8 Lakh,Advanced,"Marketing, Customer Service, Healthcare, Teaching, Java",Media,Delhi
+698,Student_698,21,Male,Diploma,6.8,0,Semi-Urban,<2 Lakh,Basic,"Chemistry, English, Data Analysis, Research, Sales",NGO,Pune
+699,Student_699,19,Female,Undergraduate,7.71,2,Semi-Urban,2-5 Lakh,Basic,"Chemistry, Java, English",Finance,Mumbai
+700,Student_700,21,Female,Undergraduate,8.64,2,Urban,5-8 Lakh,Basic,"MS Office, Teaching, Communication, Mathematics, Sales",Manufacturing,Mumbai
+701,Student_701,21,Female,Undergraduate,5.55,1,Urban,<2 Lakh,Intermediate,"Design, Marketing, Biology, Finance",Marketing,Bangalore
+702,Student_702,18,Male,Postgraduate,6.35,1,Urban,<2 Lakh,Intermediate,"Marketing, MS Office, Problem Solving, Healthcare, Field Work",Environment,Mumbai
+703,Student_703,20,Male,High School,6.85,2,Rural,5-8 Lakh,Advanced,"Healthcare, Sales",IT,Chennai
+704,Student_704,19,Male,High School,6.26,2,Semi-Urban,<2 Lakh,Basic,"Mathematics, Agriculture, Teaching",Finance,Chennai
+705,Student_705,18,Male,Undergraduate,9.28,0,Urban,5-8 Lakh,Advanced,"Mathematics, Excel, Biology",Government,Chennai
+706,Student_706,25,Male,Undergraduate,6.17,0,Urban,2-5 Lakh,Basic,"Design, Excel, Team Work, Problem Solving",Manufacturing,Pune
+707,Student_707,20,Female,High School,6.53,1,Rural,2-5 Lakh,Intermediate,"Customer Service, Research",Healthcare,Bangalore
+708,Student_708,23,Male,Diploma,7.45,1,Rural,<2 Lakh,Basic,"MS Office, Communication, Excel",Finance,Mumbai
+709,Student_709,20,Female,High School,5.76,1,Urban,5-8 Lakh,Advanced,"MS Office, Local Language, Research",Government,Mumbai
+710,Student_710,22,Female,Diploma,6.73,1,Rural,2-5 Lakh,Intermediate,"Research, Finance, Team Work",Environment,Bangalore
+711,Student_711,22,Male,Undergraduate,7.58,0,Urban,2-5 Lakh,Intermediate,"Field Work, Design, Problem Solving, Finance",Media,Rural
+712,Student_712,21,Male,Undergraduate,6.8,1,Urban,5-8 Lakh,Intermediate,"Sales, Finance, Java, Biology, Team Work",Healthcare,Rural
+713,Student_713,21,Female,Diploma,7.09,0,Rural,5-8 Lakh,Basic,"Design, Teaching, English, Mathematics",NGO,Pune
+714,Student_714,20,Male,Diploma,6.56,1,Semi-Urban,>8 Lakh,Basic,"Java, Excel, Local Language, English, Marketing",IT,Mumbai
+715,Student_715,20,Male,High School,5.38,1,Urban,2-5 Lakh,Advanced,"Sales, Agriculture, Mathematics",Agriculture,Hyderabad
+716,Student_716,24,Other,Diploma,7.59,0,Semi-Urban,2-5 Lakh,Basic,"Biology, Local Language, Problem Solving",Agriculture,Hyderabad
+717,Student_717,23,Male,Undergraduate,9.31,0,Urban,>8 Lakh,Basic,"Python, Leadership, Team Work",Education,Chennai
+718,Student_718,25,Female,Postgraduate,7.22,1,Rural,2-5 Lakh,Intermediate,"Local Language, Mathematics",Manufacturing,Hyderabad
+719,Student_719,19,Other,Undergraduate,7.47,1,Rural,<2 Lakh,Intermediate,"Finance, Java, Leadership",Media,Chennai
+720,Student_720,22,Male,High School,8.03,0,Semi-Urban,<2 Lakh,Basic,"Excel, Social Media, Chemistry, English",Manufacturing,Hyderabad
+721,Student_721,24,Male,Postgraduate,5.68,3,Semi-Urban,5-8 Lakh,Basic,"Sales, Marketing, Project Management",Agriculture,Rural
+722,Student_722,19,Male,Undergraduate,9.24,1,Urban,2-5 Lakh,Basic,"Java, Team Work, Leadership, Local Language",NGO,Delhi
+723,Student_723,18,Male,Undergraduate,7.44,3,Semi-Urban,5-8 Lakh,Intermediate,"Finance, Sales, Chemistry",Environment,Rural
+724,Student_724,22,Male,Undergraduate,9.16,1,Semi-Urban,2-5 Lakh,Advanced,"Excel, Project Management",Education,Delhi
+725,Student_725,21,Female,Diploma,6.32,1,Rural,<2 Lakh,Advanced,"Leadership, Agriculture",Government,Delhi
+726,Student_726,23,Male,Diploma,9.38,2,Urban,2-5 Lakh,Intermediate,"Sales, Marketing, MS Office",Healthcare,Any
+727,Student_727,19,Male,High School,8.13,1,Semi-Urban,<2 Lakh,Basic,"English, Teaching, Social Media",IT,Any
+728,Student_728,22,Other,Diploma,7.86,1,Semi-Urban,2-5 Lakh,Advanced,"Communication, Python",Media,Delhi
+729,Student_729,19,Female,Diploma,7.48,0,Urban,2-5 Lakh,Intermediate,"Biology, Problem Solving, Healthcare",Healthcare,Chennai
+730,Student_730,19,Female,Undergraduate,6.9,1,Semi-Urban,2-5 Lakh,Basic,"Agriculture, Marketing, Customer Service",IT,Mumbai
+731,Student_731,19,Male,Undergraduate,8.64,0,Urban,5-8 Lakh,Advanced,"Communication, Teaching, Chemistry",Marketing,Chennai
+732,Student_732,23,Female,Undergraduate,7.37,0,Urban,5-8 Lakh,Intermediate,"Teaching, Field Work, Finance, Data Analysis",Finance,Rural
+733,Student_733,22,Female,High School,4.84,0,Rural,5-8 Lakh,Intermediate,"Team Work, Research, Field Work, Healthcare",IT,Any
+734,Student_734,21,Male,Postgraduate,5.86,0,Rural,<2 Lakh,Intermediate,"Data Analysis, Communication, Leadership",IT,Pune
+735,Student_735,20,Male,Postgraduate,6.98,3,Rural,<2 Lakh,Basic,"Excel, Finance, Problem Solving, Field Work",Manufacturing,Bangalore
+736,Student_736,23,Female,Undergraduate,7.57,0,Urban,2-5 Lakh,Basic,"Finance, Excel, Mathematics, Local Language",NGO,Pune
+737,Student_737,20,Male,Postgraduate,7.13,1,Semi-Urban,>8 Lakh,Intermediate,"MS Office, Local Language, Sales, Field Work",Marketing,Bangalore
+738,Student_738,23,Male,Undergraduate,8.66,2,Urban,5-8 Lakh,Basic,"Excel, Customer Service, Research",Environment,Any
+739,Student_739,20,Male,Postgraduate,4.86,1,Urban,5-8 Lakh,Intermediate,"Research, Problem Solving",NGO,Rural
+740,Student_740,20,Male,High School,7.37,0,Urban,2-5 Lakh,Intermediate,"Field Work, English, Problem Solving, Mathematics",Manufacturing,Hyderabad
+741,Student_741,21,Female,Diploma,5.02,1,Rural,2-5 Lakh,Intermediate,"Sales, Agriculture, Social Media",Manufacturing,Bangalore
+742,Student_742,20,Female,Diploma,8.11,1,Semi-Urban,2-5 Lakh,Intermediate,"Communication, Data Analysis, Mathematics, Leadership, Social Media",Manufacturing,Mumbai
+743,Student_743,22,Female,Diploma,7.09,1,Rural,<2 Lakh,Intermediate,"Mathematics, Healthcare, Python, Sales",Healthcare,Delhi
+744,Student_744,21,Male,High School,7.7,2,Semi-Urban,<2 Lakh,Intermediate,"Customer Service, Project Management, Sales",Environment,Rural
+745,Student_745,19,Male,Undergraduate,6.16,3,Urban,>8 Lakh,Intermediate,"Finance, Mathematics, Customer Service",NGO,Chennai
+746,Student_746,23,Male,Undergraduate,8.74,1,Rural,<2 Lakh,Basic,"Leadership, Team Work",NGO,Bangalore
+747,Student_747,20,Male,Undergraduate,8.45,0,Rural,<2 Lakh,Basic,"Excel, Research, Marketing",Media,Chennai
+748,Student_748,21,Male,High School,7.9,1,Rural,<2 Lakh,Basic,"Field Work, Biology, Healthcare",Education,Rural
+749,Student_749,24,Female,Undergraduate,7.04,0,Urban,>8 Lakh,Basic,"Agriculture, Design, Chemistry",Marketing,Delhi
+750,Student_750,21,Male,Undergraduate,7.9,2,Rural,2-5 Lakh,Basic,"Design, Project Management, Excel",Healthcare,Rural
+751,Student_751,19,Female,Diploma,6.35,0,Rural,5-8 Lakh,Basic,"Leadership, MS Office",Marketing,Any
+752,Student_752,24,Male,Undergraduate,8.23,0,Rural,>8 Lakh,Intermediate,"English, Excel, Finance, Local Language, Agriculture",Healthcare,Any
+753,Student_753,21,Male,Diploma,9.18,2,Rural,2-5 Lakh,Advanced,"Sales, Leadership",NGO,Bangalore
+754,Student_754,20,Male,Diploma,8.48,1,Urban,2-5 Lakh,Basic,"Chemistry, Customer Service, English, Project Management, Problem Solving",Finance,Mumbai
+755,Student_755,19,Female,Postgraduate,6.32,0,Rural,<2 Lakh,Intermediate,"Chemistry, Leadership, Design, Agriculture, Java",Education,Bangalore
+756,Student_756,22,Female,Diploma,7.63,1,Urban,<2 Lakh,Intermediate,"Communication, Agriculture, Leadership",NGO,Bangalore
+757,Student_757,21,Female,Undergraduate,5.65,2,Semi-Urban,5-8 Lakh,Basic,"Research, Problem Solving, MS Office, Field Work",Agriculture,Mumbai
+758,Student_758,21,Male,Postgraduate,7.89,0,Rural,5-8 Lakh,Advanced,"Social Media, Sales, Agriculture",Manufacturing,Pune
+759,Student_759,23,Male,Undergraduate,7.74,2,Urban,2-5 Lakh,Intermediate,"Research, Excel, Teaching, Data Analysis",Media,Chennai
+760,Student_760,22,Female,High School,4.96,0,Semi-Urban,2-5 Lakh,Basic,"English, Customer Service, Teaching",Environment,Rural
+761,Student_761,19,Male,High School,5.81,2,Rural,2-5 Lakh,Intermediate,"Leadership, English, Research",Environment,Delhi
+762,Student_762,20,Female,High School,6.86,2,Urban,<2 Lakh,Basic,"Team Work, Customer Service, Excel",Environment,Pune
+763,Student_763,19,Male,Undergraduate,6.84,0,Rural,<2 Lakh,Intermediate,"Agriculture, English, Problem Solving",Environment,Rural
+764,Student_764,22,Male,Undergraduate,5.75,1,Urban,<2 Lakh,Basic,"Project Management, Leadership, Problem Solving",Healthcare,Rural
+765,Student_765,18,Male,High School,7.67,0,Semi-Urban,<2 Lakh,Intermediate,"Local Language, Team Work, Biology",Marketing,Any
+766,Student_766,21,Male,Postgraduate,7.5,1,Semi-Urban,5-8 Lakh,Intermediate,"Team Work, MS Office, Project Management",Manufacturing,Rural
+767,Student_767,22,Female,Undergraduate,6.97,1,Semi-Urban,<2 Lakh,Intermediate,"Java, Python",Finance,Any
+768,Student_768,23,Male,Diploma,6.29,1,Rural,<2 Lakh,Basic,"Excel, Java",IT,Bangalore
+769,Student_769,20,Male,Undergraduate,8.46,0,Rural,2-5 Lakh,Intermediate,"English, Chemistry, Project Management",Finance,Chennai
+770,Student_770,23,Male,Undergraduate,9.19,0,Rural,5-8 Lakh,Intermediate,"Teaching, English",Healthcare,Delhi
+771,Student_771,19,Male,High School,6.62,0,Urban,<2 Lakh,Intermediate,"Data Analysis, Chemistry",Manufacturing,Delhi
+772,Student_772,23,Female,Diploma,6.47,0,Rural,<2 Lakh,Intermediate,"Project Management, Design, Team Work, English",Healthcare,Mumbai
+773,Student_773,19,Female,Undergraduate,7.79,1,Rural,2-5 Lakh,Intermediate,"Python, Healthcare",Government,Delhi
+774,Student_774,20,Female,Undergraduate,6.77,2,Urban,5-8 Lakh,Advanced,"English, Customer Service, Research, Healthcare",Media,Mumbai
+775,Student_775,22,Female,Undergraduate,7.03,1,Urban,2-5 Lakh,Intermediate,"Social Media, Mathematics, Local Language",Media,Mumbai
+776,Student_776,19,Male,Undergraduate,8.09,1,Semi-Urban,5-8 Lakh,Intermediate,"Marketing, Research, Finance, Excel, Field Work",IT,Delhi
+777,Student_777,19,Female,High School,4.91,3,Semi-Urban,>8 Lakh,Intermediate,"Java, Problem Solving, Finance",Marketing,Any
+778,Student_778,22,Male,Diploma,8.78,1,Urban,5-8 Lakh,Intermediate,"Design, Healthcare, Finance",Environment,Delhi
+779,Student_779,22,Male,Undergraduate,7.29,2,Urban,2-5 Lakh,Basic,"Data Analysis, MS Office, Team Work",Environment,Rural
+780,Student_780,21,Female,Diploma,6.71,1,Urban,2-5 Lakh,Intermediate,"Leadership, MS Office, Field Work",Education,Mumbai
+781,Student_781,22,Male,High School,7.09,0,Semi-Urban,<2 Lakh,Intermediate,"MS Office, Biology, Sales",Healthcare,Any
+782,Student_782,21,Female,Undergraduate,7.15,0,Urban,>8 Lakh,Basic,"Marketing, Leadership",IT,Any
+783,Student_783,20,Male,Postgraduate,5.12,1,Rural,2-5 Lakh,Intermediate,"Chemistry, Sales, Agriculture, Customer Service, Communication",Education,Pune
+784,Student_784,20,Female,Undergraduate,8.99,0,Urban,<2 Lakh,Intermediate,"MS Office, Social Media, Finance",IT,Pune
+785,Student_785,19,Female,Postgraduate,7.25,0,Rural,5-8 Lakh,Basic,"Communication, Teaching, Finance",Education,Delhi
+786,Student_786,24,Female,Diploma,7.73,1,Urban,<2 Lakh,Intermediate,"Social Media, Leadership, Communication, Java",Government,Any
+787,Student_787,21,Female,Postgraduate,8.34,1,Rural,2-5 Lakh,Basic,"Research, Marketing, Team Work",Agriculture,Rural
+788,Student_788,20,Female,Diploma,5.97,1,Urban,2-5 Lakh,Basic,"Design, Social Media, Problem Solving, MS Office",NGO,Any
+789,Student_789,21,Male,Postgraduate,7.77,0,Rural,2-5 Lakh,Intermediate,"Project Management, Biology, MS Office",NGO,Pune
+790,Student_790,24,Male,Postgraduate,6.88,0,Urban,5-8 Lakh,Basic,"Data Analysis, Chemistry, Problem Solving, Healthcare",Marketing,Bangalore
+791,Student_791,19,Male,Undergraduate,8.22,1,Rural,<2 Lakh,Basic,"Agriculture, Finance",Education,Any
+792,Student_792,21,Female,Postgraduate,4.65,3,Semi-Urban,2-5 Lakh,Advanced,"Healthcare, Research, Python, Excel",Agriculture,Mumbai
+793,Student_793,21,Male,Undergraduate,7.08,1,Urban,2-5 Lakh,Basic,"Marketing, Agriculture, Finance, Social Media",Education,Hyderabad
+794,Student_794,21,Female,Diploma,6.48,2,Semi-Urban,5-8 Lakh,Advanced,"Data Analysis, Project Management",Marketing,Delhi
+795,Student_795,18,Male,Undergraduate,7.72,2,Rural,5-8 Lakh,Advanced,"Sales, Java",Healthcare,Any
+796,Student_796,23,Male,Undergraduate,7.76,1,Urban,2-5 Lakh,Basic,"Java, Research, Healthcare",IT,Delhi
+797,Student_797,24,Female,High School,6.35,0,Urban,2-5 Lakh,Basic,"Team Work, English, Local Language, Healthcare, Research",Agriculture,Mumbai
+798,Student_798,21,Male,Undergraduate,6.35,1,Urban,<2 Lakh,Intermediate,"Customer Service, Python, Communication",Manufacturing,Hyderabad
+799,Student_799,22,Male,Postgraduate,7.07,1,Rural,>8 Lakh,Intermediate,"Design, Leadership, Teaching",Marketing,Rural
+800,Student_800,24,Male,Diploma,6.12,1,Rural,2-5 Lakh,Basic,"Biology, Sales",NGO,Pune
+801,Student_801,22,Female,Undergraduate,8.21,1,Urban,5-8 Lakh,Intermediate,"Chemistry, Marketing, Sales",Healthcare,Mumbai
+802,Student_802,19,Female,Postgraduate,6.76,1,Rural,<2 Lakh,Basic,"Java, Marketing, Project Management",Marketing,Delhi
+803,Student_803,21,Male,Postgraduate,4.0,0,Semi-Urban,<2 Lakh,Advanced,"Customer Service, Data Analysis, Sales, Research, Excel",Media,Rural
+804,Student_804,21,Male,Postgraduate,6.75,1,Semi-Urban,2-5 Lakh,Basic,"Marketing, Agriculture, Finance",Environment,Any
+805,Student_805,20,Male,Undergraduate,5.95,0,Rural,5-8 Lakh,Basic,"Chemistry, Customer Service, Teaching, Team Work",Healthcare,Rural
+806,Student_806,22,Female,Postgraduate,5.24,2,Semi-Urban,2-5 Lakh,Basic,"Local Language, Team Work, Communication",Government,Chennai
+807,Student_807,24,Female,Undergraduate,5.72,0,Rural,>8 Lakh,Advanced,"Leadership, Communication",Government,Any
+808,Student_808,24,Male,Diploma,7.33,0,Urban,2-5 Lakh,Intermediate,"Marketing, Sales, Mathematics",NGO,Bangalore
+809,Student_809,21,Male,Undergraduate,8.79,1,Semi-Urban,2-5 Lakh,Intermediate,"MS Office, Customer Service, Sales",Agriculture,Hyderabad
+810,Student_810,19,Male,Undergraduate,7.58,1,Rural,<2 Lakh,Basic,"Chemistry, Leadership, Data Analysis, Team Work, Agriculture",IT,Chennai
+811,Student_811,25,Female,Diploma,6.47,1,Rural,5-8 Lakh,Basic,"Marketing, Agriculture, Java, Leadership, Field Work",Government,Chennai
+812,Student_812,23,Female,Undergraduate,7.75,0,Rural,<2 Lakh,Basic,"MS Office, Mathematics",Media,Rural
+813,Student_813,19,Male,Undergraduate,6.65,1,Semi-Urban,5-8 Lakh,Intermediate,"Healthcare, Agriculture",Education,Hyderabad
+814,Student_814,24,Male,Diploma,6.37,0,Semi-Urban,>8 Lakh,Intermediate,"Finance, Leadership",Agriculture,Bangalore
+815,Student_815,23,Male,Undergraduate,5.81,2,Urban,>8 Lakh,Intermediate,"Team Work, Agriculture, Leadership, MS Office, Problem Solving",Education,Mumbai
+816,Student_816,21,Female,Undergraduate,5.1,2,Urban,2-5 Lakh,Basic,"Marketing, Team Work, Biology, Research, Project Management",Marketing,Delhi
+817,Student_817,21,Male,Undergraduate,6.73,1,Rural,5-8 Lakh,Advanced,"MS Office, Agriculture, Customer Service, Healthcare",Healthcare,Hyderabad
+818,Student_818,20,Female,High School,7.39,0,Rural,5-8 Lakh,Basic,"Field Work, Project Management, Research",Media,Mumbai
+819,Student_819,18,Female,High School,7.08,1,Urban,<2 Lakh,Advanced,"Healthcare, Python, Sales",Environment,Delhi
+820,Student_820,20,Male,Diploma,6.7,0,Rural,2-5 Lakh,Basic,"MS Office, Local Language, Communication",Healthcare,Pune
+821,Student_821,23,Male,Postgraduate,6.07,1,Rural,<2 Lakh,Intermediate,"Design, Project Management, Research",Finance,Rural
+822,Student_822,18,Male,Diploma,7.93,0,Urban,2-5 Lakh,Basic,"Mathematics, Biology, Field Work",NGO,Rural
+823,Student_823,20,Female,Undergraduate,5.62,2,Urban,<2 Lakh,Intermediate,"English, Python",IT,Chennai
+824,Student_824,20,Female,Diploma,8.13,0,Urban,<2 Lakh,Intermediate,"Team Work, Healthcare",IT,Any
+825,Student_825,21,Female,Diploma,6.0,1,Semi-Urban,2-5 Lakh,Intermediate,"Teaching, English, Mathematics, Chemistry, Project Management",IT,Any
+826,Student_826,24,Female,Undergraduate,6.3,1,Urban,2-5 Lakh,Intermediate,"Project Management, Social Media, Biology, Java",Finance,Rural
+827,Student_827,20,Male,Undergraduate,5.44,1,Urban,2-5 Lakh,Intermediate,"Project Management, Healthcare, Problem Solving",IT,Pune
+828,Student_828,20,Female,High School,6.6,0,Rural,<2 Lakh,Intermediate,"Agriculture, English, Biology",Government,Bangalore
+829,Student_829,22,Female,Undergraduate,8.37,3,Urban,2-5 Lakh,Intermediate,"Team Work, Chemistry, Marketing",Agriculture,Any
+830,Student_830,21,Male,High School,7.82,1,Urban,<2 Lakh,Basic,"Leadership, Local Language, Social Media, Java",Manufacturing,Mumbai
+831,Student_831,19,Female,Undergraduate,8.37,1,Urban,2-5 Lakh,Intermediate,"Project Management, Field Work, Communication, Data Analysis",Education,Mumbai
+832,Student_832,21,Female,Undergraduate,7.83,0,Rural,2-5 Lakh,Intermediate,"Python, Finance, MS Office, Design",Education,Chennai
+833,Student_833,19,Female,High School,5.88,1,Rural,2-5 Lakh,Basic,"Leadership, Design, Field Work, Data Analysis",IT,Delhi
+834,Student_834,19,Female,Diploma,6.8,1,Urban,5-8 Lakh,Intermediate,"Design, Agriculture",NGO,Any
+835,Student_835,21,Female,Diploma,6.26,0,Urban,2-5 Lakh,Basic,"Chemistry, Team Work, Healthcare",Environment,Hyderabad
+836,Student_836,20,Female,Postgraduate,8.8,0,Semi-Urban,5-8 Lakh,Basic,"Biology, Java, Field Work",Manufacturing,Hyderabad
+837,Student_837,24,Male,Postgraduate,5.76,2,Urban,2-5 Lakh,Basic,"Leadership, Agriculture, Data Analysis",Finance,Pune
+838,Student_838,20,Male,High School,8.27,0,Urban,2-5 Lakh,Basic,"Customer Service, MS Office, Local Language, Healthcare",Agriculture,Chennai
+839,Student_839,21,Female,Undergraduate,8.27,0,Urban,2-5 Lakh,Intermediate,"Agriculture, Marketing, MS Office",Finance,Delhi
+840,Student_840,21,Male,Diploma,9.4,1,Rural,<2 Lakh,Intermediate,"Problem Solving, Finance",Manufacturing,Pune
+841,Student_841,18,Male,Diploma,6.71,2,Rural,5-8 Lakh,Advanced,"Customer Service, MS Office, Sales",Agriculture,Rural
+842,Student_842,22,Male,Undergraduate,8.05,0,Urban,2-5 Lakh,Intermediate,"Local Language, Chemistry, Biology, English, Mathematics",Marketing,Bangalore
+843,Student_843,19,Male,Postgraduate,9.94,1,Rural,2-5 Lakh,Basic,"Field Work, Teaching",Healthcare,Rural
+844,Student_844,25,Female,Postgraduate,6.46,0,Urban,<2 Lakh,Advanced,"Team Work, Healthcare, Data Analysis, Social Media",Media,Mumbai
+845,Student_845,19,Female,Undergraduate,5.36,0,Urban,<2 Lakh,Advanced,"Teaching, Customer Service, Research",Agriculture,Mumbai
+846,Student_846,20,Male,Diploma,4.94,0,Rural,>8 Lakh,Intermediate,"Social Media, Research",Healthcare,Mumbai
+847,Student_847,18,Male,Undergraduate,8.06,2,Urban,5-8 Lakh,Intermediate,"Chemistry, Research, Field Work",NGO,Bangalore
+848,Student_848,25,Male,Diploma,4.94,0,Rural,<2 Lakh,Advanced,"Data Analysis, Field Work, Healthcare, MS Office",Environment,Rural
+849,Student_849,21,Female,Undergraduate,6.75,0,Urban,2-5 Lakh,Intermediate,"Healthcare, Sales, Customer Service",IT,Rural
+850,Student_850,21,Female,Diploma,7.72,1,Rural,2-5 Lakh,Advanced,"Mathematics, Biology, Teaching, Research, Communication",Education,Bangalore
+851,Student_851,18,Male,Undergraduate,7.42,2,Urban,5-8 Lakh,Basic,"Project Management, Local Language, Customer Service",Finance,Hyderabad
+852,Student_852,22,Female,Diploma,7.71,0,Semi-Urban,<2 Lakh,Basic,"Marketing, Sales",NGO,Rural
+853,Student_853,19,Female,Diploma,7.47,1,Urban,<2 Lakh,Intermediate,"Chemistry, Mathematics, Leadership, Research, Java",IT,Mumbai
+854,Student_854,23,Female,Postgraduate,8.73,0,Semi-Urban,5-8 Lakh,Intermediate,"Research, Field Work, Excel",Manufacturing,Mumbai
+855,Student_855,19,Female,High School,6.06,1,Urban,<2 Lakh,Intermediate,"Sales, Finance, English",Healthcare,Any
+856,Student_856,19,Male,Undergraduate,6.39,1,Rural,<2 Lakh,Advanced,"Teaching, Biology, Healthcare, Data Analysis",Government,Pune
+857,Student_857,18,Female,Diploma,6.27,1,Urban,>8 Lakh,Basic,"Data Analysis, Customer Service, Teaching",Marketing,Any
+858,Student_858,21,Male,High School,8.2,0,Semi-Urban,2-5 Lakh,Basic,"Customer Service, Field Work, Teaching, Leadership",Marketing,Bangalore
+859,Student_859,21,Female,High School,8.28,0,Urban,<2 Lakh,Intermediate,"Communication, Team Work",Agriculture,Rural
+860,Student_860,18,Female,Diploma,7.74,0,Urban,<2 Lakh,Intermediate,"Biology, Project Management, Social Media",Healthcare,Mumbai
+861,Student_861,22,Female,Postgraduate,8.62,0,Rural,<2 Lakh,Basic,"Social Media, Java",NGO,Mumbai
+862,Student_862,21,Female,Diploma,5.79,0,Urban,<2 Lakh,Intermediate,"Local Language, Agriculture, Social Media, English",Government,Chennai
+863,Student_863,21,Male,Postgraduate,9.2,2,Urban,5-8 Lakh,Intermediate,"Social Media, Java",IT,Bangalore
+864,Student_864,20,Female,Undergraduate,9.03,3,Semi-Urban,2-5 Lakh,Intermediate,"Communication, Design, MS Office, Field Work",Agriculture,Mumbai
+865,Student_865,20,Other,Undergraduate,8.08,3,Semi-Urban,5-8 Lakh,Intermediate,"Healthcare, Communication, Local Language, Chemistry, Leadership",Finance,Mumbai
+866,Student_866,21,Female,Undergraduate,9.34,2,Urban,>8 Lakh,Basic,"Python, Customer Service, Problem Solving",Marketing,Delhi
+867,Student_867,19,Male,Undergraduate,5.21,1,Semi-Urban,2-5 Lakh,Advanced,"Design, English, Healthcare",Media,Rural
+868,Student_868,19,Male,Undergraduate,6.57,1,Rural,<2 Lakh,Intermediate,"Healthcare, English, Data Analysis",Marketing,Chennai
+869,Student_869,23,Male,Diploma,6.32,0,Urban,2-5 Lakh,Intermediate,"Chemistry, Research, MS Office",Media,Delhi
+870,Student_870,24,Female,Diploma,8.07,1,Rural,>8 Lakh,Basic,"Research, English, Java",Finance,Mumbai
+871,Student_871,20,Female,Postgraduate,5.94,1,Rural,5-8 Lakh,Intermediate,"Chemistry, Excel, English, Project Management",Government,Delhi
+872,Student_872,20,Male,Postgraduate,8.11,1,Semi-Urban,<2 Lakh,Basic,"Social Media, Customer Service, Biology, Java, Problem Solving",Agriculture,Pune
+873,Student_873,21,Male,Postgraduate,8.84,2,Urban,5-8 Lakh,Basic,"Design, Problem Solving, Java, Marketing, Mathematics",Media,Delhi
+874,Student_874,20,Female,Undergraduate,8.03,0,Rural,2-5 Lakh,Intermediate,"Healthcare, Problem Solving, Biology, Research, Java",Government,Rural
+875,Student_875,18,Female,Undergraduate,7.54,0,Urban,>8 Lakh,Basic,"Python, Research, Project Management, Team Work, Communication",Finance,Delhi
+876,Student_876,19,Female,Undergraduate,6.01,2,Urban,<2 Lakh,Intermediate,"MS Office, Research, Finance",NGO,Mumbai
+877,Student_877,22,Female,Undergraduate,6.18,0,Urban,2-5 Lakh,Basic,"English, Customer Service, Agriculture, Healthcare",Finance,Any
+878,Student_878,22,Male,Diploma,8.7,1,Semi-Urban,5-8 Lakh,Intermediate,"Leadership, Agriculture, Finance, Teaching, Data Analysis",Education,Rural
+879,Student_879,18,Male,Undergraduate,8.14,2,Semi-Urban,2-5 Lakh,Basic,"Mathematics, Communication, MS Office",IT,Delhi
+880,Student_880,19,Female,Diploma,7.15,1,Rural,2-5 Lakh,Basic,"Problem Solving, Biology, Finance, English, Teaching",Manufacturing,Rural
+881,Student_881,19,Female,Diploma,6.7,1,Rural,<2 Lakh,Basic,"Field Work, Problem Solving, Python",IT,Chennai
+882,Student_882,22,Female,Postgraduate,4.77,0,Urban,<2 Lakh,Advanced,"Biology, MS Office, Mathematics, Research",Finance,Rural
+883,Student_883,18,Female,Diploma,5.91,0,Urban,2-5 Lakh,Advanced,"Project Management, Local Language, Chemistry, Data Analysis",NGO,Pune
+884,Student_884,19,Female,High School,9.49,2,Urban,>8 Lakh,Basic,"Problem Solving, Team Work, English, Marketing, Design",Agriculture,Rural
+885,Student_885,22,Male,High School,5.66,1,Urban,<2 Lakh,Intermediate,"Agriculture, MS Office",Environment,Any
+886,Student_886,19,Male,Postgraduate,7.43,1,Rural,2-5 Lakh,Intermediate,"Excel, Marketing, Local Language, Communication",IT,Mumbai
+887,Student_887,22,Male,Undergraduate,8.41,0,Rural,5-8 Lakh,Advanced,"Problem Solving, Leadership, Healthcare",Agriculture,Pune
+888,Student_888,19,Male,Undergraduate,5.69,0,Urban,<2 Lakh,Basic,"MS Office, Social Media, Python",IT,Chennai
+889,Student_889,18,Female,Undergraduate,7.42,3,Urban,2-5 Lakh,Intermediate,"Teaching, Marketing, Social Media, Finance",Environment,Delhi
+890,Student_890,19,Other,Undergraduate,8.33,0,Urban,5-8 Lakh,Basic,"Chemistry, Teaching, MS Office",Manufacturing,Delhi
+891,Student_891,22,Male,Diploma,7.21,1,Urban,5-8 Lakh,Basic,"Research, Project Management, Biology, Python",Marketing,Delhi
+892,Student_892,23,Male,Undergraduate,10.0,0,Semi-Urban,2-5 Lakh,Advanced,"Teaching, English, Sales",Healthcare,Pune
+893,Student_893,23,Female,Undergraduate,5.2,1,Rural,5-8 Lakh,Intermediate,"Field Work, Social Media, Java",Finance,Hyderabad
+894,Student_894,20,Male,Undergraduate,8.47,2,Semi-Urban,<2 Lakh,Basic,"Local Language, Communication, Finance, Research",NGO,Hyderabad
+895,Student_895,22,Female,Diploma,6.99,1,Rural,>8 Lakh,Basic,"Problem Solving, Marketing, Local Language",Finance,Delhi
+896,Student_896,19,Female,Postgraduate,8.13,0,Urban,<2 Lakh,Intermediate,"Agriculture, Field Work",Manufacturing,Chennai
+897,Student_897,20,Female,Undergraduate,7.73,1,Urban,5-8 Lakh,Intermediate,"Chemistry, Research, Field Work, Communication, English",Government,Any
+898,Student_898,23,Male,Diploma,6.32,2,Semi-Urban,<2 Lakh,Basic,"Research, Sales, Team Work",IT,Bangalore
+899,Student_899,18,Male,Undergraduate,7.47,1,Rural,>8 Lakh,Advanced,"Social Media, Leadership, Healthcare, Finance",Education,Pune
+900,Student_900,18,Female,High School,4.97,2,Urban,5-8 Lakh,Basic,"Biology, Team Work, Sales",Marketing,Rural
+901,Student_901,19,Female,High School,7.92,1,Rural,5-8 Lakh,Basic,"Design, Field Work, Customer Service",Healthcare,Rural
+902,Student_902,18,Male,Undergraduate,7.56,2,Rural,<2 Lakh,Advanced,"Healthcare, Chemistry, Customer Service",IT,Chennai
+903,Student_903,19,Female,High School,7.97,1,Rural,2-5 Lakh,Basic,"Mathematics, Local Language, Data Analysis",Finance,Rural
+904,Student_904,21,Male,Undergraduate,8.47,0,Semi-Urban,2-5 Lakh,Basic,"Chemistry, Social Media, Local Language",NGO,Bangalore
+905,Student_905,20,Female,Undergraduate,7.64,0,Rural,5-8 Lakh,Intermediate,"Chemistry, Team Work, Mathematics",Manufacturing,Any
+906,Student_906,23,Male,High School,7.38,0,Rural,<2 Lakh,Intermediate,"Excel, Agriculture, Finance",Agriculture,Mumbai
+907,Student_907,23,Female,Postgraduate,6.14,2,Urban,>8 Lakh,Basic,"Agriculture, Field Work",Government,Mumbai
+908,Student_908,20,Male,Diploma,6.35,2,Urban,5-8 Lakh,Advanced,"Sales, Excel, Project Management",Healthcare,Delhi
+909,Student_909,20,Male,Diploma,8.62,1,Urban,<2 Lakh,Intermediate,"Communication, Java",Media,Rural
+910,Student_910,20,Male,Diploma,8.92,0,Urban,5-8 Lakh,Basic,"Customer Service, Agriculture",Healthcare,Bangalore
+911,Student_911,21,Male,Diploma,6.91,0,Rural,2-5 Lakh,Intermediate,"Data Analysis, Project Management, Customer Service, Leadership, Problem Solving",NGO,Mumbai
+912,Student_912,20,Female,High School,7.26,2,Rural,2-5 Lakh,Basic,"MS Office, Agriculture, Finance, Communication",Education,Mumbai
+913,Student_913,21,Other,Undergraduate,6.11,1,Urban,2-5 Lakh,Intermediate,"Local Language, Data Analysis, Field Work, Project Management",Environment,Any
+914,Student_914,20,Male,Postgraduate,8.61,0,Semi-Urban,2-5 Lakh,Intermediate,"Healthcare, Excel, Agriculture",Manufacturing,Rural
+915,Student_915,21,Male,Diploma,8.0,1,Urban,5-8 Lakh,Advanced,"Finance, Mathematics, Java, Leadership, Agriculture",Healthcare,Hyderabad
+916,Student_916,20,Female,Undergraduate,9.53,0,Urban,2-5 Lakh,Basic,"Design, Finance, Project Management, Java",Media,Pune
+917,Student_917,20,Female,Undergraduate,6.15,0,Urban,2-5 Lakh,Intermediate,"Customer Service, Finance, Local Language, Mathematics",Media,Chennai
+918,Student_918,24,Female,Undergraduate,6.75,1,Urban,5-8 Lakh,Intermediate,"Research, Biology, Python",IT,Bangalore
+919,Student_919,22,Male,Undergraduate,7.48,0,Urban,5-8 Lakh,Basic,"Marketing, Teaching, Python, Biology, Data Analysis",Manufacturing,Any
+920,Student_920,19,Male,Diploma,7.98,3,Rural,<2 Lakh,Basic,"Project Management, Excel, Java, Design",Environment,Delhi
+921,Student_921,23,Female,Diploma,6.94,0,Urban,5-8 Lakh,Basic,"Sales, Field Work, Excel, Customer Service, Java",Education,Bangalore
+922,Student_922,21,Male,Undergraduate,6.15,0,Semi-Urban,2-5 Lakh,Intermediate,"Excel, Healthcare",Finance,Bangalore
+923,Student_923,23,Female,Undergraduate,8.26,0,Urban,<2 Lakh,Intermediate,"Java, Research, Design",Marketing,Chennai
+924,Student_924,22,Male,Diploma,8.07,2,Urban,<2 Lakh,Basic,"Problem Solving, Chemistry, Leadership",Marketing,Chennai
+925,Student_925,20,Female,Diploma,6.1,1,Urban,2-5 Lakh,Intermediate,"Chemistry, English, Biology",Agriculture,Chennai
+926,Student_926,18,Male,Postgraduate,8.83,1,Rural,5-8 Lakh,Intermediate,"English, Design, Sales, Marketing, Finance",Manufacturing,Delhi
+927,Student_927,20,Female,Undergraduate,8.6,0,Urban,2-5 Lakh,Intermediate,"Marketing, Excel",Agriculture,Chennai
+928,Student_928,21,Male,Postgraduate,7.36,0,Semi-Urban,5-8 Lakh,Basic,"Local Language, Customer Service",Agriculture,Mumbai
+929,Student_929,21,Female,Undergraduate,7.3,1,Rural,<2 Lakh,Intermediate,"Leadership, English, Sales",Government,Mumbai
+930,Student_930,20,Male,Diploma,7.86,2,Rural,2-5 Lakh,Basic,"Communication, Problem Solving",Marketing,Delhi
+931,Student_931,19,Female,Undergraduate,6.17,2,Rural,>8 Lakh,Basic,"Customer Service, Marketing",Finance,Rural
+932,Student_932,23,Female,Undergraduate,7.24,0,Urban,5-8 Lakh,Intermediate,"Agriculture, Leadership, Biology, Social Media",Healthcare,Chennai
+933,Student_933,25,Female,High School,4.62,1,Urban,<2 Lakh,Basic,"Python, Chemistry, Research",Finance,Pune
+934,Student_934,21,Female,Undergraduate,8.25,2,Urban,2-5 Lakh,Basic,"Finance, Local Language",Education,Rural
+935,Student_935,19,Female,Undergraduate,5.33,0,Rural,<2 Lakh,Basic,"Biology, Customer Service, Design",Media,Pune
+936,Student_936,20,Female,Diploma,9.0,2,Urban,2-5 Lakh,Basic,"Customer Service, Marketing, Social Media",Healthcare,Chennai
+937,Student_937,18,Male,Undergraduate,6.8,0,Urban,5-8 Lakh,Basic,"Social Media, Finance",Education,Bangalore
+938,Student_938,24,Female,Undergraduate,6.95,2,Semi-Urban,5-8 Lakh,Advanced,"Sales, Leadership, Teaching, Data Analysis",Healthcare,Bangalore
+939,Student_939,19,Male,Postgraduate,6.45,2,Urban,<2 Lakh,Basic,"Biology, Chemistry, Communication, Java",Education,Pune
+940,Student_940,21,Male,High School,6.85,2,Semi-Urban,>8 Lakh,Basic,"Mathematics, Local Language, Design, Team Work",Government,Chennai
+941,Student_941,20,Male,Diploma,8.9,1,Rural,2-5 Lakh,Basic,"Chemistry, Python, Social Media, Data Analysis",Government,Rural
+942,Student_942,21,Male,Undergraduate,4.21,0,Urban,2-5 Lakh,Advanced,"Excel, Communication",Agriculture,Rural
+943,Student_943,22,Female,Diploma,8.73,2,Urban,2-5 Lakh,Intermediate,"Team Work, Java, Finance, Local Language, Field Work",Manufacturing,Mumbai
+944,Student_944,23,Female,Undergraduate,7.61,0,Urban,2-5 Lakh,Basic,"Java, Social Media, Biology, Marketing",Healthcare,Delhi
+945,Student_945,19,Female,Undergraduate,5.75,0,Rural,2-5 Lakh,Advanced,"Finance, Social Media, Customer Service, Data Analysis, Chemistry",NGO,Pune
+946,Student_946,18,Male,High School,5.91,1,Rural,2-5 Lakh,Basic,"Chemistry, Java",Agriculture,Bangalore
+947,Student_947,19,Male,Undergraduate,9.21,2,Rural,2-5 Lakh,Basic,"Leadership, Agriculture, Research, Social Media, Biology",Finance,Delhi
+948,Student_948,24,Male,Undergraduate,6.07,2,Semi-Urban,<2 Lakh,Basic,"Project Management, MS Office, Team Work, Chemistry",Government,Any
+949,Student_949,23,Male,Diploma,5.82,0,Rural,5-8 Lakh,Basic,"Local Language, MS Office, Social Media, Research",Marketing,Mumbai
+950,Student_950,21,Male,Postgraduate,8.56,2,Urban,2-5 Lakh,Basic,"Leadership, Local Language",Government,Any
+951,Student_951,21,Male,Undergraduate,7.61,1,Urban,<2 Lakh,Intermediate,"Agriculture, Social Media, Design, Research",Marketing,Rural
+952,Student_952,22,Male,Undergraduate,6.07,0,Semi-Urban,5-8 Lakh,Basic,"Teaching, Java, Customer Service, Project Management, Biology",Healthcare,Rural
+953,Student_953,19,Female,Undergraduate,7.46,0,Urban,>8 Lakh,Intermediate,"Problem Solving, English, Local Language, Design",Healthcare,Mumbai
+954,Student_954,24,Female,Undergraduate,5.97,0,Urban,>8 Lakh,Basic,"Customer Service, Healthcare, Java",Education,Mumbai
+955,Student_955,20,Other,Postgraduate,8.52,0,Rural,2-5 Lakh,Basic,"Sales, English, Local Language, Marketing, Mathematics",Environment,Hyderabad
+956,Student_956,20,Female,Undergraduate,8.47,3,Urban,<2 Lakh,Intermediate,"Agriculture, MS Office, Field Work",Marketing,Mumbai
+957,Student_957,21,Female,Undergraduate,7.84,1,Semi-Urban,2-5 Lakh,Advanced,"Design, Leadership, Research",Media,Bangalore
+958,Student_958,18,Male,Postgraduate,7.63,1,Rural,<2 Lakh,Basic,"Marketing, Problem Solving, Chemistry",IT,Bangalore
+959,Student_959,19,Female,Diploma,9.31,3,Urban,>8 Lakh,Intermediate,"Customer Service, Healthcare, Social Media, Research, Field Work",Finance,Mumbai
+960,Student_960,22,Female,Undergraduate,7.2,0,Semi-Urban,<2 Lakh,Basic,"Leadership, Mathematics",Agriculture,Mumbai
+961,Student_961,18,Male,Diploma,5.78,2,Urban,<2 Lakh,Basic,"Finance, Java, Customer Service",Education,Rural
+962,Student_962,21,Male,Diploma,7.74,1,Urban,2-5 Lakh,Basic,"Design, Customer Service, Agriculture, Leadership",Healthcare,Mumbai
+963,Student_963,19,Female,Diploma,9.7,2,Urban,2-5 Lakh,Basic,"Marketing, Social Media, Teaching, Data Analysis",Finance,Delhi
+964,Student_964,20,Male,Postgraduate,5.98,0,Urban,5-8 Lakh,Basic,"MS Office, English, Excel",Agriculture,Pune
+965,Student_965,20,Female,Postgraduate,6.77,2,Rural,2-5 Lakh,Basic,"Finance, Sales, Excel, Customer Service, Biology",Manufacturing,Any
+966,Student_966,20,Female,Undergraduate,7.7,0,Urban,<2 Lakh,Intermediate,"Data Analysis, Java, Teaching, Marketing, Local Language",NGO,Bangalore
+967,Student_967,22,Male,Undergraduate,7.14,0,Urban,<2 Lakh,Basic,"Team Work, Java",IT,Delhi
+968,Student_968,20,Male,Undergraduate,6.02,2,Urban,2-5 Lakh,Intermediate,"Excel, Data Analysis, Mathematics",Environment,Hyderabad
+969,Student_969,21,Male,Postgraduate,8.55,0,Rural,<2 Lakh,Basic,"Chemistry, Project Management",Marketing,Any
+970,Student_970,21,Male,Undergraduate,9.98,1,Semi-Urban,2-5 Lakh,Intermediate,"Biology, Local Language, Customer Service",Marketing,Rural
+971,Student_971,22,Male,Diploma,7.44,1,Urban,2-5 Lakh,Intermediate,"Data Analysis, Healthcare, MS Office",Education,Pune
+972,Student_972,24,Female,Diploma,6.12,1,Urban,5-8 Lakh,Basic,"Research, Python, Data Analysis, Biology, Communication",IT,Bangalore
+973,Student_973,22,Male,Undergraduate,5.34,0,Urban,>8 Lakh,Basic,"Biology, Chemistry, Healthcare, Social Media",Manufacturing,Hyderabad
+974,Student_974,19,Male,Undergraduate,7.51,0,Urban,>8 Lakh,Intermediate,"Field Work, Team Work",Government,Delhi
+975,Student_975,18,Male,Diploma,8.52,0,Rural,>8 Lakh,Advanced,"Field Work, Data Analysis",NGO,Pune
+976,Student_976,20,Female,High School,7.77,1,Rural,<2 Lakh,Basic,"Marketing, Social Media, Customer Service",NGO,Rural
+977,Student_977,21,Male,Undergraduate,7.2,0,Urban,<2 Lakh,Basic,"MS Office, Chemistry, Research",Finance,Any
+978,Student_978,18,Male,High School,6.49,0,Urban,2-5 Lakh,Advanced,"Marketing, Finance, Customer Service",Healthcare,Mumbai
+979,Student_979,21,Female,Undergraduate,5.89,0,Urban,5-8 Lakh,Basic,"English, Sales, Research, Teaching, Agriculture",Government,Delhi
+980,Student_980,21,Female,Postgraduate,8.2,0,Rural,>8 Lakh,Intermediate,"Healthcare, Finance, Communication, Mathematics, Biology",Healthcare,Hyderabad
+981,Student_981,20,Male,Undergraduate,8.3,1,Urban,5-8 Lakh,Basic,"Healthcare, Chemistry, MS Office",Education,Rural
+982,Student_982,22,Female,Diploma,5.35,2,Semi-Urban,<2 Lakh,Basic,"Data Analysis, Sales, MS Office, Design, Java",Healthcare,Rural
+983,Student_983,19,Male,Undergraduate,9.11,0,Rural,>8 Lakh,Intermediate,"Project Management, Social Media, Biology",IT,Mumbai
+984,Student_984,18,Male,Undergraduate,7.89,1,Urban,2-5 Lakh,Intermediate,"Leadership, Python, Teaching, Customer Service",IT,Mumbai
+985,Student_985,22,Male,Undergraduate,8.88,1,Rural,<2 Lakh,Basic,"Project Management, Biology, Design",Finance,Chennai
+986,Student_986,21,Male,Postgraduate,5.59,1,Semi-Urban,2-5 Lakh,Intermediate,"Research, Leadership",Education,Bangalore
+987,Student_987,22,Female,High School,5.56,1,Rural,<2 Lakh,Intermediate,"Data Analysis, MS Office, Social Media, Marketing, Project Management",Finance,Rural
+988,Student_988,20,Male,Undergraduate,7.02,1,Urban,2-5 Lakh,Intermediate,"Social Media, Healthcare, Customer Service",Manufacturing,Chennai
+989,Student_989,19,Male,Undergraduate,7.8,1,Urban,2-5 Lakh,Basic,"English, Local Language, MS Office, Teaching",Agriculture,Rural
+990,Student_990,23,Female,Postgraduate,9.36,0,Semi-Urban,2-5 Lakh,Intermediate,"Chemistry, Healthcare, Biology",Environment,Hyderabad
+991,Student_991,22,Female,Diploma,8.05,1,Rural,2-5 Lakh,Intermediate,"English, Biology",Environment,Rural
+992,Student_992,22,Male,Undergraduate,6.91,1,Rural,5-8 Lakh,Intermediate,"Healthcare, Finance",Environment,Bangalore
+993,Student_993,20,Female,Undergraduate,5.97,0,Semi-Urban,5-8 Lakh,Intermediate,"Problem Solving, Biology, Mathematics",Healthcare,Rural
+994,Student_994,21,Male,Diploma,8.68,0,Semi-Urban,2-5 Lakh,Basic,"Sales, Problem Solving, Leadership, Biology",Media,Mumbai
+995,Student_995,20,Female,High School,6.04,3,Semi-Urban,5-8 Lakh,Intermediate,"Customer Service, Healthcare, Problem Solving",Media,Hyderabad
+996,Student_996,18,Female,Postgraduate,9.15,1,Urban,>8 Lakh,Intermediate,"Customer Service, English, Java, Agriculture",Marketing,Mumbai
+997,Student_997,24,Female,Diploma,6.86,1,Rural,<2 Lakh,Basic,"Java, Excel, Local Language, Chemistry",Healthcare,Chennai
+998,Student_998,19,Male,Diploma,9.11,2,Rural,2-5 Lakh,Intermediate,"Python, Design, Leadership, English",IT,Bangalore
+999,Student_999,25,Male,Diploma,8.01,1,Rural,<2 Lakh,Basic,"Social Media, Excel, Field Work",Healthcare,Mumbai
+1000,Student_1000,20,Male,Postgraduate,7.04,1,Rural,<2 Lakh,Intermediate,"Leadership, Python, Data Analysis, Agriculture, Finance",Finance,Any

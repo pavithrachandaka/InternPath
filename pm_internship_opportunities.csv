@@ -1,0 +1,801 @@
+internship_id,title,company,sector,required_skills,location,duration_months,stipend,education_requirement,description,slots_available,application_deadline
+1,Cybersecurity Intern,Eicher Motors,IT,"Data Analysis, Excel, Python, Communication",Delhi,6,4000,High School,Work on real-world it projects and gain hands-on experience.,4,2025-10-12
+2,Public Health Intern,Sun Pharma,Healthcare,"MS Office, Biology, Communication",Hyderabad,12,5000,Any,Support healthcare operations and contribute to team objectives.,3,2025-10-22
+3,Web Development Intern,ICICI Bank,IT,"Communication, Python, Data Analysis",Lucknow,12,5000,Diploma,Assist with research and development in it field.,6,2025-12-01
+4,Clinical Data Intern,Infosys,Healthcare,"Problem Solving, Biology, Research, MS Office",Rural,6,4000,High School,Assist with research and development in healthcare field.,9,2025-10-21
+5,Risk Management Intern,Bajaj Finance,Finance,"Finance, Mathematics, Data Analysis, Communication",Hyderabad,12,4000,Diploma,Work on real-world finance projects and gain hands-on experience.,8,2025-11-13
+6,Administrative Intern,HDFC Bank,Government,"English, MS Office, Research, Leadership",Delhi,6,4000,High School,Work on real-world government projects and gain hands-on experience.,10,2025-12-01
+7,Administrative Intern,Tata Consultancy Services,Government,"Leadership, Research",Chandigarh,6,5000,High School,Learn industry best practices in government domain.,4,2025-11-19
+8,Audit Intern,Sun Pharma,Finance,"Mathematics, Data Analysis, Excel",Mumbai,12,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,2,2025-12-02
+9,Social Media Intern,Tata Consultancy Services,Marketing,"Marketing, Design, MS Office, Social Media",Mumbai,12,6000,High School,Work on real-world marketing projects and gain hands-on experience.,8,2025-12-02
+10,Educational Content Intern,State Bank of India,Education,"Communication, Leadership, MS Office",Hyderabad,6,5000,High School,Learn industry best practices in education domain.,8,2025-11-30
+11,Quality Control Intern,Nestle India,Manufacturing,"Excel, Team Work",Ahmedabad,12,5000,Undergraduate,Assist with research and development in manufacturing field.,6,2025-11-22
+12,Legal Affairs Intern,Dr. Reddy's Labs,Government,"Communication, Research, English, MS Office",Any Location,12,6000,Diploma,Work on real-world government projects and gain hands-on experience.,8,2025-11-04
+13,Communication Intern,Hero MotoCorp,Government,"English, Communication, MS Office, Leadership",Rural,12,4000,Undergraduate,Contribute to innovative government solutions and processes.,9,2025-10-10
+14,Student Support Intern,Wipro,Education,"Teaching, Leadership, English",Delhi,6,5000,High School,Learn industry best practices in education domain.,1,2025-11-19
+15,Production Intern,Bharti Airtel,Manufacturing,"Team Work, Project Management, Excel, Problem Solving",Kolkata,12,5000,Diploma,Assist with research and development in manufacturing field.,9,2025-10-31
+16,Agricultural Research Intern,Reliance Industries,Agriculture,"Agriculture, Research, Local Language, Field Work",Any Location,12,4000,Any,Support agriculture operations and contribute to team objectives.,2,2025-10-13
+17,Public Service Intern,Wipro,Government,"MS Office, Leadership",Delhi,12,5000,Diploma,Contribute to innovative government solutions and processes.,1,2025-11-19
+18,Farm Management Intern,Jubilant Foodworks,Agriculture,"Agriculture, Field Work",Ahmedabad,12,5000,Any,Work on real-world agriculture projects and gain hands-on experience.,8,2025-12-02
+19,Legal Affairs Intern,Dr. Reddy's Labs,Government,"Research, English, MS Office",Bhopal,12,4000,High School,Work on real-world government projects and gain hands-on experience.,8,2025-11-03
+20,Agri-tech Intern,State Bank of India,Agriculture,"Agriculture, Research, Field Work, Local Language",Bhopal,6,4000,Any,Learn industry best practices in agriculture domain.,4,2025-11-01
+21,Data Science Intern,Mahindra Group,IT,"Data Analysis, Excel, Problem Solving",Chandigarh,12,4000,Undergraduate,Assist with research and development in it field.,8,2025-10-16
+22,Healthcare Administration Intern,Maruti Suzuki,Healthcare,"Communication, Problem Solving",Any Location,12,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,7,2025-11-11
+23,Production Intern,State Bank of India,Manufacturing,"Team Work, Excel",Bangalore,12,5000,Any,Work on real-world manufacturing projects and gain hands-on experience.,2,2025-10-25
+24,Investment Banking Intern,Larsen & Toubro,Finance,"Data Analysis, Finance",Ahmedabad,12,5000,Diploma,Learn industry best practices in finance domain.,5,2025-10-15
+25,Agri-tech Intern,Larsen & Toubro,Agriculture,"Agriculture, Field Work, Local Language, Research",Ahmedabad,12,5000,High School,Contribute to innovative agriculture solutions and processes.,10,2025-11-25
+26,AI/ML Intern,Sun Pharma,IT,"Excel, Problem Solving, Java",Chandigarh,12,6000,Diploma,Support it operations and contribute to team objectives.,4,2025-10-15
+27,Agricultural Marketing Intern,ICICI Bank,Agriculture,"Local Language, Research, Field Work, Agriculture",Lucknow,12,5000,Diploma,Learn industry best practices in agriculture domain.,3,2025-11-03
+28,Supply Chain Intern,Tata Consultancy Services,Manufacturing,"Team Work, Problem Solving, Excel",Lucknow,6,4000,Undergraduate,Contribute to innovative manufacturing solutions and processes.,1,2025-12-03
+29,Industrial Design Intern,Godrej Consumer,Manufacturing,"Team Work, Problem Solving, Project Management, Excel",Bhopal,12,5000,Undergraduate,Support manufacturing operations and contribute to team objectives.,5,2025-11-23
+30,Academic Research Intern,Godrej Consumer,Education,"Communication, Teaching, English, MS Office",Lucknow,12,5000,Any,Contribute to innovative education solutions and processes.,10,2025-10-27
+31,Agri-tech Intern,Godrej Consumer,Agriculture,"Agriculture, Research, Field Work, Local Language",Delhi,12,5000,High School,Support agriculture operations and contribute to team objectives.,8,2025-10-26
+32,Learning Design Intern,Asian Paints,Education,"Communication, English, Teaching, Leadership",Chennai,12,5000,High School,Learn industry best practices in education domain.,9,2025-11-30
+33,Policy Research Intern,Eicher Motors,Government,"Leadership, Communication, MS Office, English",Chennai,12,4000,Undergraduate,Work on real-world government projects and gain hands-on experience.,7,2025-12-07
+34,Farm Management Intern,Hindustan Unilever,Agriculture,"Local Language, Research, Agriculture",Delhi,12,5000,Undergraduate,Support agriculture operations and contribute to team objectives.,1,2025-11-17
+35,Administrative Intern,Bharti Airtel,Government,"MS Office, Communication, Leadership, Research",Hyderabad,12,6000,Any,Support government operations and contribute to team objectives.,1,2025-11-21
+36,Healthcare Administration Intern,Dr. Reddy's Labs,Healthcare,"Problem Solving, Biology",Kolkata,12,5000,High School,Assist with research and development in healthcare field.,1,2025-10-26
+37,Brand Management Intern,UltraTech Cement,Marketing,"MS Office, Marketing",Delhi,12,5000,Undergraduate,Assist with research and development in marketing field.,2,2025-11-23
+38,Teaching Assistant,Bharti Airtel,Education,"Communication, Teaching",Rural,12,5000,Undergraduate,Assist with research and development in education field.,1,2025-11-28
+39,Production Intern,Tata Consultancy Services,Manufacturing,"Project Management, Excel, Problem Solving, Team Work",Jaipur,6,5000,High School,Contribute to innovative manufacturing solutions and processes.,4,2025-10-19
+40,Agricultural Marketing Intern,Infosys,Agriculture,"Research, Agriculture, Field Work, Local Language",Chennai,6,5000,Undergraduate,Learn industry best practices in agriculture domain.,10,2025-11-01
+41,Brand Management Intern,Larsen & Toubro,Marketing,"MS Office, Design, Marketing, Social Media",Mumbai,12,6000,Undergraduate,Assist with research and development in marketing field.,9,2025-10-24
+42,Financial Analysis Intern,Wipro,Finance,"Mathematics, Data Analysis, Excel, Finance",Hyderabad,6,5000,Undergraduate,Work on real-world finance projects and gain hands-on experience.,4,2025-12-06
+43,Industrial Design Intern,ICICI Bank,Manufacturing,"Excel, Team Work, Problem Solving, Project Management",Bhopal,12,5000,Diploma,Learn industry best practices in manufacturing domain.,4,2025-11-10
+44,Medical Research Intern,Dr. Reddy's Labs,Healthcare,"Problem Solving, Biology",Bhopal,6,5000,High School,Support healthcare operations and contribute to team objectives.,7,2025-11-20
+45,Insurance Intern,Maruti Suzuki,Finance,"Excel, Finance, Mathematics",Any Location,12,6000,Any,Work on real-world finance projects and gain hands-on experience.,9,2025-11-25
+46,Teaching Assistant,Eicher Motors,Education,"Communication, Teaching, Leadership",Mumbai,6,5000,High School,Support education operations and contribute to team objectives.,7,2025-11-28
+47,Content Marketing Intern,Tech Mahindra,Marketing,"MS Office, Communication",Hyderabad,12,4000,Any,Assist with research and development in marketing field.,1,2025-11-06
+48,Farm Management Intern,Asian Paints,Agriculture,"Agriculture, Field Work, Research",Jaipur,12,5000,High School,Contribute to innovative agriculture solutions and processes.,1,2025-10-13
+49,Mobile App Development Intern,Eicher Motors,IT,"Data Analysis, Excel",Mumbai,12,5000,Undergraduate,Learn industry best practices in it domain.,4,2025-11-16
+50,Pharmacy Intern,UltraTech Cement,Healthcare,"MS Office, Problem Solving, Communication",Delhi,12,5000,Any,Support healthcare operations and contribute to team objectives.,4,2025-11-12
+51,Investment Banking Intern,Reliance Industries,Finance,"Data Analysis, Mathematics, Communication, Excel",Hyderabad,12,5000,Undergraduate,Work on real-world finance projects and gain hands-on experience.,1,2025-11-13
+52,Teaching Assistant,Wipro,Education,"Teaching, Leadership",Jaipur,12,5000,High School,Learn industry best practices in education domain.,6,2025-10-22
+53,Quality Control Intern,Muthoot Finance,Manufacturing,"Team Work, Problem Solving, Project Management",Chennai,6,5000,Undergraduate,Support manufacturing operations and contribute to team objectives.,10,2025-10-16
+54,Academic Research Intern,Mahindra Group,Education,"MS Office, Leadership",Bhopal,12,6000,High School,Learn industry best practices in education domain.,2,2025-11-20
+55,Pharmacy Intern,Bharti Airtel,Healthcare,"Research, MS Office",Pune,12,5000,Undergraduate,Support healthcare operations and contribute to team objectives.,5,2025-11-20
+56,Financial Analysis Intern,UltraTech Cement,Finance,"Communication, Excel, Data Analysis",Pune,12,5000,Any,Assist with research and development in finance field.,8,2025-10-30
+57,Content Marketing Intern,Bharti Airtel,Marketing,"MS Office, Marketing",Rural,6,5000,Undergraduate,Assist with research and development in marketing field.,3,2025-10-19
+58,Web Development Intern,Mahindra Group,IT,"Java, Problem Solving",Hyderabad,12,5000,Undergraduate,Support it operations and contribute to team objectives.,9,2025-11-21
+59,Process Engineering Intern,Nestle India,Manufacturing,"Excel, Team Work, Project Management",Ahmedabad,6,5000,High School,Support manufacturing operations and contribute to team objectives.,7,2025-11-19
+60,Pharmacy Intern,Tech Mahindra,Healthcare,"Problem Solving, Research",Hyderabad,12,4000,High School,Work on real-world healthcare projects and gain hands-on experience.,9,2025-12-05
+61,AI/ML Intern,Bajaj Finance,IT,"Python, Excel, Problem Solving, Data Analysis",Chennai,12,5000,High School,Contribute to innovative it solutions and processes.,1,2025-10-25
+62,Administrative Intern,Wipro,Government,"English, Communication, MS Office",Chandigarh,6,5000,Undergraduate,Support government operations and contribute to team objectives.,5,2025-11-07
+63,Public Health Intern,Larsen & Toubro,Healthcare,"Problem Solving, Biology, Communication",Chennai,12,5000,Diploma,Contribute to innovative healthcare solutions and processes.,3,2025-10-17
+64,Administrative Intern,State Bank of India,Government,"Leadership, Communication",Chandigarh,12,5000,Any,Learn industry best practices in government domain.,4,2025-10-11
+65,Audit Intern,Reliance Industries,Finance,"Excel, Mathematics",Pune,12,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,4,2025-11-20
+66,Accounting Intern,Bajaj Finance,Finance,"Data Analysis, Communication, Finance",Delhi,6,5000,High School,Learn industry best practices in finance domain.,7,2025-10-15
+67,Social Media Intern,Godrej Consumer,Marketing,"MS Office, Communication, Design, Marketing",Pune,12,4000,High School,Contribute to innovative marketing solutions and processes.,10,2025-10-25
+68,Agricultural Research Intern,Asian Paints,Agriculture,"Research, Field Work, Local Language, Agriculture",Rural,6,5000,Any,Contribute to innovative agriculture solutions and processes.,8,2025-10-09
+69,Student Support Intern,Reliance Industries,Education,"English, Teaching",Jaipur,12,5000,Undergraduate,Support education operations and contribute to team objectives.,10,2025-10-18
+70,Educational Content Intern,TVS Motor,Education,"MS Office, Teaching, Communication",Chennai,12,5000,Any,Learn industry best practices in education domain.,5,2025-11-24
+71,Public Health Intern,Larsen & Toubro,Healthcare,"MS Office, Problem Solving, Biology, Communication",Bhopal,12,6000,Any,Work on real-world healthcare projects and gain hands-on experience.,10,2025-10-24
+72,Data Science Intern,Tata Consultancy Services,IT,"Excel, Java, Communication, Data Analysis",Jaipur,6,5000,High School,Contribute to innovative it solutions and processes.,7,2025-10-18
+73,Data Science Intern,Bharti Airtel,IT,"Java, Excel, Problem Solving",Lucknow,12,5000,High School,Learn industry best practices in it domain.,3,2025-12-08
+74,Healthcare Administration Intern,Tech Mahindra,Healthcare,"Problem Solving, MS Office, Research",Bangalore,6,5000,Diploma,Assist with research and development in healthcare field.,3,2025-11-16
+75,Academic Research Intern,Mahindra Group,Education,"MS Office, Communication",Bangalore,12,5000,Undergraduate,Assist with research and development in education field.,3,2025-11-16
+76,Healthcare Administration Intern,TVS Motor,Healthcare,"MS Office, Research, Biology",Delhi,6,5000,Diploma,Contribute to innovative healthcare solutions and processes.,4,2025-12-03
+77,Agricultural Research Intern,Nestle India,Agriculture,"Agriculture, Research, Field Work, Local Language",Rural,12,5000,High School,Work on real-world agriculture projects and gain hands-on experience.,6,2025-11-08
+78,Academic Research Intern,Asian Paints,Education,"Teaching, Leadership, Communication, English",Pune,6,5000,High School,Contribute to innovative education solutions and processes.,5,2025-11-05
+79,Audit Intern,State Bank of India,Finance,"Mathematics, Excel, Finance",Bangalore,6,4000,Undergraduate,Assist with research and development in finance field.,8,2025-11-27
+80,Financial Analysis Intern,HDFC Bank,Finance,"Communication, Data Analysis, Finance",Chennai,6,5000,High School,Work on real-world finance projects and gain hands-on experience.,5,2025-11-14
+81,Clinical Data Intern,Asian Paints,Healthcare,"MS Office, Research",Chandigarh,12,5000,Undergraduate,Assist with research and development in healthcare field.,5,2025-11-01
+82,Healthcare Administration Intern,Jubilant Foodworks,Healthcare,"Problem Solving, Communication, Research",Any Location,6,5000,Any,Contribute to innovative healthcare solutions and processes.,10,2025-11-01
+83,Market Research Intern,Asian Paints,Marketing,"Design, MS Office",Bangalore,12,5000,Undergraduate,Contribute to innovative marketing solutions and processes.,2,2025-11-13
+84,Public Service Intern,Larsen & Toubro,Government,"Leadership, MS Office, English",Kolkata,12,5000,Diploma,Work on real-world government projects and gain hands-on experience.,5,2025-11-25
+85,Audit Intern,UltraTech Cement,Finance,"Finance, Excel, Data Analysis, Communication",Rural,12,5000,Undergraduate,Contribute to innovative finance solutions and processes.,7,2025-11-17
+86,Data Science Intern,Hero MotoCorp,IT,"Communication, Python, Excel",Any Location,12,5000,Diploma,Assist with research and development in it field.,2,2025-12-07
+87,Agri-tech Intern,Tata Consultancy Services,Agriculture,"Local Language, Agriculture",Pune,6,5000,High School,Contribute to innovative agriculture solutions and processes.,6,2025-10-11
+88,Farm Management Intern,TVS Motor,Agriculture,"Local Language, Research, Agriculture, Field Work",Bhopal,12,5000,Any,Assist with research and development in agriculture field.,7,2025-10-09
+89,Insurance Intern,Asian Paints,Finance,"Mathematics, Finance, Excel, Communication",Lucknow,6,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,5,2025-11-01
+90,Insurance Intern,Nestle India,Finance,"Finance, Excel",Hyderabad,12,4000,Any,Learn industry best practices in finance domain.,9,2025-11-20
+91,Farm Management Intern,Wipro,Agriculture,"Field Work, Local Language, Agriculture, Research",Mumbai,6,5000,Undergraduate,Contribute to innovative agriculture solutions and processes.,4,2025-12-06
+92,Supply Chain Intern,Mahindra Group,Manufacturing,"Team Work, Project Management, Problem Solving",Ahmedabad,12,5000,Any,Contribute to innovative manufacturing solutions and processes.,10,2025-10-09
+93,Brand Management Intern,State Bank of India,Marketing,"MS Office, Social Media, Marketing",Mumbai,12,5000,Undergraduate,Learn industry best practices in marketing domain.,1,2025-12-08
+94,Clinical Data Intern,State Bank of India,Healthcare,"Problem Solving, Communication, MS Office",Ahmedabad,12,6000,Any,Contribute to innovative healthcare solutions and processes.,8,2025-11-08
+95,Risk Management Intern,Asian Paints,Finance,"Data Analysis, Excel, Finance",Mumbai,6,5000,Undergraduate,Work on real-world finance projects and gain hands-on experience.,8,2025-11-02
+96,Insurance Intern,Nestle India,Finance,"Finance, Mathematics, Communication, Data Analysis",Jaipur,12,6000,High School,Learn industry best practices in finance domain.,7,2025-10-24
+97,Digital Marketing Intern,Bajaj Finance,Marketing,"Marketing, Social Media, MS Office",Bangalore,6,5000,Any,Learn industry best practices in marketing domain.,8,2025-10-31
+98,Accounting Intern,Hero MotoCorp,Finance,"Finance, Communication, Data Analysis",Chandigarh,12,5000,Diploma,Support finance operations and contribute to team objectives.,2,2025-11-25
+99,Risk Management Intern,Muthoot Finance,Finance,"Finance, Communication",Any Location,12,4000,Diploma,Contribute to innovative finance solutions and processes.,3,2025-10-31
+100,Teaching Assistant,Mahindra Group,Education,"Teaching, Leadership",Lucknow,12,5000,High School,Contribute to innovative education solutions and processes.,9,2025-10-11
+101,Public Service Intern,Nestle India,Government,"MS Office, English, Leadership, Communication",Ahmedabad,12,5000,Diploma,Contribute to innovative government solutions and processes.,1,2025-10-26
+102,Agricultural Research Intern,Reliance Industries,Agriculture,"Field Work, Agriculture, Research, Local Language",Jaipur,12,5000,High School,Contribute to innovative agriculture solutions and processes.,8,2025-10-31
+103,Agricultural Research Intern,Muthoot Finance,Agriculture,"Agriculture, Local Language, Field Work",Pune,12,5000,High School,Work on real-world agriculture projects and gain hands-on experience.,8,2025-11-21
+104,Audit Intern,Muthoot Finance,Finance,"Excel, Mathematics, Finance, Data Analysis",Bangalore,12,5000,Undergraduate,Support finance operations and contribute to team objectives.,7,2025-10-26
+105,Communication Intern,Mahindra Group,Government,"MS Office, Communication, English",Kolkata,12,4000,Diploma,Assist with research and development in government field.,5,2025-11-22
+106,Supply Chain Intern,Nestle India,Manufacturing,"Project Management, Team Work, Problem Solving",Lucknow,12,5000,Diploma,Contribute to innovative manufacturing solutions and processes.,4,2025-11-21
+107,Financial Analysis Intern,Nestle India,Finance,"Mathematics, Finance, Communication, Data Analysis",Any Location,6,5000,Any,Support finance operations and contribute to team objectives.,10,2025-10-18
+108,Student Support Intern,ICICI Bank,Education,"English, Leadership",Ahmedabad,12,5000,Diploma,Contribute to innovative education solutions and processes.,10,2025-11-12
+109,Process Engineering Intern,Nestle India,Manufacturing,"Project Management, Excel, Problem Solving",Kolkata,12,5000,High School,Support manufacturing operations and contribute to team objectives.,10,2025-10-12
+110,Risk Management Intern,Maruti Suzuki,Finance,"Excel, Data Analysis, Mathematics",Pune,6,5000,Undergraduate,Learn industry best practices in finance domain.,10,2025-11-01
+111,Social Media Intern,Bharti Airtel,Marketing,"Design, Social Media",Pune,12,6000,Diploma,Contribute to innovative marketing solutions and processes.,6,2025-11-14
+112,Learning Design Intern,UltraTech Cement,Education,"Communication, Leadership, MS Office",Ahmedabad,12,4000,High School,Assist with research and development in education field.,1,2025-11-17
+113,Market Research Intern,Hindustan Unilever,Marketing,"Communication, MS Office, Marketing, Design",Kolkata,6,5000,Any,Work on real-world marketing projects and gain hands-on experience.,5,2025-10-14
+114,Learning Design Intern,State Bank of India,Education,"Communication, MS Office",Bhopal,12,5000,Undergraduate,Learn industry best practices in education domain.,4,2025-11-16
+115,Rural Development Intern,Bharti Airtel,Agriculture,"Local Language, Research, Field Work",Kolkata,12,5000,Diploma,Support agriculture operations and contribute to team objectives.,4,2025-12-02
+116,Data Science Intern,Tata Consultancy Services,IT,"Java, Data Analysis, Python, Problem Solving",Bangalore,12,5000,Any,Work on real-world it projects and gain hands-on experience.,7,2025-10-15
+117,Public Health Intern,Infosys,Healthcare,"Biology, Problem Solving, Research, MS Office",Mumbai,12,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,9,2025-10-18
+118,Public Health Intern,Tata Consultancy Services,Healthcare,"Research, Problem Solving, Communication",Hyderabad,12,5000,Any,Support healthcare operations and contribute to team objectives.,8,2025-10-17
+119,Teaching Assistant,Asian Paints,Education,"Communication, MS Office",Any Location,6,5000,Any,Assist with research and development in education field.,8,2025-12-03
+120,Content Marketing Intern,Godrej Consumer,Marketing,"Communication, MS Office, Marketing",Lucknow,12,5000,Any,Contribute to innovative marketing solutions and processes.,5,2025-11-05
+121,Social Media Intern,Asian Paints,Marketing,"MS Office, Communication, Social Media",Ahmedabad,12,4000,Undergraduate,Learn industry best practices in marketing domain.,6,2025-11-04
+122,Brand Management Intern,Reliance Industries,Marketing,"Social Media, MS Office, Marketing",Any Location,12,5000,Diploma,Learn industry best practices in marketing domain.,2,2025-10-27
+123,Communication Intern,Tech Mahindra,Government,"English, Leadership",Hyderabad,12,5000,High School,Assist with research and development in government field.,3,2025-11-29
+124,Content Marketing Intern,Bharti Airtel,Marketing,"Social Media, Marketing",Chennai,12,4000,Any,Contribute to innovative marketing solutions and processes.,5,2025-11-05
+125,Agricultural Research Intern,Reliance Industries,Agriculture,"Research, Field Work",Chennai,12,5000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,2,2025-11-05
+126,Accounting Intern,Bajaj Finance,Finance,"Mathematics, Communication, Data Analysis, Finance",Kolkata,12,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,3,2025-10-20
+127,Learning Design Intern,Godrej Consumer,Education,"Leadership, MS Office",Hyderabad,12,6000,Any,Support education operations and contribute to team objectives.,4,2025-10-29
+128,Data Science Intern,Maruti Suzuki,IT,"Excel, Python",Bangalore,12,5000,High School,Learn industry best practices in it domain.,6,2025-10-26
+129,Student Support Intern,ICICI Bank,Education,"Teaching, English, MS Office, Communication",Delhi,12,6000,Any,Support education operations and contribute to team objectives.,5,2025-10-30
+130,Rural Development Intern,Bajaj Finance,Agriculture,"Local Language, Field Work, Agriculture",Pune,12,5000,High School,Support agriculture operations and contribute to team objectives.,10,2025-10-12
+131,Market Research Intern,Muthoot Finance,Marketing,"MS Office, Design",Bangalore,6,5000,Diploma,Learn industry best practices in marketing domain.,4,2025-11-30
+132,Agri-tech Intern,State Bank of India,Agriculture,"Field Work, Research",Rural,12,6000,Any,Support agriculture operations and contribute to team objectives.,2,2025-11-25
+133,Data Science Intern,Bajaj Finance,IT,"Communication, Python, Java",Ahmedabad,12,5000,Any,Learn industry best practices in it domain.,5,2025-12-07
+134,Quality Control Intern,Tata Consultancy Services,Manufacturing,"Problem Solving, Project Management, Excel, Team Work",Ahmedabad,12,4000,Undergraduate,Support manufacturing operations and contribute to team objectives.,5,2025-11-01
+135,Mobile App Development Intern,Reliance Industries,IT,"Python, Java",Bhopal,12,5000,Any,Learn industry best practices in it domain.,7,2025-10-09
+136,Learning Design Intern,ICICI Bank,Education,"Teaching, Leadership, MS Office, Communication",Delhi,12,6000,Any,Contribute to innovative education solutions and processes.,1,2025-10-18
+137,Production Intern,Nestle India,Manufacturing,"Team Work, Excel",Mumbai,6,5000,Undergraduate,Work on real-world manufacturing projects and gain hands-on experience.,4,2025-10-12
+138,Quality Control Intern,Muthoot Finance,Manufacturing,"Problem Solving, Excel, Team Work, Project Management",Pune,12,5000,Undergraduate,Assist with research and development in manufacturing field.,5,2025-11-24
+139,Financial Analysis Intern,ICICI Bank,Finance,"Data Analysis, Mathematics, Communication, Excel",Hyderabad,12,5000,High School,Assist with research and development in finance field.,8,2025-11-23
+140,Communication Intern,TVS Motor,Government,"Leadership, English, Research",Lucknow,6,6000,Diploma,Contribute to innovative government solutions and processes.,8,2025-10-31
+141,Process Engineering Intern,HDFC Bank,Manufacturing,"Team Work, Problem Solving, Project Management",Ahmedabad,6,4000,Undergraduate,Learn industry best practices in manufacturing domain.,1,2025-11-12
+142,Process Engineering Intern,Tech Mahindra,Manufacturing,"Excel, Project Management",Bangalore,12,5000,High School,Contribute to innovative manufacturing solutions and processes.,5,2025-12-02
+143,Industrial Design Intern,Mahindra Group,Manufacturing,"Project Management, Excel",Mumbai,12,5000,Any,Support manufacturing operations and contribute to team objectives.,10,2025-11-11
+144,Communication Intern,Infosys,Government,"Leadership, MS Office",Pune,12,5000,Any,Learn industry best practices in government domain.,1,2025-10-16
+145,Clinical Data Intern,Mahindra Group,Healthcare,"Biology, Problem Solving, MS Office, Communication",Any Location,12,5000,High School,Support healthcare operations and contribute to team objectives.,1,2025-10-15
+146,Administrative Intern,Muthoot Finance,Government,"Research, English",Bhopal,12,4000,Any,Contribute to innovative government solutions and processes.,2,2025-11-17
+147,Digital Marketing Intern,Jubilant Foodworks,Marketing,"Communication, Social Media, Design",Chennai,12,5000,Any,Work on real-world marketing projects and gain hands-on experience.,2,2025-11-07
+148,Web Development Intern,Wipro,IT,"Communication, Problem Solving, Data Analysis, Excel",Delhi,12,5000,Undergraduate,Contribute to innovative it solutions and processes.,9,2025-10-11
+149,Pharmacy Intern,Nestle India,Healthcare,"Research, Biology",Mumbai,6,4000,Diploma,Contribute to innovative healthcare solutions and processes.,4,2025-11-02
+150,Investment Banking Intern,HDFC Bank,Finance,"Finance, Communication, Mathematics, Data Analysis",Chandigarh,12,5000,High School,Contribute to innovative finance solutions and processes.,3,2025-10-31
+151,Legal Affairs Intern,Bajaj Finance,Government,"Communication, Leadership",Jaipur,12,5000,Any,Contribute to innovative government solutions and processes.,1,2025-10-30
+152,Academic Research Intern,Hindustan Unilever,Education,"Leadership, Communication, English, MS Office",Any Location,12,5000,Undergraduate,Assist with research and development in education field.,2,2025-11-26
+153,Rural Development Intern,Bajaj Finance,Agriculture,"Field Work, Local Language, Agriculture, Research",Rural,12,5000,Undergraduate,Learn industry best practices in agriculture domain.,6,2025-11-06
+154,Legal Affairs Intern,ICICI Bank,Government,"Research, MS Office",Lucknow,12,6000,High School,Contribute to innovative government solutions and processes.,9,2025-10-17
+155,Digital Marketing Intern,State Bank of India,Marketing,"Communication, MS Office, Design",Delhi,6,5000,Undergraduate,Contribute to innovative marketing solutions and processes.,5,2025-11-10
+156,Teaching Assistant,Hero MotoCorp,Education,"Leadership, Communication",Bangalore,6,5000,Diploma,Learn industry best practices in education domain.,4,2025-11-01
+157,Investment Banking Intern,Dr. Reddy's Labs,Finance,"Mathematics, Excel, Communication",Kolkata,6,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,5,2025-11-24
+158,Process Engineering Intern,Eicher Motors,Manufacturing,"Excel, Project Management",Chandigarh,6,5000,High School,Contribute to innovative manufacturing solutions and processes.,9,2025-11-19
+159,Digital Marketing Intern,Bharti Airtel,Marketing,"MS Office, Design, Social Media, Marketing",Rural,12,6000,Undergraduate,Learn industry best practices in marketing domain.,7,2025-12-04
+160,Farm Management Intern,Eicher Motors,Agriculture,"Field Work, Local Language",Bhopal,6,6000,High School,Assist with research and development in agriculture field.,8,2025-10-12
+161,Content Marketing Intern,Bajaj Finance,Marketing,"Marketing, Communication",Pune,6,5000,Diploma,Support marketing operations and contribute to team objectives.,4,2025-10-12
+162,Farm Management Intern,State Bank of India,Agriculture,"Agriculture, Research, Field Work, Local Language",Rural,12,5000,Any,Support agriculture operations and contribute to team objectives.,8,2025-10-17
+163,Production Intern,Muthoot Finance,Manufacturing,"Problem Solving, Project Management, Team Work",Hyderabad,12,4000,High School,Assist with research and development in manufacturing field.,6,2025-11-10
+164,Agricultural Research Intern,UltraTech Cement,Agriculture,"Research, Local Language",Chennai,6,5000,Any,Assist with research and development in agriculture field.,5,2025-11-19
+165,Accounting Intern,Muthoot Finance,Finance,"Communication, Finance, Excel, Mathematics",Hyderabad,12,4000,Any,Learn industry best practices in finance domain.,7,2025-11-21
+166,Medical Research Intern,Godrej Consumer,Healthcare,"MS Office, Problem Solving, Research, Communication",Chennai,12,5000,Undergraduate,Learn industry best practices in healthcare domain.,6,2025-11-16
+167,Web Development Intern,Mahindra Group,IT,"Data Analysis, Excel",Any Location,6,5000,Any,Contribute to innovative it solutions and processes.,3,2025-10-18
+168,Policy Research Intern,Asian Paints,Government,"Communication, MS Office",Bangalore,6,4000,High School,Work on real-world government projects and gain hands-on experience.,5,2025-11-25
+169,Data Science Intern,Jubilant Foodworks,IT,"Java, Data Analysis, Python, Communication",Chandigarh,12,5000,High School,Learn industry best practices in it domain.,9,2025-11-06
+170,Policy Research Intern,Nestle India,Government,"Communication, Leadership, Research",Jaipur,12,5000,Undergraduate,Contribute to innovative government solutions and processes.,7,2025-11-08
+171,Teaching Assistant,State Bank of India,Education,"MS Office, Teaching, English",Bangalore,12,5000,High School,Learn industry best practices in education domain.,4,2025-10-21
+172,Digital Marketing Intern,Wipro,Marketing,"Social Media, MS Office, Communication",Bhopal,6,5000,Undergraduate,Learn industry best practices in marketing domain.,7,2025-12-03
+173,Medical Research Intern,Hindustan Unilever,Healthcare,"MS Office, Research, Problem Solving",Jaipur,12,5000,High School,Learn industry best practices in healthcare domain.,5,2025-11-09
+174,Healthcare Administration Intern,Hero MotoCorp,Healthcare,"Problem Solving, MS Office",Jaipur,12,5000,High School,Work on real-world healthcare projects and gain hands-on experience.,2,2025-10-24
+175,Social Media Intern,Muthoot Finance,Marketing,"Design, Communication, Social Media",Pune,6,4000,Undergraduate,Learn industry best practices in marketing domain.,6,2025-11-18
+176,Brand Management Intern,Hindustan Unilever,Marketing,"Marketing, Social Media, MS Office, Communication",Kolkata,12,5000,High School,Contribute to innovative marketing solutions and processes.,7,2025-12-08
+177,Brand Management Intern,ICICI Bank,Marketing,"Marketing, Design",Bhopal,12,5000,Diploma,Work on real-world marketing projects and gain hands-on experience.,8,2025-11-24
+178,Agricultural Marketing Intern,State Bank of India,Agriculture,"Field Work, Research, Agriculture, Local Language",Kolkata,12,6000,Undergraduate,Contribute to innovative agriculture solutions and processes.,6,2025-10-30
+179,Communication Intern,Hero MotoCorp,Government,"Communication, Leadership",Lucknow,12,5000,Diploma,Support government operations and contribute to team objectives.,8,2025-10-28
+180,Student Support Intern,Reliance Industries,Education,"MS Office, English",Pune,12,5000,High School,Contribute to innovative education solutions and processes.,7,2025-11-12
+181,Healthcare Administration Intern,Muthoot Finance,Healthcare,"Research, Biology, Problem Solving",Kolkata,12,5000,Any,Learn industry best practices in healthcare domain.,2,2025-11-06
+182,Brand Management Intern,Nestle India,Marketing,"Social Media, Communication",Bangalore,12,6000,High School,Contribute to innovative marketing solutions and processes.,6,2025-11-17
+183,Content Marketing Intern,Wipro,Marketing,"MS Office, Communication, Marketing, Social Media",Chennai,6,5000,High School,Learn industry best practices in marketing domain.,9,2025-10-14
+184,Administrative Intern,TVS Motor,Government,"Leadership, English, MS Office, Communication",Bangalore,12,5000,Any,Assist with research and development in government field.,6,2025-11-08
+185,Educational Content Intern,Nestle India,Education,"English, Teaching",Kolkata,6,5000,High School,Learn industry best practices in education domain.,4,2025-12-08
+186,Agricultural Research Intern,Tata Consultancy Services,Agriculture,"Field Work, Agriculture, Local Language, Research",Ahmedabad,6,5000,Any,Learn industry best practices in agriculture domain.,7,2025-12-03
+187,Administrative Intern,State Bank of India,Government,"English, Research, MS Office",Chandigarh,12,4000,Any,Learn industry best practices in government domain.,3,2025-11-03
+188,AI/ML Intern,Godrej Consumer,IT,"Problem Solving, Communication",Any Location,12,5000,High School,Support it operations and contribute to team objectives.,5,2025-11-11
+189,Agri-tech Intern,Bajaj Finance,Agriculture,"Research, Local Language, Agriculture, Field Work",Hyderabad,12,4000,Any,Assist with research and development in agriculture field.,1,2025-12-04
+190,Social Media Intern,Godrej Consumer,Marketing,"Communication, Design, MS Office",Lucknow,12,5000,High School,Contribute to innovative marketing solutions and processes.,10,2025-12-05
+191,Student Support Intern,Asian Paints,Education,"Leadership, Teaching, Communication, MS Office",Bangalore,6,5000,Diploma,Assist with research and development in education field.,3,2025-11-04
+192,Process Engineering Intern,Eicher Motors,Manufacturing,"Team Work, Excel",Lucknow,12,5000,Diploma,Assist with research and development in manufacturing field.,8,2025-10-14
+193,Social Media Intern,Nestle India,Marketing,"Communication, Social Media, Design, Marketing",Chandigarh,12,5000,Any,Learn industry best practices in marketing domain.,9,2025-10-14
+194,Agricultural Marketing Intern,HDFC Bank,Agriculture,"Field Work, Research, Local Language, Agriculture",Rural,12,5000,Diploma,Learn industry best practices in agriculture domain.,9,2025-11-14
+195,Educational Content Intern,Bharti Airtel,Education,"English, Teaching",Kolkata,12,5000,Undergraduate,Learn industry best practices in education domain.,10,2025-11-24
+196,Public Service Intern,ICICI Bank,Government,"Communication, Research, English, MS Office",Delhi,12,5000,Undergraduate,Work on real-world government projects and gain hands-on experience.,2,2025-11-07
+197,Legal Affairs Intern,Bajaj Finance,Government,"Research, English, Leadership, MS Office",Lucknow,12,4000,Any,Assist with research and development in government field.,4,2025-11-04
+198,Policy Research Intern,Hero MotoCorp,Government,"Leadership, Research, English, Communication",Lucknow,12,5000,Diploma,Work on real-world government projects and gain hands-on experience.,5,2025-10-20
+199,Teaching Assistant,Infosys,Education,"Communication, Teaching, Leadership, MS Office",Bhopal,6,4000,Undergraduate,Learn industry best practices in education domain.,3,2025-12-06
+200,Medical Research Intern,Asian Paints,Healthcare,"MS Office, Research",Bangalore,12,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,1,2025-11-20
+201,Student Support Intern,Mahindra Group,Education,"MS Office, Communication, Teaching, Leadership",Rural,12,5000,Undergraduate,Learn industry best practices in education domain.,6,2025-11-01
+202,Agri-tech Intern,Bajaj Finance,Agriculture,"Agriculture, Field Work, Local Language",Bangalore,12,5000,High School,Learn industry best practices in agriculture domain.,10,2025-10-30
+203,Agricultural Marketing Intern,State Bank of India,Agriculture,"Field Work, Local Language",Delhi,12,5000,High School,Contribute to innovative agriculture solutions and processes.,2,2025-11-24
+204,Public Health Intern,Eicher Motors,Healthcare,"Problem Solving, Communication, Research, MS Office",Hyderabad,12,5000,Undergraduate,Support healthcare operations and contribute to team objectives.,9,2025-11-17
+205,Communication Intern,Infosys,Government,"English, Leadership, Research, MS Office",Chandigarh,12,5000,Undergraduate,Support government operations and contribute to team objectives.,1,2025-10-09
+206,Medical Research Intern,Muthoot Finance,Healthcare,"Biology, Research, Communication",Kolkata,12,5000,Any,Work on real-world healthcare projects and gain hands-on experience.,9,2025-10-30
+207,Industrial Design Intern,Jubilant Foodworks,Manufacturing,"Team Work, Problem Solving, Project Management, Excel",Hyderabad,12,5000,High School,Learn industry best practices in manufacturing domain.,7,2025-10-28
+208,Production Intern,Eicher Motors,Manufacturing,"Project Management, Team Work",Kolkata,12,6000,High School,Support manufacturing operations and contribute to team objectives.,10,2025-10-21
+209,Supply Chain Intern,Hero MotoCorp,Manufacturing,"Excel, Team Work, Problem Solving, Project Management",Ahmedabad,12,5000,Diploma,Assist with research and development in manufacturing field.,2,2025-12-05
+210,Process Engineering Intern,Bajaj Finance,Manufacturing,"Problem Solving, Project Management, Team Work",Lucknow,12,6000,Undergraduate,Contribute to innovative manufacturing solutions and processes.,6,2025-11-12
+211,Data Science Intern,Sun Pharma,IT,"Communication, Data Analysis, Excel, Python",Bangalore,6,4000,Undergraduate,Work on real-world it projects and gain hands-on experience.,8,2025-10-30
+212,Agricultural Marketing Intern,Reliance Industries,Agriculture,"Research, Agriculture",Lucknow,12,5000,High School,Learn industry best practices in agriculture domain.,2,2025-11-23
+213,Production Intern,Larsen & Toubro,Manufacturing,"Excel, Problem Solving, Team Work",Chennai,6,5000,Undergraduate,Assist with research and development in manufacturing field.,5,2025-12-01
+214,Brand Management Intern,Maruti Suzuki,Marketing,"Marketing, Communication, Social Media, Design",Rural,12,5000,High School,Support marketing operations and contribute to team objectives.,6,2025-12-06
+215,Public Health Intern,Asian Paints,Healthcare,"Biology, MS Office, Communication, Problem Solving",Chennai,12,5000,Undergraduate,Assist with research and development in healthcare field.,3,2025-11-24
+216,Social Media Intern,Muthoot Finance,Marketing,"Social Media, Communication",Chennai,12,5000,High School,Assist with research and development in marketing field.,2,2025-11-02
+217,Medical Research Intern,Infosys,Healthcare,"Biology, Problem Solving, Research",Ahmedabad,12,5000,High School,Work on real-world healthcare projects and gain hands-on experience.,6,2025-11-11
+218,Digital Marketing Intern,Mahindra Group,Marketing,"Marketing, Communication, Design, Social Media",Chennai,12,5000,Undergraduate,Learn industry best practices in marketing domain.,3,2025-11-12
+219,Process Engineering Intern,Larsen & Toubro,Manufacturing,"Problem Solving, Team Work, Excel, Project Management",Hyderabad,6,5000,High School,Work on real-world manufacturing projects and gain hands-on experience.,2,2025-11-17
+220,Healthcare Administration Intern,HDFC Bank,Healthcare,"Communication, Problem Solving, Research, Biology",Chandigarh,12,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,1,2025-10-24
+221,Teaching Assistant,Hero MotoCorp,Education,"MS Office, Communication, Leadership",Ahmedabad,12,5000,High School,Support education operations and contribute to team objectives.,8,2025-10-10
+222,Policy Research Intern,Reliance Industries,Government,"English, Research",Mumbai,12,5000,Any,Assist with research and development in government field.,1,2025-10-20
+223,Communication Intern,Tata Consultancy Services,Government,"MS Office, Leadership, Research",Chandigarh,12,6000,High School,Assist with research and development in government field.,5,2025-11-14
+224,Teaching Assistant,Wipro,Education,"Leadership, Teaching, English, Communication",Bhopal,12,5000,Any,Assist with research and development in education field.,6,2025-10-23
+225,Investment Banking Intern,Sun Pharma,Finance,"Mathematics, Communication, Finance, Excel",Chandigarh,12,4000,Undergraduate,Learn industry best practices in finance domain.,3,2025-11-07
+226,Policy Research Intern,Hero MotoCorp,Government,"English, Research",Pune,12,4000,Any,Assist with research and development in government field.,7,2025-12-02
+227,Learning Design Intern,Dr. Reddy's Labs,Education,"MS Office, English, Communication",Mumbai,12,5000,Any,Work on real-world education projects and gain hands-on experience.,2,2025-10-29
+228,Pharmacy Intern,State Bank of India,Healthcare,"MS Office, Problem Solving, Communication, Research",Chennai,6,4000,Diploma,Contribute to innovative healthcare solutions and processes.,7,2025-10-19
+229,Legal Affairs Intern,Dr. Reddy's Labs,Government,"MS Office, Communication",Any Location,12,4000,Any,Assist with research and development in government field.,2,2025-11-14
+230,Industrial Design Intern,Bharti Airtel,Manufacturing,"Team Work, Problem Solving, Project Management, Excel",Mumbai,12,5000,Any,Learn industry best practices in manufacturing domain.,5,2025-11-13
+231,Public Health Intern,Wipro,Healthcare,"Communication, MS Office",Mumbai,6,5000,High School,Contribute to innovative healthcare solutions and processes.,7,2025-11-27
+232,Rural Development Intern,Mahindra Group,Agriculture,"Agriculture, Research, Local Language",Any Location,6,5000,Diploma,Contribute to innovative agriculture solutions and processes.,3,2025-12-05
+233,Data Science Intern,UltraTech Cement,IT,"Java, Problem Solving, Data Analysis, Communication",Lucknow,12,5000,Any,Support it operations and contribute to team objectives.,4,2025-10-22
+234,Supply Chain Intern,Wipro,Manufacturing,"Project Management, Team Work, Excel, Problem Solving",Lucknow,12,5000,High School,Contribute to innovative manufacturing solutions and processes.,1,2025-11-10
+235,Agricultural Research Intern,HDFC Bank,Agriculture,"Agriculture, Field Work, Research",Delhi,6,5000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,3,2025-12-03
+236,Digital Marketing Intern,Bharti Airtel,Marketing,"Design, MS Office",Bhopal,12,5000,Undergraduate,Assist with research and development in marketing field.,9,2025-11-03
+237,Farm Management Intern,Nestle India,Agriculture,"Field Work, Local Language, Agriculture, Research",Bangalore,12,6000,Diploma,Contribute to innovative agriculture solutions and processes.,10,2025-11-02
+238,Process Engineering Intern,Eicher Motors,Manufacturing,"Project Management, Excel",Bangalore,6,4000,Diploma,Work on real-world manufacturing projects and gain hands-on experience.,5,2025-10-13
+239,Data Science Intern,TVS Motor,IT,"Problem Solving, Communication, Java, Python",Bangalore,6,5000,Any,Assist with research and development in it field.,8,2025-12-05
+240,Agricultural Marketing Intern,Jubilant Foodworks,Agriculture,"Research, Local Language",Kolkata,12,4000,Any,Assist with research and development in agriculture field.,2,2025-10-31
+241,Investment Banking Intern,Asian Paints,Finance,"Communication, Excel, Mathematics",Ahmedabad,6,6000,Diploma,Contribute to innovative finance solutions and processes.,3,2025-10-26
+242,Agricultural Marketing Intern,State Bank of India,Agriculture,"Local Language, Agriculture, Research, Field Work",Chandigarh,12,5000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,7,2025-11-15
+243,Policy Research Intern,Sun Pharma,Government,"Leadership, MS Office",Ahmedabad,12,5000,High School,Contribute to innovative government solutions and processes.,10,2025-12-04
+244,Healthcare Administration Intern,Infosys,Healthcare,"Biology, Communication, MS Office",Delhi,12,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,4,2025-11-27
+245,Cybersecurity Intern,Tata Consultancy Services,IT,"Excel, Problem Solving, Data Analysis",Kolkata,6,5000,Undergraduate,Learn industry best practices in it domain.,9,2025-10-27
+246,Teaching Assistant,Hindustan Unilever,Education,"MS Office, Communication, Leadership, English",Delhi,6,5000,Any,Contribute to innovative education solutions and processes.,7,2025-10-19
+247,Mobile App Development Intern,Reliance Industries,IT,"Communication, Excel, Python",Hyderabad,6,5000,Any,Work on real-world it projects and gain hands-on experience.,1,2025-10-17
+248,Pharmacy Intern,Bajaj Finance,Healthcare,"Research, Communication, Problem Solving",Any Location,6,5000,Undergraduate,Work on real-world healthcare projects and gain hands-on experience.,4,2025-11-25
+249,Clinical Data Intern,Larsen & Toubro,Healthcare,"Problem Solving, Research",Bhopal,12,4000,Any,Learn industry best practices in healthcare domain.,10,2025-11-29
+250,Learning Design Intern,HDFC Bank,Education,"English, Leadership, Teaching, Communication",Pune,6,4000,High School,Support education operations and contribute to team objectives.,6,2025-11-16
+251,Student Support Intern,Infosys,Education,"Leadership, English, Communication",Ahmedabad,12,5000,Diploma,Support education operations and contribute to team objectives.,6,2025-11-14
+252,Production Intern,Bajaj Finance,Manufacturing,"Project Management, Problem Solving, Excel, Team Work",Ahmedabad,12,4000,Any,Assist with research and development in manufacturing field.,10,2025-10-28
+253,Communication Intern,State Bank of India,Government,"English, Leadership",Ahmedabad,6,5000,Undergraduate,Support government operations and contribute to team objectives.,6,2025-11-11
+254,Agri-tech Intern,Wipro,Agriculture,"Research, Field Work, Local Language",Jaipur,6,5000,High School,Work on real-world agriculture projects and gain hands-on experience.,5,2025-12-06
+255,Process Engineering Intern,State Bank of India,Manufacturing,"Project Management, Team Work, Excel, Problem Solving",Rural,6,5000,High School,Learn industry best practices in manufacturing domain.,3,2025-11-19
+256,Farm Management Intern,Hero MotoCorp,Agriculture,"Field Work, Local Language, Agriculture, Research",Bhopal,6,4000,Diploma,Learn industry best practices in agriculture domain.,2,2025-11-13
+257,Mobile App Development Intern,Infosys,IT,"Python, Communication",Kolkata,12,5000,High School,Contribute to innovative it solutions and processes.,3,2025-10-15
+258,Public Service Intern,UltraTech Cement,Government,"MS Office, Leadership",Chennai,12,4000,High School,Work on real-world government projects and gain hands-on experience.,9,2025-11-17
+259,Medical Research Intern,Infosys,Healthcare,"Research, Biology, Communication, MS Office",Mumbai,12,4000,Diploma,Assist with research and development in healthcare field.,3,2025-11-20
+260,Teaching Assistant,Bajaj Finance,Education,"English, Communication, MS Office, Leadership",Bhopal,12,4000,High School,Assist with research and development in education field.,3,2025-12-07
+261,Market Research Intern,Godrej Consumer,Marketing,"Marketing, MS Office, Social Media, Design",Hyderabad,12,6000,High School,Assist with research and development in marketing field.,1,2025-11-02
+262,Production Intern,Godrej Consumer,Manufacturing,"Project Management, Problem Solving, Team Work",Mumbai,12,4000,Any,Support manufacturing operations and contribute to team objectives.,2,2025-11-17
+263,Agricultural Research Intern,Bharti Airtel,Agriculture,"Research, Agriculture, Local Language, Field Work",Chennai,12,5000,High School,Assist with research and development in agriculture field.,3,2025-11-23
+264,Digital Marketing Intern,Muthoot Finance,Marketing,"Social Media, MS Office",Lucknow,6,4000,Undergraduate,Assist with research and development in marketing field.,2,2025-10-10
+265,Administrative Intern,Reliance Industries,Government,"Research, Leadership, MS Office, Communication",Hyderabad,6,4000,Diploma,Learn industry best practices in government domain.,8,2025-12-05
+266,Agricultural Marketing Intern,Dr. Reddy's Labs,Agriculture,"Research, Field Work",Kolkata,12,5000,Any,Work on real-world agriculture projects and gain hands-on experience.,6,2025-11-12
+267,Financial Analysis Intern,Eicher Motors,Finance,"Data Analysis, Excel, Mathematics",Jaipur,12,5000,Undergraduate,Learn industry best practices in finance domain.,7,2025-11-21
+268,Market Research Intern,State Bank of India,Marketing,"Social Media, Marketing",Jaipur,12,6000,Undergraduate,Work on real-world marketing projects and gain hands-on experience.,1,2025-12-01
+269,Public Service Intern,Godrej Consumer,Government,"Communication, Leadership, MS Office, Research",Kolkata,12,6000,Diploma,Learn industry best practices in government domain.,6,2025-11-22
+270,Agri-tech Intern,Dr. Reddy's Labs,Agriculture,"Local Language, Field Work, Agriculture, Research",Chandigarh,12,5000,Diploma,Support agriculture operations and contribute to team objectives.,2,2025-10-11
+271,Financial Analysis Intern,State Bank of India,Finance,"Communication, Finance, Data Analysis, Mathematics",Mumbai,12,5000,Undergraduate,Assist with research and development in finance field.,6,2025-11-12
+272,Policy Research Intern,Tata Consultancy Services,Government,"MS Office, Research",Pune,12,5000,High School,Assist with research and development in government field.,3,2025-10-16
+273,Insurance Intern,HDFC Bank,Finance,"Communication, Data Analysis, Mathematics, Excel",Chandigarh,12,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,7,2025-10-11
+274,Student Support Intern,Bajaj Finance,Education,"Teaching, Leadership, Communication, MS Office",Chennai,12,6000,Diploma,Work on real-world education projects and gain hands-on experience.,3,2025-10-20
+275,Web Development Intern,Maruti Suzuki,IT,"Problem Solving, Excel",Bangalore,12,5000,High School,Work on real-world it projects and gain hands-on experience.,9,2025-10-16
+276,Communication Intern,Maruti Suzuki,Government,"Communication, Research, English, Leadership",Pune,12,5000,Any,Learn industry best practices in government domain.,3,2025-10-16
+277,Learning Design Intern,Dr. Reddy's Labs,Education,"Teaching, English",Pune,12,5000,High School,Work on real-world education projects and gain hands-on experience.,7,2025-10-26
+278,Student Support Intern,Muthoot Finance,Education,"Communication, English",Ahmedabad,12,4000,Diploma,Contribute to innovative education solutions and processes.,4,2025-10-11
+279,Teaching Assistant,UltraTech Cement,Education,"MS Office, Leadership, Teaching, Communication",Ahmedabad,12,6000,High School,Work on real-world education projects and gain hands-on experience.,8,2025-10-09
+280,Teaching Assistant,Hero MotoCorp,Education,"MS Office, Communication, English, Leadership",Chandigarh,12,5000,Diploma,Support education operations and contribute to team objectives.,2,2025-10-18
+281,Content Marketing Intern,Hero MotoCorp,Marketing,"Design, Communication, Social Media",Lucknow,12,5000,High School,Contribute to innovative marketing solutions and processes.,8,2025-10-20
+282,Communication Intern,UltraTech Cement,Government,"MS Office, Leadership",Kolkata,6,4000,High School,Contribute to innovative government solutions and processes.,9,2025-10-24
+283,Financial Analysis Intern,Larsen & Toubro,Finance,"Excel, Mathematics, Data Analysis, Communication",Ahmedabad,12,5000,Diploma,Learn industry best practices in finance domain.,8,2025-10-12
+284,Financial Analysis Intern,Jubilant Foodworks,Finance,"Data Analysis, Communication",Bangalore,6,4000,Diploma,Work on real-world finance projects and gain hands-on experience.,6,2025-10-12
+285,Supply Chain Intern,Hindustan Unilever,Manufacturing,"Excel, Team Work",Pune,12,5000,Any,Work on real-world manufacturing projects and gain hands-on experience.,10,2025-10-15
+286,AI/ML Intern,Hindustan Unilever,IT,"Java, Python",Ahmedabad,12,4000,High School,Work on real-world it projects and gain hands-on experience.,1,2025-12-05
+287,Insurance Intern,Asian Paints,Finance,"Communication, Mathematics, Finance",Chennai,12,5000,Undergraduate,Support finance operations and contribute to team objectives.,7,2025-11-27
+288,Pharmacy Intern,HDFC Bank,Healthcare,"Biology, Research",Chandigarh,6,5000,Any,Support healthcare operations and contribute to team objectives.,1,2025-11-02
+289,Financial Analysis Intern,Tata Consultancy Services,Finance,"Communication, Data Analysis, Excel",Kolkata,12,4000,Diploma,Support finance operations and contribute to team objectives.,7,2025-12-07
+290,Administrative Intern,Wipro,Government,"MS Office, Communication, English",Chandigarh,12,5000,Diploma,Learn industry best practices in government domain.,2,2025-10-26
+291,Risk Management Intern,Nestle India,Finance,"Excel, Communication",Hyderabad,12,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,8,2025-12-02
+292,Legal Affairs Intern,UltraTech Cement,Government,"Communication, MS Office, Research",Hyderabad,6,4000,Diploma,Contribute to innovative government solutions and processes.,2,2025-12-05
+293,Academic Research Intern,Bharti Airtel,Education,"English, Teaching, MS Office, Communication",Any Location,12,5000,Diploma,Contribute to innovative education solutions and processes.,3,2025-11-08
+294,Public Service Intern,ICICI Bank,Government,"English, Communication",Chennai,12,5000,Undergraduate,Assist with research and development in government field.,3,2025-11-15
+295,Accounting Intern,Tata Consultancy Services,Finance,"Communication, Excel",Kolkata,6,5000,High School,Work on real-world finance projects and gain hands-on experience.,1,2025-11-08
+296,Cybersecurity Intern,Mahindra Group,IT,"Problem Solving, Communication, Python, Java",Ahmedabad,12,4000,Diploma,Work on real-world it projects and gain hands-on experience.,5,2025-11-13
+297,Mobile App Development Intern,Reliance Industries,IT,"Problem Solving, Java, Excel, Communication",Hyderabad,12,5000,Diploma,Work on real-world it projects and gain hands-on experience.,5,2025-10-10
+298,Public Service Intern,Dr. Reddy's Labs,Government,"English, Research",Ahmedabad,12,5000,Any,Support government operations and contribute to team objectives.,10,2025-12-03
+299,Agricultural Research Intern,Infosys,Agriculture,"Research, Local Language, Agriculture",Any Location,12,5000,High School,Assist with research and development in agriculture field.,5,2025-12-05
+300,Industrial Design Intern,Hindustan Unilever,Manufacturing,"Project Management, Team Work",Rural,12,6000,Undergraduate,Contribute to innovative manufacturing solutions and processes.,9,2025-11-12
+301,Insurance Intern,Jubilant Foodworks,Finance,"Communication, Mathematics",Chandigarh,12,6000,High School,Contribute to innovative finance solutions and processes.,6,2025-12-08
+302,Production Intern,Eicher Motors,Manufacturing,"Excel, Team Work",Ahmedabad,12,4000,High School,Learn industry best practices in manufacturing domain.,6,2025-11-01
+303,Academic Research Intern,Godrej Consumer,Education,"Teaching, English, MS Office, Leadership",Chennai,6,4000,High School,Assist with research and development in education field.,3,2025-11-25
+304,Insurance Intern,Bharti Airtel,Finance,"Mathematics, Communication",Hyderabad,6,5000,Any,Learn industry best practices in finance domain.,5,2025-10-12
+305,Pharmacy Intern,Maruti Suzuki,Healthcare,"MS Office, Problem Solving, Communication",Jaipur,12,5000,High School,Assist with research and development in healthcare field.,10,2025-11-23
+306,Market Research Intern,HDFC Bank,Marketing,"Marketing, Social Media, Design, Communication",Mumbai,12,4000,High School,Assist with research and development in marketing field.,7,2025-12-05
+307,Learning Design Intern,Reliance Industries,Education,"Teaching, English",Hyderabad,12,5000,High School,Support education operations and contribute to team objectives.,3,2025-11-09
+308,Educational Content Intern,Maruti Suzuki,Education,"Teaching, Communication, English, MS Office",Ahmedabad,12,5000,Undergraduate,Assist with research and development in education field.,2,2025-11-06
+309,Web Development Intern,State Bank of India,IT,"Python, Communication",Any Location,12,5000,Diploma,Contribute to innovative it solutions and processes.,5,2025-11-19
+310,Process Engineering Intern,Eicher Motors,Manufacturing,"Project Management, Excel, Team Work, Problem Solving",Lucknow,12,4000,Any,Assist with research and development in manufacturing field.,3,2025-10-28
+311,Learning Design Intern,Hindustan Unilever,Education,"Communication, English",Ahmedabad,6,4000,Undergraduate,Learn industry best practices in education domain.,5,2025-11-27
+312,Data Science Intern,Infosys,IT,"Data Analysis, Problem Solving, Java",Lucknow,12,6000,Diploma,Contribute to innovative it solutions and processes.,9,2025-10-27
+313,Educational Content Intern,Bharti Airtel,Education,"English, MS Office, Teaching, Communication",Delhi,12,5000,Undergraduate,Contribute to innovative education solutions and processes.,10,2025-10-17
+314,Public Service Intern,HDFC Bank,Government,"Communication, Leadership, MS Office",Chandigarh,12,5000,High School,Learn industry best practices in government domain.,1,2025-10-31
+315,Learning Design Intern,Hindustan Unilever,Education,"MS Office, English, Communication",Hyderabad,6,5000,High School,Work on real-world education projects and gain hands-on experience.,4,2025-11-03
+316,Administrative Intern,Wipro,Government,"MS Office, Communication, Research",Chandigarh,12,5000,Undergraduate,Learn industry best practices in government domain.,10,2025-11-08
+317,Content Marketing Intern,Bharti Airtel,Marketing,"Communication, Design, MS Office, Social Media",Chandigarh,6,5000,Any,Work on real-world marketing projects and gain hands-on experience.,5,2025-10-17
+318,Pharmacy Intern,Bharti Airtel,Healthcare,"MS Office, Research",Ahmedabad,6,5000,Undergraduate,Work on real-world healthcare projects and gain hands-on experience.,2,2025-10-29
+319,AI/ML Intern,Jubilant Foodworks,IT,"Java, Excel, Communication, Problem Solving",Chennai,6,5000,High School,Work on real-world it projects and gain hands-on experience.,2,2025-11-12
+320,Policy Research Intern,Larsen & Toubro,Government,"English, Communication, Leadership, MS Office",Lucknow,12,5000,High School,Learn industry best practices in government domain.,1,2025-11-03
+321,Student Support Intern,Infosys,Education,"Leadership, Communication, Teaching",Hyderabad,12,5000,Undergraduate,Learn industry best practices in education domain.,8,2025-10-28
+322,Communication Intern,Eicher Motors,Government,"Communication, English",Chandigarh,12,6000,Any,Assist with research and development in government field.,2,2025-10-27
+323,Student Support Intern,UltraTech Cement,Education,"Leadership, English, Communication, Teaching",Bangalore,12,5000,Diploma,Learn industry best practices in education domain.,3,2025-11-08
+324,Production Intern,Wipro,Manufacturing,"Excel, Problem Solving, Project Management, Team Work",Bhopal,12,6000,Undergraduate,Assist with research and development in manufacturing field.,2,2025-10-20
+325,Communication Intern,State Bank of India,Government,"Communication, Leadership",Any Location,12,6000,Any,Learn industry best practices in government domain.,4,2025-11-13
+326,Policy Research Intern,Mahindra Group,Government,"Leadership, MS Office, Communication",Jaipur,12,5000,Any,Support government operations and contribute to team objectives.,1,2025-10-10
+327,Data Science Intern,Wipro,IT,"Data Analysis, Problem Solving, Python",Bhopal,6,5000,Undergraduate,Assist with research and development in it field.,3,2025-10-20
+328,Administrative Intern,Mahindra Group,Government,"Research, MS Office",Ahmedabad,12,5000,High School,Contribute to innovative government solutions and processes.,5,2025-11-25
+329,Industrial Design Intern,State Bank of India,Manufacturing,"Excel, Team Work, Project Management",Chandigarh,12,6000,High School,Learn industry best practices in manufacturing domain.,10,2025-11-10
+330,Web Development Intern,Sun Pharma,IT,"Excel, Python",Bangalore,12,5000,Undergraduate,Assist with research and development in it field.,1,2025-12-04
+331,Learning Design Intern,Tata Consultancy Services,Education,"Teaching, Communication",Pune,12,5000,Any,Learn industry best practices in education domain.,4,2025-10-12
+332,Social Media Intern,Larsen & Toubro,Marketing,"Social Media, Communication, Marketing, MS Office",Rural,12,5000,High School,Contribute to innovative marketing solutions and processes.,6,2025-11-26
+333,Academic Research Intern,Sun Pharma,Education,"Communication, MS Office, English",Bhopal,6,5000,Undergraduate,Work on real-world education projects and gain hands-on experience.,4,2025-11-12
+334,Quality Control Intern,Sun Pharma,Manufacturing,"Team Work, Project Management",Hyderabad,12,4000,Undergraduate,Assist with research and development in manufacturing field.,7,2025-11-04
+335,Quality Control Intern,Larsen & Toubro,Manufacturing,"Team Work, Problem Solving",Jaipur,12,5000,Diploma,Support manufacturing operations and contribute to team objectives.,7,2025-11-28
+336,Public Health Intern,Asian Paints,Healthcare,"Biology, Problem Solving, MS Office",Delhi,12,5000,Any,Learn industry best practices in healthcare domain.,6,2025-10-28
+337,Quality Control Intern,Larsen & Toubro,Manufacturing,"Project Management, Problem Solving, Team Work",Delhi,12,5000,High School,Support manufacturing operations and contribute to team objectives.,9,2025-10-17
+338,Educational Content Intern,Nestle India,Education,"English, MS Office, Teaching",Mumbai,12,5000,Any,Work on real-world education projects and gain hands-on experience.,2,2025-10-13
+339,Cybersecurity Intern,Tata Consultancy Services,IT,"Python, Java, Communication",Delhi,12,5000,High School,Assist with research and development in it field.,10,2025-10-16
+340,Digital Marketing Intern,ICICI Bank,Marketing,"Marketing, Social Media",Rural,12,5000,High School,Work on real-world marketing projects and gain hands-on experience.,8,2025-12-06
+341,Accounting Intern,TVS Motor,Finance,"Finance, Mathematics",Delhi,6,4000,High School,Support finance operations and contribute to team objectives.,8,2025-12-02
+342,Content Marketing Intern,Muthoot Finance,Marketing,"Marketing, Communication, MS Office",Rural,12,5000,Diploma,Contribute to innovative marketing solutions and processes.,10,2025-11-14
+343,Medical Research Intern,Jubilant Foodworks,Healthcare,"Biology, Research, Communication, Problem Solving",Hyderabad,12,6000,Diploma,Contribute to innovative healthcare solutions and processes.,4,2025-10-09
+344,Healthcare Administration Intern,HDFC Bank,Healthcare,"MS Office, Communication, Problem Solving, Biology",Ahmedabad,6,5000,High School,Support healthcare operations and contribute to team objectives.,6,2025-12-01
+345,Process Engineering Intern,Infosys,Manufacturing,"Team Work, Project Management, Problem Solving",Kolkata,12,4000,High School,Learn industry best practices in manufacturing domain.,6,2025-10-16
+346,Policy Research Intern,Jubilant Foodworks,Government,"Communication, English, Leadership, MS Office",Jaipur,12,4000,High School,Work on real-world government projects and gain hands-on experience.,5,2025-10-29
+347,Policy Research Intern,Mahindra Group,Government,"MS Office, English, Leadership",Chandigarh,12,5000,Undergraduate,Assist with research and development in government field.,1,2025-10-23
+348,Rural Development Intern,UltraTech Cement,Agriculture,"Field Work, Agriculture, Research",Bhopal,6,5000,Undergraduate,Support agriculture operations and contribute to team objectives.,3,2025-10-09
+349,Policy Research Intern,Dr. Reddy's Labs,Government,"English, Research, Leadership",Bangalore,12,5000,Any,Assist with research and development in government field.,7,2025-11-22
+350,Healthcare Administration Intern,TVS Motor,Healthcare,"Communication, Research",Pune,12,5000,Diploma,Contribute to innovative healthcare solutions and processes.,8,2025-12-02
+351,Agri-tech Intern,Nestle India,Agriculture,"Research, Local Language",Ahmedabad,12,5000,Undergraduate,Contribute to innovative agriculture solutions and processes.,2,2025-11-15
+352,Market Research Intern,Asian Paints,Marketing,"Design, MS Office, Communication",Jaipur,12,5000,Undergraduate,Support marketing operations and contribute to team objectives.,3,2025-11-27
+353,Policy Research Intern,UltraTech Cement,Government,"MS Office, English",Ahmedabad,6,5000,Diploma,Support government operations and contribute to team objectives.,4,2025-10-10
+354,Medical Research Intern,Tata Consultancy Services,Healthcare,"MS Office, Biology",Bangalore,12,5000,Any,Contribute to innovative healthcare solutions and processes.,5,2025-11-21
+355,Quality Control Intern,Wipro,Manufacturing,"Problem Solving, Excel, Team Work",Rural,6,4000,Any,Support manufacturing operations and contribute to team objectives.,3,2025-10-27
+356,Legal Affairs Intern,Tech Mahindra,Government,"MS Office, Leadership, English, Research",Rural,6,5000,High School,Assist with research and development in government field.,5,2025-12-04
+357,Public Health Intern,Dr. Reddy's Labs,Healthcare,"Communication, MS Office, Research",Ahmedabad,12,5000,High School,Work on real-world healthcare projects and gain hands-on experience.,8,2025-10-20
+358,Brand Management Intern,UltraTech Cement,Marketing,"Design, Communication, MS Office",Chandigarh,12,5000,Any,Assist with research and development in marketing field.,8,2025-11-26
+359,Clinical Data Intern,Jubilant Foodworks,Healthcare,"MS Office, Problem Solving, Research, Biology",Jaipur,12,5000,High School,Assist with research and development in healthcare field.,2,2025-10-25
+360,Communication Intern,Bharti Airtel,Government,"Leadership, MS Office, Communication",Pune,6,5000,High School,Work on real-world government projects and gain hands-on experience.,6,2025-11-15
+361,Data Science Intern,Nestle India,IT,"Data Analysis, Excel, Python",Rural,12,4000,Undergraduate,Assist with research and development in it field.,4,2025-10-15
+362,Rural Development Intern,Asian Paints,Agriculture,"Research, Field Work, Agriculture",Bhopal,12,5000,Diploma,Support agriculture operations and contribute to team objectives.,9,2025-10-24
+363,Content Marketing Intern,Bharti Airtel,Marketing,"Social Media, Marketing",Mumbai,12,5000,Undergraduate,Support marketing operations and contribute to team objectives.,10,2025-10-10
+364,Production Intern,Hindustan Unilever,Manufacturing,"Excel, Project Management, Team Work",Hyderabad,12,5000,High School,Assist with research and development in manufacturing field.,2,2025-11-15
+365,Web Development Intern,Infosys,IT,"Excel, Problem Solving, Data Analysis",Lucknow,12,4000,High School,Assist with research and development in it field.,8,2025-10-15
+366,Risk Management Intern,Wipro,Finance,"Communication, Mathematics, Excel",Lucknow,12,5000,Undergraduate,Learn industry best practices in finance domain.,1,2025-11-05
+367,Audit Intern,Muthoot Finance,Finance,"Excel, Finance, Data Analysis, Mathematics",Delhi,6,4000,Undergraduate,Contribute to innovative finance solutions and processes.,6,2025-11-03
+368,Accounting Intern,Tata Consultancy Services,Finance,"Excel, Communication, Mathematics, Finance",Hyderabad,12,4000,High School,Contribute to innovative finance solutions and processes.,10,2025-11-29
+369,Legal Affairs Intern,Tech Mahindra,Government,"MS Office, Research",Bhopal,12,5000,Undergraduate,Contribute to innovative government solutions and processes.,1,2025-11-29
+370,Market Research Intern,Nestle India,Marketing,"MS Office, Marketing, Social Media, Communication",Kolkata,12,5000,Undergraduate,Contribute to innovative marketing solutions and processes.,2,2025-11-10
+371,Communication Intern,Tech Mahindra,Government,"Research, Communication",Lucknow,12,6000,Any,Support government operations and contribute to team objectives.,3,2025-11-20
+372,Public Service Intern,Nestle India,Government,"Leadership, English, MS Office, Research",Jaipur,12,5000,Diploma,Learn industry best practices in government domain.,9,2025-11-07
+373,Educational Content Intern,Jubilant Foodworks,Education,"Communication, Leadership",Kolkata,6,5000,Undergraduate,Work on real-world education projects and gain hands-on experience.,5,2025-11-18
+374,Audit Intern,Godrej Consumer,Finance,"Mathematics, Finance, Data Analysis",Bhopal,6,5000,Diploma,Assist with research and development in finance field.,10,2025-10-24
+375,Healthcare Administration Intern,ICICI Bank,Healthcare,"Biology, Research",Rural,12,5000,Undergraduate,Assist with research and development in healthcare field.,10,2025-11-09
+376,Farm Management Intern,HDFC Bank,Agriculture,"Agriculture, Research, Local Language, Field Work",Bangalore,6,5000,High School,Learn industry best practices in agriculture domain.,2,2025-11-28
+377,Content Marketing Intern,TVS Motor,Marketing,"Social Media, Design",Rural,12,6000,High School,Work on real-world marketing projects and gain hands-on experience.,10,2025-12-03
+378,Pharmacy Intern,Sun Pharma,Healthcare,"Communication, Biology, Research, Problem Solving",Bhopal,12,5000,High School,Assist with research and development in healthcare field.,5,2025-12-08
+379,Educational Content Intern,State Bank of India,Education,"MS Office, Teaching",Jaipur,12,5000,Undergraduate,Assist with research and development in education field.,5,2025-12-04
+380,Healthcare Administration Intern,State Bank of India,Healthcare,"Biology, Communication, Research, MS Office",Rural,12,5000,Diploma,Assist with research and development in healthcare field.,1,2025-10-22
+381,Teaching Assistant,Maruti Suzuki,Education,"English, Communication",Ahmedabad,12,4000,Any,Learn industry best practices in education domain.,3,2025-12-03
+382,Cybersecurity Intern,Maruti Suzuki,IT,"Data Analysis, Python, Communication, Problem Solving",Kolkata,12,5000,Any,Support it operations and contribute to team objectives.,5,2025-10-26
+383,Learning Design Intern,ICICI Bank,Education,"Communication, MS Office, Teaching",Bhopal,6,4000,High School,Work on real-world education projects and gain hands-on experience.,9,2025-11-22
+384,Risk Management Intern,Tata Consultancy Services,Finance,"Data Analysis, Mathematics, Communication, Finance",Rural,12,5000,High School,Contribute to innovative finance solutions and processes.,10,2025-12-03
+385,Audit Intern,Dr. Reddy's Labs,Finance,"Excel, Data Analysis, Finance",Hyderabad,12,4000,High School,Support finance operations and contribute to team objectives.,1,2025-10-28
+386,Investment Banking Intern,Infosys,Finance,"Mathematics, Data Analysis, Excel",Hyderabad,12,5000,High School,Assist with research and development in finance field.,8,2025-11-08
+387,Rural Development Intern,Jubilant Foodworks,Agriculture,"Research, Agriculture, Local Language, Field Work",Jaipur,6,6000,High School,Learn industry best practices in agriculture domain.,1,2025-11-04
+388,Process Engineering Intern,Dr. Reddy's Labs,Manufacturing,"Problem Solving, Excel, Project Management, Team Work",Rural,12,5000,Diploma,Work on real-world manufacturing projects and gain hands-on experience.,9,2025-11-03
+389,Insurance Intern,Maruti Suzuki,Finance,"Mathematics, Excel, Data Analysis",Bangalore,12,5000,Diploma,Contribute to innovative finance solutions and processes.,6,2025-11-23
+390,Academic Research Intern,Eicher Motors,Education,"Leadership, Communication, English, MS Office",Any Location,12,5000,Diploma,Learn industry best practices in education domain.,1,2025-10-20
+391,Supply Chain Intern,ICICI Bank,Manufacturing,"Problem Solving, Team Work",Pune,12,5000,Diploma,Assist with research and development in manufacturing field.,8,2025-12-04
+392,Agricultural Marketing Intern,Godrej Consumer,Agriculture,"Agriculture, Research",Jaipur,12,6000,Diploma,Work on real-world agriculture projects and gain hands-on experience.,5,2025-11-07
+393,Risk Management Intern,Larsen & Toubro,Finance,"Finance, Excel, Communication, Mathematics",Lucknow,12,5000,Undergraduate,Support finance operations and contribute to team objectives.,7,2025-10-14
+394,Quality Control Intern,Bajaj Finance,Manufacturing,"Problem Solving, Excel, Team Work, Project Management",Any Location,6,5000,Any,Work on real-world manufacturing projects and gain hands-on experience.,7,2025-10-23
+395,Investment Banking Intern,Hero MotoCorp,Finance,"Mathematics, Data Analysis, Finance",Bangalore,12,5000,Any,Support finance operations and contribute to team objectives.,7,2025-11-16
+396,Risk Management Intern,Infosys,Finance,"Finance, Data Analysis, Excel, Communication",Rural,12,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,6,2025-10-27
+397,Brand Management Intern,Infosys,Marketing,"Design, Communication, MS Office, Marketing",Mumbai,12,5000,High School,Assist with research and development in marketing field.,8,2025-10-17
+398,Process Engineering Intern,Wipro,Manufacturing,"Team Work, Project Management, Excel, Problem Solving",Chandigarh,12,5000,Undergraduate,Work on real-world manufacturing projects and gain hands-on experience.,9,2025-10-15
+399,Software Development Intern,UltraTech Cement,IT,"Java, Problem Solving, Data Analysis",Lucknow,6,5000,High School,Work on real-world it projects and gain hands-on experience.,2,2025-10-25
+400,Rural Development Intern,Wipro,Agriculture,"Local Language, Agriculture, Research",Lucknow,6,5000,Diploma,Learn industry best practices in agriculture domain.,7,2025-10-19
+401,Public Service Intern,UltraTech Cement,Government,"Communication, Research, Leadership",Chandigarh,12,5000,Any,Support government operations and contribute to team objectives.,2,2025-10-25
+402,Pharmacy Intern,Bajaj Finance,Healthcare,"Research, MS Office",Any Location,12,5000,Undergraduate,Learn industry best practices in healthcare domain.,6,2025-12-07
+403,Rural Development Intern,Larsen & Toubro,Agriculture,"Local Language, Research, Field Work",Kolkata,12,4000,Diploma,Learn industry best practices in agriculture domain.,2,2025-11-25
+404,Administrative Intern,Tech Mahindra,Government,"English, Research, Leadership, MS Office",Delhi,12,5000,Diploma,Support government operations and contribute to team objectives.,10,2025-10-11
+405,Public Service Intern,Sun Pharma,Government,"English, Leadership",Mumbai,12,4000,Any,Work on real-world government projects and gain hands-on experience.,6,2025-11-06
+406,Industrial Design Intern,Reliance Industries,Manufacturing,"Excel, Team Work, Problem Solving",Any Location,12,5000,Diploma,Work on real-world manufacturing projects and gain hands-on experience.,2,2025-10-31
+407,Healthcare Administration Intern,Muthoot Finance,Healthcare,"Research, Problem Solving, Communication",Jaipur,12,4000,Undergraduate,Contribute to innovative healthcare solutions and processes.,1,2025-12-05
+408,Accounting Intern,Godrej Consumer,Finance,"Communication, Finance",Kolkata,12,5000,High School,Support finance operations and contribute to team objectives.,7,2025-11-27
+409,Policy Research Intern,Nestle India,Government,"Research, MS Office, English",Bhopal,12,6000,High School,Assist with research and development in government field.,3,2025-11-01
+410,Pharmacy Intern,Tech Mahindra,Healthcare,"Biology, Problem Solving",Ahmedabad,12,4000,Any,Assist with research and development in healthcare field.,4,2025-11-18
+411,Content Marketing Intern,Dr. Reddy's Labs,Marketing,"Social Media, Marketing, MS Office, Communication",Pune,12,5000,Diploma,Support marketing operations and contribute to team objectives.,6,2025-12-03
+412,Mobile App Development Intern,HDFC Bank,IT,"Data Analysis, Python, Excel",Jaipur,12,5000,Any,Work on real-world it projects and gain hands-on experience.,5,2025-11-03
+413,Brand Management Intern,Dr. Reddy's Labs,Marketing,"Design, Social Media",Delhi,12,6000,Diploma,Support marketing operations and contribute to team objectives.,4,2025-11-02
+414,Rural Development Intern,ICICI Bank,Agriculture,"Field Work, Agriculture, Research, Local Language",Rural,12,5000,Any,Learn industry best practices in agriculture domain.,9,2025-12-05
+415,Learning Design Intern,ICICI Bank,Education,"Teaching, Communication, Leadership, MS Office",Ahmedabad,12,5000,Any,Assist with research and development in education field.,6,2025-11-08
+416,Content Marketing Intern,Nestle India,Marketing,"Design, Social Media, Communication, Marketing",Lucknow,6,4000,Diploma,Assist with research and development in marketing field.,6,2025-11-18
+417,Agri-tech Intern,Nestle India,Agriculture,"Local Language, Field Work",Bhopal,12,5000,Diploma,Support agriculture operations and contribute to team objectives.,2,2025-12-07
+418,Communication Intern,Nestle India,Government,"Leadership, Research, Communication, MS Office",Kolkata,12,5000,High School,Assist with research and development in government field.,6,2025-10-28
+419,Educational Content Intern,TVS Motor,Education,"Communication, English, MS Office, Leadership",Hyderabad,12,5000,High School,Contribute to innovative education solutions and processes.,7,2025-10-13
+420,AI/ML Intern,HDFC Bank,IT,"Excel, Problem Solving",Kolkata,6,4000,High School,Assist with research and development in it field.,8,2025-11-20
+421,Social Media Intern,HDFC Bank,Marketing,"MS Office, Social Media, Marketing",Delhi,6,4000,High School,Assist with research and development in marketing field.,8,2025-10-20
+422,Student Support Intern,Nestle India,Education,"Teaching, Leadership",Chandigarh,6,5000,Undergraduate,Learn industry best practices in education domain.,9,2025-11-15
+423,Legal Affairs Intern,TVS Motor,Government,"MS Office, Leadership, Research, English",Bangalore,12,5000,High School,Contribute to innovative government solutions and processes.,10,2025-10-25
+424,Public Health Intern,HDFC Bank,Healthcare,"Biology, Problem Solving, Research, MS Office",Delhi,6,5000,Diploma,Assist with research and development in healthcare field.,3,2025-11-07
+425,Agricultural Marketing Intern,Hindustan Unilever,Agriculture,"Research, Field Work, Local Language, Agriculture",Rural,12,4000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,10,2025-10-17
+426,Teaching Assistant,UltraTech Cement,Education,"Teaching, MS Office",Chandigarh,6,5000,Diploma,Work on real-world education projects and gain hands-on experience.,7,2025-10-22
+427,Administrative Intern,Mahindra Group,Government,"Communication, English, MS Office, Research",Mumbai,6,6000,Undergraduate,Assist with research and development in government field.,7,2025-10-18
+428,Legal Affairs Intern,Dr. Reddy's Labs,Government,"Research, Communication",Bangalore,6,5000,Any,Assist with research and development in government field.,1,2025-11-08
+429,Cybersecurity Intern,Larsen & Toubro,IT,"Java, Communication, Data Analysis, Problem Solving",Any Location,6,5000,Any,Work on real-world it projects and gain hands-on experience.,8,2025-10-30
+430,Software Development Intern,Wipro,IT,"Communication, Problem Solving, Excel, Java",Chandigarh,12,4000,Undergraduate,Work on real-world it projects and gain hands-on experience.,4,2025-11-09
+431,Farm Management Intern,Eicher Motors,Agriculture,"Research, Agriculture, Local Language, Field Work",Kolkata,12,5000,Undergraduate,Contribute to innovative agriculture solutions and processes.,5,2025-10-13
+432,Market Research Intern,Bharti Airtel,Marketing,"Social Media, Design, Marketing",Bhopal,12,5000,Undergraduate,Assist with research and development in marketing field.,6,2025-11-22
+433,Agri-tech Intern,Nestle India,Agriculture,"Local Language, Research",Chennai,6,5000,Any,Learn industry best practices in agriculture domain.,3,2025-11-06
+434,Accounting Intern,Godrej Consumer,Finance,"Communication, Mathematics",Lucknow,6,5000,Any,Support finance operations and contribute to team objectives.,5,2025-12-04
+435,Market Research Intern,Bharti Airtel,Marketing,"Marketing, Design, Social Media",Lucknow,12,5000,Diploma,Learn industry best practices in marketing domain.,10,2025-11-22
+436,Public Health Intern,Tata Consultancy Services,Healthcare,"Research, Problem Solving",Bangalore,12,5000,Any,Work on real-world healthcare projects and gain hands-on experience.,5,2025-11-28
+437,Farm Management Intern,State Bank of India,Agriculture,"Field Work, Agriculture, Local Language",Delhi,6,5000,Undergraduate,Learn industry best practices in agriculture domain.,1,2025-10-31
+438,Educational Content Intern,Larsen & Toubro,Education,"Teaching, MS Office, English, Communication",Mumbai,12,5000,Diploma,Work on real-world education projects and gain hands-on experience.,3,2025-11-13
+439,Audit Intern,Wipro,Finance,"Mathematics, Communication, Excel",Rural,12,4000,Undergraduate,Support finance operations and contribute to team objectives.,3,2025-12-02
+440,Medical Research Intern,ICICI Bank,Healthcare,"MS Office, Biology, Problem Solving",Rural,6,5000,High School,Contribute to innovative healthcare solutions and processes.,1,2025-10-11
+441,Healthcare Administration Intern,Godrej Consumer,Healthcare,"Biology, Research, MS Office, Problem Solving",Chandigarh,12,5000,Undergraduate,Assist with research and development in healthcare field.,7,2025-11-26
+442,Policy Research Intern,Godrej Consumer,Government,"MS Office, Leadership",Any Location,6,5000,Diploma,Work on real-world government projects and gain hands-on experience.,1,2025-12-02
+443,Audit Intern,Jubilant Foodworks,Finance,"Excel, Finance, Data Analysis",Pune,12,5000,Undergraduate,Contribute to innovative finance solutions and processes.,7,2025-10-19
+444,Pharmacy Intern,Muthoot Finance,Healthcare,"MS Office, Communication, Problem Solving",Bhopal,6,5000,Diploma,Support healthcare operations and contribute to team objectives.,4,2025-11-26
+445,Agricultural Research Intern,Wipro,Agriculture,"Research, Field Work",Kolkata,12,6000,Any,Contribute to innovative agriculture solutions and processes.,9,2025-11-28
+446,Production Intern,Tata Consultancy Services,Manufacturing,"Team Work, Problem Solving, Project Management",Mumbai,6,5000,Undergraduate,Learn industry best practices in manufacturing domain.,7,2025-11-03
+447,Student Support Intern,Wipro,Education,"Leadership, Teaching",Bhopal,12,5000,Diploma,Contribute to innovative education solutions and processes.,5,2025-10-12
+448,Market Research Intern,Bajaj Finance,Marketing,"MS Office, Marketing, Design",Chandigarh,6,5000,Undergraduate,Learn industry best practices in marketing domain.,7,2025-10-09
+449,Content Marketing Intern,Muthoot Finance,Marketing,"Communication, Design, MS Office, Social Media",Jaipur,12,5000,Any,Learn industry best practices in marketing domain.,9,2025-12-04
+450,Agricultural Research Intern,Asian Paints,Agriculture,"Agriculture, Research, Field Work",Kolkata,12,5000,Diploma,Contribute to innovative agriculture solutions and processes.,10,2025-11-12
+451,Brand Management Intern,Tata Consultancy Services,Marketing,"MS Office, Marketing",Jaipur,12,4000,Undergraduate,Support marketing operations and contribute to team objectives.,6,2025-10-10
+452,AI/ML Intern,Hero MotoCorp,IT,"Data Analysis, Java, Communication, Problem Solving",Kolkata,12,5000,High School,Work on real-world it projects and gain hands-on experience.,1,2025-12-01
+453,Supply Chain Intern,Bharti Airtel,Manufacturing,"Project Management, Problem Solving, Excel, Team Work",Ahmedabad,12,5000,Undergraduate,Contribute to innovative manufacturing solutions and processes.,6,2025-11-25
+454,Cybersecurity Intern,Larsen & Toubro,IT,"Java, Excel, Communication",Pune,12,6000,Undergraduate,Learn industry best practices in it domain.,1,2025-11-20
+455,Student Support Intern,Mahindra Group,Education,"English, Teaching, MS Office, Leadership",Any Location,6,5000,Undergraduate,Assist with research and development in education field.,4,2025-10-15
+456,Student Support Intern,Reliance Industries,Education,"Teaching, MS Office, Leadership",Kolkata,12,5000,Diploma,Assist with research and development in education field.,8,2025-10-22
+457,Policy Research Intern,Bajaj Finance,Government,"Leadership, English, MS Office",Jaipur,6,5000,Any,Learn industry best practices in government domain.,5,2025-11-15
+458,Legal Affairs Intern,Hindustan Unilever,Government,"English, Leadership, Research",Bangalore,12,5000,Diploma,Assist with research and development in government field.,5,2025-11-23
+459,Administrative Intern,Hindustan Unilever,Government,"Leadership, Research, MS Office, English",Ahmedabad,6,5000,Any,Work on real-world government projects and gain hands-on experience.,10,2025-11-25
+460,Academic Research Intern,Larsen & Toubro,Education,"Teaching, Leadership, MS Office",Mumbai,12,5000,Undergraduate,Contribute to innovative education solutions and processes.,8,2025-10-27
+461,AI/ML Intern,Bharti Airtel,IT,"Python, Data Analysis",Hyderabad,12,5000,Undergraduate,Learn industry best practices in it domain.,8,2025-10-27
+462,Policy Research Intern,Muthoot Finance,Government,"Communication, English",Delhi,12,4000,Undergraduate,Learn industry best practices in government domain.,1,2025-10-22
+463,Student Support Intern,Jubilant Foodworks,Education,"Teaching, Communication",Mumbai,12,5000,High School,Assist with research and development in education field.,5,2025-11-08
+464,Content Marketing Intern,HDFC Bank,Marketing,"Marketing, Design, Communication",Any Location,6,5000,Diploma,Support marketing operations and contribute to team objectives.,5,2025-11-10
+465,Legal Affairs Intern,Asian Paints,Government,"English, Communication, MS Office, Leadership",Mumbai,12,4000,Any,Assist with research and development in government field.,8,2025-10-23
+466,Rural Development Intern,ICICI Bank,Agriculture,"Agriculture, Local Language, Field Work, Research",Bhopal,6,5000,High School,Support agriculture operations and contribute to team objectives.,1,2025-11-23
+467,AI/ML Intern,Hindustan Unilever,IT,"Communication, Data Analysis, Python, Excel",Jaipur,12,5000,High School,Support it operations and contribute to team objectives.,7,2025-11-17
+468,AI/ML Intern,Hero MotoCorp,IT,"Java, Problem Solving, Python, Excel",Bhopal,12,5000,Diploma,Work on real-world it projects and gain hands-on experience.,7,2025-10-26
+469,Investment Banking Intern,Sun Pharma,Finance,"Communication, Data Analysis, Excel, Finance",Kolkata,12,5000,High School,Assist with research and development in finance field.,9,2025-12-03
+470,Web Development Intern,TVS Motor,IT,"Java, Problem Solving, Python",Any Location,6,5000,Undergraduate,Assist with research and development in it field.,2,2025-10-25
+471,Medical Research Intern,Bajaj Finance,Healthcare,"Problem Solving, Research",Hyderabad,6,5000,Diploma,Support healthcare operations and contribute to team objectives.,3,2025-10-25
+472,Healthcare Administration Intern,Larsen & Toubro,Healthcare,"MS Office, Research, Biology",Lucknow,6,4000,Undergraduate,Support healthcare operations and contribute to team objectives.,4,2025-10-10
+473,Web Development Intern,Hero MotoCorp,IT,"Python, Data Analysis, Java",Kolkata,6,5000,Undergraduate,Learn industry best practices in it domain.,1,2025-11-02
+474,Medical Research Intern,Dr. Reddy's Labs,Healthcare,"Research, Problem Solving",Ahmedabad,6,5000,Any,Work on real-world healthcare projects and gain hands-on experience.,7,2025-10-26
+475,Web Development Intern,Godrej Consumer,IT,"Excel, Problem Solving, Python",Ahmedabad,12,5000,High School,Assist with research and development in it field.,10,2025-11-18
+476,Financial Analysis Intern,Eicher Motors,Finance,"Communication, Excel, Data Analysis",Rural,6,4000,Diploma,Learn industry best practices in finance domain.,3,2025-11-14
+477,Farm Management Intern,Infosys,Agriculture,"Field Work, Agriculture",Pune,12,5000,Diploma,Support agriculture operations and contribute to team objectives.,3,2025-11-12
+478,Agricultural Marketing Intern,Maruti Suzuki,Agriculture,"Agriculture, Research, Field Work",Any Location,12,4000,Undergraduate,Support agriculture operations and contribute to team objectives.,3,2025-10-09
+479,Cybersecurity Intern,Sun Pharma,IT,"Excel, Data Analysis, Problem Solving",Pune,12,5000,Diploma,Contribute to innovative it solutions and processes.,8,2025-12-01
+480,Digital Marketing Intern,Maruti Suzuki,Marketing,"MS Office, Social Media",Hyderabad,12,5000,High School,Assist with research and development in marketing field.,9,2025-11-22
+481,Healthcare Administration Intern,Dr. Reddy's Labs,Healthcare,"Problem Solving, Communication, Research, Biology",Lucknow,12,4000,Undergraduate,Learn industry best practices in healthcare domain.,10,2025-11-18
+482,Market Research Intern,Hero MotoCorp,Marketing,"Communication, Marketing, MS Office",Chennai,12,5000,Any,Contribute to innovative marketing solutions and processes.,2,2025-10-30
+483,Mobile App Development Intern,Bharti Airtel,IT,"Communication, Python",Lucknow,6,5000,Any,Work on real-world it projects and gain hands-on experience.,10,2025-12-05
+484,Mobile App Development Intern,TVS Motor,IT,"Problem Solving, Excel",Chandigarh,12,5000,Any,Assist with research and development in it field.,10,2025-11-12
+485,Medical Research Intern,Tech Mahindra,Healthcare,"Biology, MS Office, Communication, Problem Solving",Pune,12,6000,Any,Contribute to innovative healthcare solutions and processes.,1,2025-10-31
+486,Agricultural Research Intern,Mahindra Group,Agriculture,"Agriculture, Research, Field Work, Local Language",Chennai,12,4000,Any,Work on real-world agriculture projects and gain hands-on experience.,9,2025-10-23
+487,Web Development Intern,Tata Consultancy Services,IT,"Communication, Data Analysis, Java, Python",Any Location,12,6000,Undergraduate,Support it operations and contribute to team objectives.,6,2025-10-23
+488,Public Service Intern,Tech Mahindra,Government,"MS Office, English",Chandigarh,12,4000,Diploma,Work on real-world government projects and gain hands-on experience.,9,2025-10-21
+489,Agri-tech Intern,State Bank of India,Agriculture,"Research, Agriculture, Local Language",Bhopal,12,5000,Diploma,Work on real-world agriculture projects and gain hands-on experience.,6,2025-11-15
+490,Teaching Assistant,Infosys,Education,"Communication, English",Jaipur,6,5000,Undergraduate,Support education operations and contribute to team objectives.,2,2025-12-02
+491,Mobile App Development Intern,Hindustan Unilever,IT,"Excel, Communication, Data Analysis, Problem Solving",Jaipur,12,6000,Any,Work on real-world it projects and gain hands-on experience.,1,2025-12-08
+492,Agri-tech Intern,Muthoot Finance,Agriculture,"Research, Field Work, Local Language",Mumbai,12,5000,Any,Assist with research and development in agriculture field.,8,2025-11-01
+493,Mobile App Development Intern,Tech Mahindra,IT,"Python, Data Analysis",Kolkata,6,5000,Any,Learn industry best practices in it domain.,3,2025-10-09
+494,Agricultural Research Intern,Wipro,Agriculture,"Agriculture, Local Language, Research",Chandigarh,6,5000,Diploma,Assist with research and development in agriculture field.,1,2025-10-13
+495,Investment Banking Intern,ICICI Bank,Finance,"Mathematics, Communication",Mumbai,6,5000,High School,Work on real-world finance projects and gain hands-on experience.,8,2025-11-08
+496,Agri-tech Intern,TVS Motor,Agriculture,"Local Language, Field Work, Agriculture, Research",Ahmedabad,12,4000,Diploma,Learn industry best practices in agriculture domain.,1,2025-12-01
+497,Web Development Intern,Tech Mahindra,IT,"Java, Python, Problem Solving, Excel",Bhopal,6,5000,Any,Contribute to innovative it solutions and processes.,8,2025-10-16
+498,Medical Research Intern,Nestle India,Healthcare,"MS Office, Communication",Any Location,12,5000,High School,Support healthcare operations and contribute to team objectives.,1,2025-10-12
+499,Policy Research Intern,Reliance Industries,Government,"Leadership, English, Research",Mumbai,12,5000,High School,Contribute to innovative government solutions and processes.,9,2025-10-12
+500,Market Research Intern,State Bank of India,Marketing,"Social Media, Design, MS Office",Any Location,12,5000,High School,Assist with research and development in marketing field.,9,2025-11-02
+501,Legal Affairs Intern,Maruti Suzuki,Government,"Leadership, Research, Communication, English",Ahmedabad,12,5000,Undergraduate,Contribute to innovative government solutions and processes.,9,2025-10-21
+502,Medical Research Intern,Maruti Suzuki,Healthcare,"Problem Solving, Biology",Lucknow,12,6000,Diploma,Contribute to innovative healthcare solutions and processes.,3,2025-10-17
+503,Social Media Intern,Tata Consultancy Services,Marketing,"Design, MS Office, Social Media",Chennai,12,5000,Diploma,Work on real-world marketing projects and gain hands-on experience.,4,2025-10-12
+504,Learning Design Intern,Asian Paints,Education,"Leadership, Communication, English, Teaching",Bangalore,6,6000,Any,Learn industry best practices in education domain.,5,2025-11-16
+505,Supply Chain Intern,Tata Consultancy Services,Manufacturing,"Problem Solving, Project Management, Excel",Delhi,12,4000,Diploma,Contribute to innovative manufacturing solutions and processes.,6,2025-11-30
+506,Cybersecurity Intern,Sun Pharma,IT,"Java, Communication, Excel",Rural,12,5000,High School,Learn industry best practices in it domain.,9,2025-10-21
+507,Legal Affairs Intern,Tata Consultancy Services,Government,"MS Office, Leadership, English, Communication",Kolkata,12,5000,Undergraduate,Support government operations and contribute to team objectives.,4,2025-10-15
+508,Policy Research Intern,Mahindra Group,Government,"Communication, Research, MS Office",Chennai,12,5000,Diploma,Assist with research and development in government field.,6,2025-11-17
+509,Investment Banking Intern,Muthoot Finance,Finance,"Mathematics, Data Analysis, Excel",Kolkata,6,5000,Diploma,Work on real-world finance projects and gain hands-on experience.,1,2025-11-01
+510,Software Development Intern,Maruti Suzuki,IT,"Python, Excel, Communication",Bangalore,12,5000,Undergraduate,Assist with research and development in it field.,2,2025-10-21
+511,Production Intern,Larsen & Toubro,Manufacturing,"Team Work, Problem Solving",Hyderabad,6,5000,Diploma,Support manufacturing operations and contribute to team objectives.,8,2025-12-04
+512,Brand Management Intern,Mahindra Group,Marketing,"MS Office, Communication, Social Media",Chennai,12,5000,High School,Support marketing operations and contribute to team objectives.,4,2025-12-01
+513,Digital Marketing Intern,Sun Pharma,Marketing,"Communication, Design",Bhopal,12,4000,High School,Learn industry best practices in marketing domain.,10,2025-12-07
+514,Risk Management Intern,Tech Mahindra,Finance,"Finance, Mathematics, Communication",Bhopal,12,5000,Diploma,Contribute to innovative finance solutions and processes.,7,2025-11-29
+515,Agri-tech Intern,Wipro,Agriculture,"Field Work, Agriculture",Rural,6,5000,Diploma,Support agriculture operations and contribute to team objectives.,4,2025-11-12
+516,Rural Development Intern,Eicher Motors,Agriculture,"Research, Local Language, Agriculture",Delhi,12,5000,Diploma,Contribute to innovative agriculture solutions and processes.,9,2025-10-27
+517,Learning Design Intern,HDFC Bank,Education,"Teaching, Communication",Any Location,12,5000,Diploma,Contribute to innovative education solutions and processes.,9,2025-11-15
+518,Administrative Intern,Jubilant Foodworks,Government,"Research, English, MS Office, Leadership",Bangalore,6,5000,Any,Contribute to innovative government solutions and processes.,4,2025-11-01
+519,Communication Intern,Reliance Industries,Government,"Communication, MS Office, English",Pune,12,5000,Any,Assist with research and development in government field.,8,2025-11-08
+520,Content Marketing Intern,Asian Paints,Marketing,"MS Office, Social Media, Design",Chennai,12,5000,Diploma,Assist with research and development in marketing field.,6,2025-12-03
+521,Audit Intern,Mahindra Group,Finance,"Mathematics, Data Analysis",Kolkata,12,4000,Diploma,Learn industry best practices in finance domain.,1,2025-10-25
+522,Healthcare Administration Intern,Bharti Airtel,Healthcare,"Communication, MS Office",Jaipur,12,5000,Undergraduate,Support healthcare operations and contribute to team objectives.,7,2025-11-15
+523,Cybersecurity Intern,Godrej Consumer,IT,"Excel, Data Analysis, Problem Solving, Java",Ahmedabad,12,4000,Any,Assist with research and development in it field.,1,2025-11-01
+524,Public Service Intern,Sun Pharma,Government,"English, Research, Leadership",Ahmedabad,12,5000,Diploma,Learn industry best practices in government domain.,3,2025-11-19
+525,Pharmacy Intern,State Bank of India,Healthcare,"Communication, Biology",Rural,12,5000,Undergraduate,Support healthcare operations and contribute to team objectives.,8,2025-10-15
+526,Medical Research Intern,Bharti Airtel,Healthcare,"Biology, Research, MS Office",Chennai,12,5000,Undergraduate,Learn industry best practices in healthcare domain.,9,2025-10-28
+527,Brand Management Intern,Nestle India,Marketing,"MS Office, Communication, Marketing, Design",Delhi,12,4000,Undergraduate,Learn industry best practices in marketing domain.,3,2025-11-30
+528,Process Engineering Intern,UltraTech Cement,Manufacturing,"Problem Solving, Team Work, Excel",Any Location,6,5000,Any,Support manufacturing operations and contribute to team objectives.,1,2025-10-23
+529,Audit Intern,Mahindra Group,Finance,"Communication, Data Analysis",Chandigarh,6,5000,Any,Learn industry best practices in finance domain.,1,2025-11-28
+530,Pharmacy Intern,Mahindra Group,Healthcare,"MS Office, Problem Solving",Chennai,6,4000,Any,Assist with research and development in healthcare field.,7,2025-12-02
+531,Web Development Intern,State Bank of India,IT,"Excel, Java",Hyderabad,12,5000,High School,Assist with research and development in it field.,5,2025-11-29
+532,Supply Chain Intern,Larsen & Toubro,Manufacturing,"Excel, Team Work",Bhopal,12,6000,Any,Contribute to innovative manufacturing solutions and processes.,1,2025-10-28
+533,Industrial Design Intern,Hero MotoCorp,Manufacturing,"Problem Solving, Excel",Bangalore,12,5000,Undergraduate,Contribute to innovative manufacturing solutions and processes.,6,2025-11-18
+534,Farm Management Intern,Muthoot Finance,Agriculture,"Research, Agriculture",Jaipur,6,5000,Any,Support agriculture operations and contribute to team objectives.,6,2025-11-08
+535,Pharmacy Intern,Infosys,Healthcare,"MS Office, Communication, Biology, Problem Solving",Mumbai,12,4000,Diploma,Work on real-world healthcare projects and gain hands-on experience.,4,2025-11-30
+536,Policy Research Intern,Hindustan Unilever,Government,"Communication, Research",Kolkata,12,5000,Undergraduate,Support government operations and contribute to team objectives.,7,2025-10-23
+537,Content Marketing Intern,Reliance Industries,Marketing,"Design, Social Media",Pune,12,5000,High School,Support marketing operations and contribute to team objectives.,7,2025-10-29
+538,Farm Management Intern,Wipro,Agriculture,"Agriculture, Research",Jaipur,12,5000,Any,Assist with research and development in agriculture field.,9,2025-11-25
+539,Public Health Intern,Tata Consultancy Services,Healthcare,"Research, Problem Solving",Hyderabad,12,5000,Any,Assist with research and development in healthcare field.,1,2025-10-19
+540,Content Marketing Intern,State Bank of India,Marketing,"MS Office, Design",Hyderabad,6,5000,Diploma,Work on real-world marketing projects and gain hands-on experience.,5,2025-10-18
+541,Policy Research Intern,Nestle India,Government,"Leadership, Communication, MS Office",Pune,6,5000,Any,Assist with research and development in government field.,10,2025-11-07
+542,Mobile App Development Intern,TVS Motor,IT,"Data Analysis, Problem Solving",Pune,6,4000,Undergraduate,Assist with research and development in it field.,3,2025-11-17
+543,Student Support Intern,Maruti Suzuki,Education,"English, Leadership",Ahmedabad,12,5000,Any,Support education operations and contribute to team objectives.,7,2025-11-22
+544,Public Health Intern,Asian Paints,Healthcare,"Biology, Research, Problem Solving, MS Office",Bhopal,12,5000,Undergraduate,Work on real-world healthcare projects and gain hands-on experience.,4,2025-11-22
+545,Audit Intern,Eicher Motors,Finance,"Communication, Excel, Finance",Mumbai,12,5000,High School,Contribute to innovative finance solutions and processes.,4,2025-11-27
+546,Process Engineering Intern,Asian Paints,Manufacturing,"Team Work, Excel, Problem Solving",Jaipur,12,5000,High School,Assist with research and development in manufacturing field.,1,2025-10-10
+547,Public Health Intern,Jubilant Foodworks,Healthcare,"Communication, MS Office, Biology",Kolkata,12,5000,High School,Work on real-world healthcare projects and gain hands-on experience.,1,2025-10-25
+548,Healthcare Administration Intern,Maruti Suzuki,Healthcare,"MS Office, Problem Solving, Research",Mumbai,6,5000,High School,Contribute to innovative healthcare solutions and processes.,10,2025-11-20
+549,Insurance Intern,Larsen & Toubro,Finance,"Finance, Data Analysis, Communication",Any Location,6,5000,Diploma,Support finance operations and contribute to team objectives.,2,2025-12-01
+550,AI/ML Intern,Eicher Motors,IT,"Java, Data Analysis",Mumbai,12,5000,Any,Support it operations and contribute to team objectives.,2,2025-10-13
+551,Mobile App Development Intern,Dr. Reddy's Labs,IT,"Java, Problem Solving, Data Analysis",Bangalore,12,5000,Diploma,Work on real-world it projects and gain hands-on experience.,1,2025-12-05
+552,Audit Intern,Tech Mahindra,Finance,"Excel, Communication, Finance, Mathematics",Ahmedabad,12,4000,High School,Contribute to innovative finance solutions and processes.,8,2025-10-09
+553,Cybersecurity Intern,Reliance Industries,IT,"Java, Data Analysis",Chennai,12,5000,Diploma,Work on real-world it projects and gain hands-on experience.,6,2025-10-10
+554,Agri-tech Intern,TVS Motor,Agriculture,"Local Language, Agriculture",Bhopal,6,5000,High School,Support agriculture operations and contribute to team objectives.,6,2025-12-04
+555,Healthcare Administration Intern,TVS Motor,Healthcare,"Research, Biology, Problem Solving, MS Office",Any Location,12,5000,Undergraduate,Learn industry best practices in healthcare domain.,10,2025-11-13
+556,Accounting Intern,Jubilant Foodworks,Finance,"Communication, Data Analysis",Kolkata,12,5000,High School,Support finance operations and contribute to team objectives.,10,2025-10-22
+557,Pharmacy Intern,Reliance Industries,Healthcare,"Research, Biology, Problem Solving",Bhopal,6,6000,Undergraduate,Work on real-world healthcare projects and gain hands-on experience.,9,2025-11-02
+558,Audit Intern,Bharti Airtel,Finance,"Excel, Mathematics",Bhopal,12,5000,Undergraduate,Work on real-world finance projects and gain hands-on experience.,5,2025-10-13
+559,Audit Intern,ICICI Bank,Finance,"Communication, Data Analysis, Excel",Chandigarh,12,5000,Diploma,Learn industry best practices in finance domain.,4,2025-10-15
+560,Process Engineering Intern,Eicher Motors,Manufacturing,"Team Work, Excel, Problem Solving, Project Management",Any Location,6,5000,Any,Work on real-world manufacturing projects and gain hands-on experience.,6,2025-10-30
+561,AI/ML Intern,State Bank of India,IT,"Problem Solving, Communication, Java, Data Analysis",Lucknow,6,5000,High School,Support it operations and contribute to team objectives.,8,2025-10-10
+562,Pharmacy Intern,Godrej Consumer,Healthcare,"MS Office, Research",Lucknow,12,4000,High School,Work on real-world healthcare projects and gain hands-on experience.,1,2025-10-17
+563,Process Engineering Intern,Reliance Industries,Manufacturing,"Team Work, Problem Solving, Excel",Chennai,12,4000,High School,Support manufacturing operations and contribute to team objectives.,7,2025-12-07
+564,Public Service Intern,Asian Paints,Government,"MS Office, Leadership",Bhopal,12,5000,High School,Contribute to innovative government solutions and processes.,8,2025-11-28
+565,Rural Development Intern,Larsen & Toubro,Agriculture,"Field Work, Local Language",Pune,12,6000,Undergraduate,Support agriculture operations and contribute to team objectives.,9,2025-10-22
+566,Mobile App Development Intern,Godrej Consumer,IT,"Communication, Java",Lucknow,12,5000,Any,Contribute to innovative it solutions and processes.,8,2025-10-29
+567,Student Support Intern,Hindustan Unilever,Education,"Teaching, MS Office, English, Leadership",Chennai,6,5000,High School,Support education operations and contribute to team objectives.,7,2025-12-08
+568,Investment Banking Intern,Muthoot Finance,Finance,"Finance, Communication",Chennai,12,6000,High School,Assist with research and development in finance field.,3,2025-11-24
+569,Public Service Intern,Muthoot Finance,Government,"Communication, Leadership",Kolkata,12,4000,Diploma,Contribute to innovative government solutions and processes.,2,2025-10-24
+570,Social Media Intern,Eicher Motors,Marketing,"Design, Communication, MS Office, Marketing",Mumbai,12,5000,Undergraduate,Assist with research and development in marketing field.,3,2025-11-02
+571,Student Support Intern,Larsen & Toubro,Education,"Leadership, MS Office, Teaching",Any Location,12,5000,Any,Work on real-world education projects and gain hands-on experience.,4,2025-11-26
+572,Farm Management Intern,Dr. Reddy's Labs,Agriculture,"Local Language, Research",Jaipur,12,4000,Diploma,Contribute to innovative agriculture solutions and processes.,4,2025-11-24
+573,Learning Design Intern,Wipro,Education,"Leadership, Communication, English",Hyderabad,6,6000,Any,Contribute to innovative education solutions and processes.,6,2025-11-16
+574,Policy Research Intern,Mahindra Group,Government,"Communication, English, Research",Bangalore,12,4000,Diploma,Work on real-world government projects and gain hands-on experience.,7,2025-10-09
+575,Process Engineering Intern,Sun Pharma,Manufacturing,"Excel, Team Work, Project Management",Kolkata,12,5000,Any,Learn industry best practices in manufacturing domain.,4,2025-11-19
+576,Public Health Intern,Larsen & Toubro,Healthcare,"Biology, MS Office",Lucknow,6,5000,Diploma,Support healthcare operations and contribute to team objectives.,10,2025-11-26
+577,Rural Development Intern,Maruti Suzuki,Agriculture,"Local Language, Research, Field Work, Agriculture",Chandigarh,12,4000,High School,Assist with research and development in agriculture field.,6,2025-12-07
+578,Agricultural Research Intern,Sun Pharma,Agriculture,"Research, Agriculture",Any Location,6,4000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,9,2025-11-22
+579,Learning Design Intern,Hindustan Unilever,Education,"Leadership, English, MS Office, Teaching",Lucknow,12,4000,Diploma,Work on real-world education projects and gain hands-on experience.,6,2025-10-16
+580,Public Health Intern,Jubilant Foodworks,Healthcare,"Problem Solving, Biology, Communication",Chennai,12,4000,Any,Support healthcare operations and contribute to team objectives.,3,2025-12-01
+581,Rural Development Intern,Tech Mahindra,Agriculture,"Local Language, Research, Field Work, Agriculture",Chandigarh,6,5000,Any,Work on real-world agriculture projects and gain hands-on experience.,1,2025-10-15
+582,Quality Control Intern,Godrej Consumer,Manufacturing,"Team Work, Project Management, Excel",Chandigarh,12,5000,Undergraduate,Work on real-world manufacturing projects and gain hands-on experience.,10,2025-10-19
+583,Policy Research Intern,Wipro,Government,"Research, English",Jaipur,12,5000,Any,Learn industry best practices in government domain.,10,2025-11-24
+584,Agricultural Research Intern,Nestle India,Agriculture,"Local Language, Agriculture",Chandigarh,12,5000,Diploma,Support agriculture operations and contribute to team objectives.,5,2025-11-09
+585,Academic Research Intern,HDFC Bank,Education,"Leadership, English",Bangalore,6,6000,Diploma,Work on real-world education projects and gain hands-on experience.,10,2025-11-25
+586,Educational Content Intern,Reliance Industries,Education,"Leadership, MS Office, Communication",Lucknow,6,6000,High School,Support education operations and contribute to team objectives.,10,2025-10-14
+587,Digital Marketing Intern,Tech Mahindra,Marketing,"Social Media, Marketing, MS Office",Pune,12,5000,High School,Contribute to innovative marketing solutions and processes.,3,2025-10-24
+588,Legal Affairs Intern,Jubilant Foodworks,Government,"Research, Leadership, English, Communication",Rural,6,5000,High School,Contribute to innovative government solutions and processes.,8,2025-11-28
+589,Software Development Intern,Mahindra Group,IT,"Excel, Python",Kolkata,12,5000,Undergraduate,Assist with research and development in it field.,10,2025-11-08
+590,Industrial Design Intern,UltraTech Cement,Manufacturing,"Project Management, Team Work, Excel",Pune,12,5000,Diploma,Learn industry best practices in manufacturing domain.,1,2025-11-20
+591,Farm Management Intern,Eicher Motors,Agriculture,"Agriculture, Field Work, Local Language, Research",Delhi,12,5000,Any,Assist with research and development in agriculture field.,2,2025-11-24
+592,Teaching Assistant,Godrej Consumer,Education,"Teaching, Communication, Leadership, MS Office",Pune,12,5000,Any,Contribute to innovative education solutions and processes.,3,2025-11-21
+593,Communication Intern,Godrej Consumer,Government,"Communication, Research, MS Office",Any Location,12,5000,Undergraduate,Work on real-world government projects and gain hands-on experience.,3,2025-11-18
+594,Production Intern,Hindustan Unilever,Manufacturing,"Project Management, Excel, Team Work, Problem Solving",Lucknow,12,5000,Any,Assist with research and development in manufacturing field.,8,2025-11-25
+595,Pharmacy Intern,Hindustan Unilever,Healthcare,"MS Office, Biology, Communication",Kolkata,12,6000,Undergraduate,Contribute to innovative healthcare solutions and processes.,5,2025-10-21
+596,Academic Research Intern,Jubilant Foodworks,Education,"MS Office, Teaching, Leadership, English",Rural,12,5000,High School,Learn industry best practices in education domain.,8,2025-12-01
+597,Administrative Intern,HDFC Bank,Government,"Research, English, MS Office",Jaipur,12,5000,Diploma,Support government operations and contribute to team objectives.,6,2025-10-22
+598,Teaching Assistant,Bharti Airtel,Education,"Leadership, Teaching",Bangalore,6,5000,Undergraduate,Assist with research and development in education field.,2,2025-11-27
+599,Brand Management Intern,Infosys,Marketing,"Marketing, Design, MS Office, Social Media",Bhopal,6,5000,Diploma,Contribute to innovative marketing solutions and processes.,4,2025-11-18
+600,Policy Research Intern,Bajaj Finance,Government,"MS Office, Communication, Leadership, Research",Bhopal,12,4000,Undergraduate,Assist with research and development in government field.,9,2025-12-06
+601,Agricultural Marketing Intern,Larsen & Toubro,Agriculture,"Field Work, Agriculture, Research",Mumbai,12,5000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,4,2025-10-16
+602,Pharmacy Intern,Eicher Motors,Healthcare,"Problem Solving, Research, Communication, Biology",Lucknow,12,5000,Undergraduate,Support healthcare operations and contribute to team objectives.,5,2025-12-02
+603,Process Engineering Intern,Bajaj Finance,Manufacturing,"Problem Solving, Team Work, Excel, Project Management",Any Location,12,4000,Any,Assist with research and development in manufacturing field.,5,2025-10-29
+604,Quality Control Intern,Larsen & Toubro,Manufacturing,"Team Work, Problem Solving, Excel, Project Management",Jaipur,6,5000,Any,Learn industry best practices in manufacturing domain.,10,2025-10-18
+605,Brand Management Intern,Larsen & Toubro,Marketing,"Design, Communication, Marketing",Hyderabad,12,5000,Diploma,Work on real-world marketing projects and gain hands-on experience.,8,2025-11-16
+606,Supply Chain Intern,Eicher Motors,Manufacturing,"Problem Solving, Team Work, Project Management, Excel",Ahmedabad,12,5000,Undergraduate,Assist with research and development in manufacturing field.,6,2025-10-12
+607,Quality Control Intern,Muthoot Finance,Manufacturing,"Team Work, Project Management, Problem Solving, Excel",Any Location,12,4000,Diploma,Assist with research and development in manufacturing field.,10,2025-11-24
+608,Rural Development Intern,Eicher Motors,Agriculture,"Field Work, Agriculture, Research, Local Language",Kolkata,12,4000,Any,Learn industry best practices in agriculture domain.,7,2025-11-26
+609,Farm Management Intern,Hindustan Unilever,Agriculture,"Local Language, Field Work",Chandigarh,6,5000,Diploma,Contribute to innovative agriculture solutions and processes.,6,2025-11-03
+610,Healthcare Administration Intern,Maruti Suzuki,Healthcare,"Problem Solving, Biology, Communication",Hyderabad,12,5000,Any,Support healthcare operations and contribute to team objectives.,5,2025-11-14
+611,Student Support Intern,ICICI Bank,Education,"Leadership, Communication, Teaching, MS Office",Chennai,12,6000,Diploma,Work on real-world education projects and gain hands-on experience.,5,2025-11-01
+612,Healthcare Administration Intern,Tech Mahindra,Healthcare,"MS Office, Research, Biology",Mumbai,6,6000,Undergraduate,Assist with research and development in healthcare field.,3,2025-10-20
+613,Software Development Intern,TVS Motor,IT,"Communication, Data Analysis, Problem Solving, Python",Bhopal,12,5000,Any,Support it operations and contribute to team objectives.,7,2025-10-11
+614,Healthcare Administration Intern,Asian Paints,Healthcare,"MS Office, Communication, Problem Solving",Lucknow,12,5000,Diploma,Assist with research and development in healthcare field.,10,2025-11-27
+615,Public Health Intern,Tata Consultancy Services,Healthcare,"MS Office, Communication, Problem Solving, Research",Pune,12,5000,High School,Work on real-world healthcare projects and gain hands-on experience.,5,2025-10-16
+616,Medical Research Intern,Godrej Consumer,Healthcare,"Problem Solving, Research, Biology",Lucknow,12,6000,Any,Learn industry best practices in healthcare domain.,7,2025-11-22
+617,Clinical Data Intern,Wipro,Healthcare,"MS Office, Problem Solving",Bhopal,6,5000,Any,Learn industry best practices in healthcare domain.,2,2025-11-14
+618,Teaching Assistant,Jubilant Foodworks,Education,"Teaching, English, Leadership",Any Location,12,5000,High School,Assist with research and development in education field.,9,2025-11-13
+619,Policy Research Intern,Bajaj Finance,Government,"Leadership, Research, English, MS Office",Bangalore,6,5000,Diploma,Work on real-world government projects and gain hands-on experience.,8,2025-11-13
+620,Public Service Intern,Jubilant Foodworks,Government,"Research, Communication",Lucknow,12,5000,Diploma,Support government operations and contribute to team objectives.,5,2025-10-14
+621,Digital Marketing Intern,ICICI Bank,Marketing,"Social Media, Marketing",Pune,6,5000,Diploma,Assist with research and development in marketing field.,2,2025-12-08
+622,Data Science Intern,Hero MotoCorp,IT,"Python, Excel, Data Analysis",Bhopal,12,5000,Any,Support it operations and contribute to team objectives.,6,2025-11-14
+623,Public Service Intern,Reliance Industries,Government,"MS Office, Communication, Leadership, Research",Bhopal,12,5000,High School,Support government operations and contribute to team objectives.,8,2025-10-11
+624,Investment Banking Intern,Eicher Motors,Finance,"Finance, Communication, Mathematics",Jaipur,12,4000,Diploma,Contribute to innovative finance solutions and processes.,7,2025-10-31
+625,Brand Management Intern,Bharti Airtel,Marketing,"MS Office, Design, Social Media, Communication",Hyderabad,6,5000,Any,Support marketing operations and contribute to team objectives.,8,2025-11-03
+626,Policy Research Intern,Hindustan Unilever,Government,"English, Communication, MS Office",Chennai,12,4000,High School,Learn industry best practices in government domain.,4,2025-11-18
+627,Insurance Intern,Larsen & Toubro,Finance,"Communication, Finance, Data Analysis",Any Location,12,5000,Diploma,Learn industry best practices in finance domain.,3,2025-11-28
+628,Farm Management Intern,Dr. Reddy's Labs,Agriculture,"Field Work, Agriculture",Hyderabad,6,6000,High School,Contribute to innovative agriculture solutions and processes.,7,2025-10-16
+629,Agri-tech Intern,Wipro,Agriculture,"Agriculture, Field Work, Local Language",Rural,12,4000,Undergraduate,Support agriculture operations and contribute to team objectives.,2,2025-12-03
+630,Risk Management Intern,Wipro,Finance,"Excel, Data Analysis",Chennai,12,5000,Any,Work on real-world finance projects and gain hands-on experience.,5,2025-11-28
+631,Healthcare Administration Intern,Hero MotoCorp,Healthcare,"Communication, MS Office, Biology, Research",Chandigarh,12,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,7,2025-10-26
+632,Medical Research Intern,Tata Consultancy Services,Healthcare,"Communication, MS Office",Bangalore,12,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,1,2025-11-13
+633,Farm Management Intern,Nestle India,Agriculture,"Field Work, Research, Agriculture, Local Language",Bhopal,6,5000,Diploma,Support agriculture operations and contribute to team objectives.,4,2025-11-02
+634,Digital Marketing Intern,Muthoot Finance,Marketing,"Marketing, Communication, MS Office, Design",Chandigarh,12,5000,Any,Support marketing operations and contribute to team objectives.,2,2025-11-06
+635,Process Engineering Intern,Nestle India,Manufacturing,"Project Management, Team Work, Excel, Problem Solving",Hyderabad,12,4000,High School,Learn industry best practices in manufacturing domain.,6,2025-11-04
+636,Production Intern,Maruti Suzuki,Manufacturing,"Problem Solving, Excel, Project Management, Team Work",Bangalore,6,5000,High School,Work on real-world manufacturing projects and gain hands-on experience.,1,2025-11-25
+637,Content Marketing Intern,Bajaj Finance,Marketing,"Social Media, Design, Marketing",Jaipur,12,5000,Diploma,Assist with research and development in marketing field.,7,2025-11-09
+638,Public Health Intern,Hero MotoCorp,Healthcare,"Problem Solving, Research",Any Location,12,5000,High School,Assist with research and development in healthcare field.,3,2025-11-22
+639,Quality Control Intern,Muthoot Finance,Manufacturing,"Problem Solving, Project Management, Team Work, Excel",Bhopal,12,6000,Diploma,Support manufacturing operations and contribute to team objectives.,1,2025-10-13
+640,Quality Control Intern,Asian Paints,Manufacturing,"Project Management, Problem Solving, Team Work, Excel",Kolkata,12,5000,Diploma,Learn industry best practices in manufacturing domain.,8,2025-10-16
+641,Quality Control Intern,Jubilant Foodworks,Manufacturing,"Problem Solving, Team Work, Project Management, Excel",Hyderabad,6,4000,Undergraduate,Support manufacturing operations and contribute to team objectives.,7,2025-10-09
+642,Agricultural Research Intern,UltraTech Cement,Agriculture,"Agriculture, Field Work, Local Language",Delhi,6,5000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,2,2025-11-17
+643,Public Service Intern,Eicher Motors,Government,"MS Office, Research, English",Pune,12,5000,Diploma,Assist with research and development in government field.,7,2025-10-31
+644,Software Development Intern,Bharti Airtel,IT,"Problem Solving, Java, Python",Jaipur,6,5000,Diploma,Assist with research and development in it field.,3,2025-10-16
+645,Policy Research Intern,Jubilant Foodworks,Government,"MS Office, Communication",Ahmedabad,12,5000,Any,Learn industry best practices in government domain.,9,2025-10-28
+646,Process Engineering Intern,Mahindra Group,Manufacturing,"Project Management, Problem Solving",Ahmedabad,6,5000,Any,Support manufacturing operations and contribute to team objectives.,8,2025-10-17
+647,Process Engineering Intern,Tech Mahindra,Manufacturing,"Project Management, Excel",Chennai,12,5000,High School,Support manufacturing operations and contribute to team objectives.,5,2025-10-27
+648,Data Science Intern,Hindustan Unilever,IT,"Problem Solving, Data Analysis, Python",Bangalore,12,6000,Diploma,Assist with research and development in it field.,7,2025-11-20
+649,Digital Marketing Intern,State Bank of India,Marketing,"Design, MS Office, Marketing",Chandigarh,12,5000,Diploma,Learn industry best practices in marketing domain.,3,2025-11-26
+650,Agricultural Marketing Intern,Jubilant Foodworks,Agriculture,"Research, Agriculture, Local Language, Field Work",Rural,6,5000,High School,Support agriculture operations and contribute to team objectives.,1,2025-10-18
+651,Industrial Design Intern,UltraTech Cement,Manufacturing,"Team Work, Problem Solving",Bhopal,6,5000,Undergraduate,Assist with research and development in manufacturing field.,1,2025-11-16
+652,Cybersecurity Intern,State Bank of India,IT,"Data Analysis, Communication, Problem Solving",Mumbai,6,6000,Any,Support it operations and contribute to team objectives.,2,2025-11-17
+653,Academic Research Intern,Hindustan Unilever,Education,"English, Communication",Rural,6,6000,High School,Learn industry best practices in education domain.,8,2025-11-22
+654,Insurance Intern,HDFC Bank,Finance,"Finance, Data Analysis, Mathematics",Rural,12,4000,High School,Contribute to innovative finance solutions and processes.,1,2025-11-17
+655,Educational Content Intern,Bharti Airtel,Education,"English, MS Office, Teaching, Communication",Kolkata,12,4000,High School,Learn industry best practices in education domain.,5,2025-10-21
+656,Student Support Intern,ICICI Bank,Education,"MS Office, English",Mumbai,12,5000,High School,Assist with research and development in education field.,9,2025-11-04
+657,Brand Management Intern,Hero MotoCorp,Marketing,"Marketing, Design",Ahmedabad,12,4000,High School,Contribute to innovative marketing solutions and processes.,9,2025-11-05
+658,Web Development Intern,Larsen & Toubro,IT,"Data Analysis, Communication",Hyderabad,12,5000,Undergraduate,Assist with research and development in it field.,2,2025-10-24
+659,Production Intern,Hero MotoCorp,Manufacturing,"Problem Solving, Excel",Delhi,12,4000,Undergraduate,Support manufacturing operations and contribute to team objectives.,7,2025-10-27
+660,Public Service Intern,UltraTech Cement,Government,"Research, English, Leadership, Communication",Ahmedabad,12,5000,Undergraduate,Learn industry best practices in government domain.,1,2025-10-28
+661,Medical Research Intern,TVS Motor,Healthcare,"Biology, Research, MS Office, Communication",Chandigarh,12,6000,Undergraduate,Contribute to innovative healthcare solutions and processes.,3,2025-11-11
+662,Quality Control Intern,State Bank of India,Manufacturing,"Project Management, Problem Solving, Team Work, Excel",Mumbai,12,6000,Diploma,Contribute to innovative manufacturing solutions and processes.,6,2025-10-16
+663,AI/ML Intern,Jubilant Foodworks,IT,"Java, Communication, Problem Solving, Python",Mumbai,12,5000,Undergraduate,Learn industry best practices in it domain.,9,2025-11-24
+664,Administrative Intern,Bajaj Finance,Government,"Communication, Research, English, MS Office",Kolkata,6,5000,Undergraduate,Contribute to innovative government solutions and processes.,10,2025-10-31
+665,Process Engineering Intern,Eicher Motors,Manufacturing,"Problem Solving, Team Work, Excel, Project Management",Kolkata,6,5000,High School,Support manufacturing operations and contribute to team objectives.,2,2025-11-16
+666,Brand Management Intern,Infosys,Marketing,"Social Media, MS Office, Marketing",Chennai,12,4000,Any,Assist with research and development in marketing field.,7,2025-11-21
+667,Healthcare Administration Intern,Asian Paints,Healthcare,"Problem Solving, MS Office, Communication",Rural,6,5000,Any,Assist with research and development in healthcare field.,4,2025-11-16
+668,Brand Management Intern,Mahindra Group,Marketing,"Social Media, Communication",Lucknow,12,5000,Diploma,Contribute to innovative marketing solutions and processes.,2,2025-11-22
+669,AI/ML Intern,Asian Paints,IT,"Excel, Communication, Data Analysis",Hyderabad,12,5000,Diploma,Learn industry best practices in it domain.,3,2025-11-23
+670,Content Marketing Intern,Hero MotoCorp,Marketing,"Communication, MS Office",Delhi,6,5000,Diploma,Learn industry best practices in marketing domain.,6,2025-10-11
+671,Learning Design Intern,Hindustan Unilever,Education,"Communication, Teaching",Bhopal,6,4000,Diploma,Support education operations and contribute to team objectives.,10,2025-11-12
+672,Medical Research Intern,Dr. Reddy's Labs,Healthcare,"Communication, Problem Solving, Research, Biology",Chandigarh,12,5000,Undergraduate,Support healthcare operations and contribute to team objectives.,9,2025-11-04
+673,Social Media Intern,Bajaj Finance,Marketing,"Social Media, Marketing",Chennai,12,5000,Undergraduate,Support marketing operations and contribute to team objectives.,8,2025-10-25
+674,AI/ML Intern,Mahindra Group,IT,"Excel, Python, Problem Solving, Data Analysis",Hyderabad,6,5000,Diploma,Assist with research and development in it field.,10,2025-10-23
+675,Supply Chain Intern,Larsen & Toubro,Manufacturing,"Excel, Problem Solving",Ahmedabad,12,4000,Diploma,Assist with research and development in manufacturing field.,9,2025-11-01
+676,Student Support Intern,Nestle India,Education,"Leadership, English",Ahmedabad,12,5000,Diploma,Support education operations and contribute to team objectives.,4,2025-10-21
+677,Administrative Intern,Hindustan Unilever,Government,"MS Office, Research, Communication, English",Bangalore,12,5000,Any,Contribute to innovative government solutions and processes.,4,2025-10-21
+678,Healthcare Administration Intern,Sun Pharma,Healthcare,"MS Office, Research",Ahmedabad,6,5000,Any,Work on real-world healthcare projects and gain hands-on experience.,9,2025-11-24
+679,Teaching Assistant,HDFC Bank,Education,"Teaching, Leadership, English, MS Office",Mumbai,12,5000,High School,Work on real-world education projects and gain hands-on experience.,8,2025-10-17
+680,Financial Analysis Intern,Bharti Airtel,Finance,"Finance, Excel, Data Analysis",Rural,6,5000,High School,Contribute to innovative finance solutions and processes.,2,2025-11-25
+681,Production Intern,Tata Consultancy Services,Manufacturing,"Team Work, Excel",Rural,12,4000,Any,Support manufacturing operations and contribute to team objectives.,8,2025-10-28
+682,Process Engineering Intern,Eicher Motors,Manufacturing,"Team Work, Problem Solving",Jaipur,12,5000,Undergraduate,Contribute to innovative manufacturing solutions and processes.,1,2025-10-16
+683,Software Development Intern,Nestle India,IT,"Excel, Data Analysis",Mumbai,12,4000,Any,Support it operations and contribute to team objectives.,9,2025-10-09
+684,Financial Analysis Intern,Nestle India,Finance,"Data Analysis, Communication",Bangalore,12,4000,Undergraduate,Learn industry best practices in finance domain.,9,2025-10-23
+685,Agri-tech Intern,Godrej Consumer,Agriculture,"Field Work, Agriculture, Local Language",Mumbai,12,5000,Undergraduate,Learn industry best practices in agriculture domain.,8,2025-10-13
+686,Production Intern,Infosys,Manufacturing,"Problem Solving, Excel, Project Management",Bangalore,12,5000,Any,Contribute to innovative manufacturing solutions and processes.,5,2025-10-30
+687,Student Support Intern,Bharti Airtel,Education,"Communication, MS Office",Pune,6,5000,High School,Learn industry best practices in education domain.,5,2025-12-06
+688,Public Service Intern,Maruti Suzuki,Government,"Research, Leadership, English",Rural,12,5000,Diploma,Learn industry best practices in government domain.,3,2025-10-18
+689,Farm Management Intern,Tech Mahindra,Agriculture,"Research, Agriculture, Local Language, Field Work",Chandigarh,12,5000,Undergraduate,Support agriculture operations and contribute to team objectives.,5,2025-10-14
+690,Quality Control Intern,HDFC Bank,Manufacturing,"Excel, Team Work",Pune,6,5000,Any,Assist with research and development in manufacturing field.,4,2025-11-08
+691,Agricultural Marketing Intern,Jubilant Foodworks,Agriculture,"Local Language, Agriculture, Research, Field Work",Kolkata,12,5000,Any,Contribute to innovative agriculture solutions and processes.,1,2025-11-12
+692,Communication Intern,Wipro,Government,"Communication, English, Research, Leadership",Jaipur,6,5000,Diploma,Work on real-world government projects and gain hands-on experience.,9,2025-10-24
+693,Production Intern,Tech Mahindra,Manufacturing,"Problem Solving, Team Work",Jaipur,6,5000,Any,Support manufacturing operations and contribute to team objectives.,10,2025-12-06
+694,Medical Research Intern,Hindustan Unilever,Healthcare,"Communication, Research, MS Office",Ahmedabad,6,5000,Diploma,Contribute to innovative healthcare solutions and processes.,4,2025-12-07
+695,Agricultural Research Intern,Dr. Reddy's Labs,Agriculture,"Field Work, Agriculture",Chandigarh,12,5000,Diploma,Work on real-world agriculture projects and gain hands-on experience.,3,2025-11-22
+696,Student Support Intern,Tata Consultancy Services,Education,"Teaching, Leadership, English, MS Office",Chandigarh,12,5000,High School,Contribute to innovative education solutions and processes.,6,2025-10-13
+697,Communication Intern,ICICI Bank,Government,"Research, Communication",Pune,12,5000,Diploma,Work on real-world government projects and gain hands-on experience.,1,2025-10-24
+698,Medical Research Intern,ICICI Bank,Healthcare,"MS Office, Research, Biology, Problem Solving",Chandigarh,12,6000,Diploma,Contribute to innovative healthcare solutions and processes.,5,2025-11-22
+699,Market Research Intern,Maruti Suzuki,Marketing,"Marketing, Design, MS Office",Chandigarh,12,5000,High School,Learn industry best practices in marketing domain.,7,2025-10-16
+700,Teaching Assistant,Bajaj Finance,Education,"Teaching, English, Communication, MS Office",Delhi,12,4000,Any,Assist with research and development in education field.,2,2025-11-21
+701,Communication Intern,Dr. Reddy's Labs,Government,"MS Office, Leadership, English, Research",Kolkata,6,4000,Diploma,Learn industry best practices in government domain.,10,2025-10-14
+702,Agricultural Research Intern,Nestle India,Agriculture,"Field Work, Research, Agriculture, Local Language",Kolkata,12,4000,Diploma,Contribute to innovative agriculture solutions and processes.,9,2025-11-16
+703,Public Health Intern,Sun Pharma,Healthcare,"Communication, MS Office, Research",Bangalore,6,5000,High School,Learn industry best practices in healthcare domain.,6,2025-11-19
+704,Agricultural Research Intern,ICICI Bank,Agriculture,"Agriculture, Research, Local Language",Pune,12,4000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,2,2025-10-24
+705,Brand Management Intern,Bajaj Finance,Marketing,"Social Media, MS Office, Design, Marketing",Rural,6,5000,Undergraduate,Support marketing operations and contribute to team objectives.,8,2025-11-13
+706,Insurance Intern,Muthoot Finance,Finance,"Finance, Mathematics",Mumbai,12,5000,High School,Contribute to innovative finance solutions and processes.,8,2025-11-28
+707,Policy Research Intern,State Bank of India,Government,"MS Office, Research",Hyderabad,6,5000,High School,Learn industry best practices in government domain.,1,2025-11-26
+708,Market Research Intern,TVS Motor,Marketing,"Communication, Marketing, MS Office, Design",Bangalore,6,5000,High School,Learn industry best practices in marketing domain.,1,2025-11-04
+709,Clinical Data Intern,Infosys,Healthcare,"Biology, MS Office",Ahmedabad,12,5000,High School,Learn industry best practices in healthcare domain.,1,2025-10-19
+710,Student Support Intern,Bharti Airtel,Education,"Teaching, English",Chennai,12,5000,Diploma,Support education operations and contribute to team objectives.,4,2025-11-10
+711,Process Engineering Intern,Bajaj Finance,Manufacturing,"Project Management, Team Work",Pune,12,5000,Any,Work on real-world manufacturing projects and gain hands-on experience.,4,2025-12-05
+712,Agricultural Research Intern,Eicher Motors,Agriculture,"Agriculture, Research",Lucknow,12,5000,Any,Work on real-world agriculture projects and gain hands-on experience.,8,2025-11-29
+713,Data Science Intern,State Bank of India,IT,"Excel, Python, Problem Solving",Mumbai,12,6000,Any,Learn industry best practices in it domain.,1,2025-10-19
+714,Brand Management Intern,Bajaj Finance,Marketing,"Marketing, MS Office",Pune,12,5000,High School,Work on real-world marketing projects and gain hands-on experience.,10,2025-10-20
+715,Public Service Intern,Eicher Motors,Government,"MS Office, English, Leadership",Bangalore,12,5000,High School,Contribute to innovative government solutions and processes.,3,2025-11-09
+716,Web Development Intern,Tata Consultancy Services,IT,"Problem Solving, Communication, Java",Ahmedabad,12,4000,Undergraduate,Contribute to innovative it solutions and processes.,1,2025-12-02
+717,Supply Chain Intern,Reliance Industries,Manufacturing,"Excel, Project Management",Ahmedabad,12,5000,Undergraduate,Work on real-world manufacturing projects and gain hands-on experience.,9,2025-11-17
+718,Mobile App Development Intern,Sun Pharma,IT,"Communication, Excel",Delhi,12,5000,Diploma,Work on real-world it projects and gain hands-on experience.,10,2025-10-27
+719,Agricultural Research Intern,Larsen & Toubro,Agriculture,"Research, Agriculture, Local Language, Field Work",Any Location,12,5000,Any,Work on real-world agriculture projects and gain hands-on experience.,9,2025-10-31
+720,Legal Affairs Intern,Maruti Suzuki,Government,"Leadership, English, Research, MS Office",Bangalore,6,5000,High School,Assist with research and development in government field.,7,2025-11-27
+721,Agricultural Research Intern,TVS Motor,Agriculture,"Local Language, Agriculture, Field Work",Pune,6,5000,Any,Support agriculture operations and contribute to team objectives.,8,2025-11-22
+722,Policy Research Intern,TVS Motor,Government,"English, Research, MS Office",Bangalore,12,4000,Any,Support government operations and contribute to team objectives.,1,2025-11-18
+723,Risk Management Intern,State Bank of India,Finance,"Excel, Data Analysis, Communication, Finance",Rural,12,4000,Any,Assist with research and development in finance field.,5,2025-10-22
+724,Data Science Intern,Nestle India,IT,"Communication, Problem Solving",Hyderabad,6,4000,Undergraduate,Support it operations and contribute to team objectives.,2,2025-10-14
+725,Teaching Assistant,TVS Motor,Education,"Leadership, Teaching, English",Any Location,12,4000,Any,Assist with research and development in education field.,1,2025-11-11
+726,Insurance Intern,State Bank of India,Finance,"Finance, Excel, Data Analysis",Kolkata,12,4000,Undergraduate,Learn industry best practices in finance domain.,3,2025-10-19
+727,Risk Management Intern,Bharti Airtel,Finance,"Data Analysis, Communication, Mathematics",Chandigarh,6,5000,Diploma,Assist with research and development in finance field.,7,2025-10-31
+728,Agri-tech Intern,TVS Motor,Agriculture,"Field Work, Agriculture, Local Language, Research",Bhopal,12,5000,Undergraduate,Work on real-world agriculture projects and gain hands-on experience.,1,2025-10-18
+729,Administrative Intern,TVS Motor,Government,"MS Office, Research, Leadership",Kolkata,12,6000,Undergraduate,Contribute to innovative government solutions and processes.,2,2025-11-24
+730,Cybersecurity Intern,Infosys,IT,"Communication, Problem Solving",Bhopal,12,5000,High School,Work on real-world it projects and gain hands-on experience.,2,2025-10-22
+731,Audit Intern,ICICI Bank,Finance,"Communication, Finance, Mathematics, Data Analysis",Chennai,12,4000,Undergraduate,Support finance operations and contribute to team objectives.,4,2025-12-08
+732,Insurance Intern,Godrej Consumer,Finance,"Excel, Mathematics, Finance, Communication",Hyderabad,12,5000,Undergraduate,Contribute to innovative finance solutions and processes.,3,2025-11-30
+733,Public Health Intern,Dr. Reddy's Labs,Healthcare,"MS Office, Problem Solving, Research, Communication",Pune,12,5000,Any,Contribute to innovative healthcare solutions and processes.,3,2025-11-26
+734,Production Intern,Eicher Motors,Manufacturing,"Excel, Team Work",Pune,12,5000,Diploma,Contribute to innovative manufacturing solutions and processes.,10,2025-11-16
+735,Academic Research Intern,Dr. Reddy's Labs,Education,"Leadership, Communication, MS Office",Chandigarh,12,5000,Any,Learn industry best practices in education domain.,5,2025-11-22
+736,Medical Research Intern,Wipro,Healthcare,"Biology, Problem Solving",Lucknow,12,5000,Any,Work on real-world healthcare projects and gain hands-on experience.,3,2025-11-09
+737,Public Health Intern,Dr. Reddy's Labs,Healthcare,"Problem Solving, Biology, Communication, Research",Any Location,12,5000,Any,Support healthcare operations and contribute to team objectives.,7,2025-10-23
+738,Communication Intern,Bharti Airtel,Government,"Research, Communication, English",Mumbai,12,5000,Undergraduate,Assist with research and development in government field.,5,2025-11-04
+739,Agri-tech Intern,Wipro,Agriculture,"Field Work, Local Language, Research",Hyderabad,6,5000,Undergraduate,Learn industry best practices in agriculture domain.,4,2025-12-01
+740,Agricultural Research Intern,Reliance Industries,Agriculture,"Research, Agriculture",Delhi,6,5000,High School,Support agriculture operations and contribute to team objectives.,3,2025-11-28
+741,Industrial Design Intern,Tata Consultancy Services,Manufacturing,"Project Management, Team Work, Problem Solving, Excel",Chennai,6,5000,Any,Support manufacturing operations and contribute to team objectives.,4,2025-11-17
+742,Agri-tech Intern,UltraTech Cement,Agriculture,"Research, Agriculture, Field Work, Local Language",Kolkata,6,5000,Undergraduate,Contribute to innovative agriculture solutions and processes.,2,2025-10-19
+743,Agricultural Research Intern,Maruti Suzuki,Agriculture,"Field Work, Local Language",Mumbai,12,5000,Any,Learn industry best practices in agriculture domain.,1,2025-12-01
+744,Learning Design Intern,Hero MotoCorp,Education,"Teaching, MS Office",Delhi,12,5000,Any,Work on real-world education projects and gain hands-on experience.,3,2025-11-18
+745,Teaching Assistant,Mahindra Group,Education,"MS Office, Teaching, Communication, English",Delhi,12,5000,Diploma,Assist with research and development in education field.,2,2025-11-18
+746,Quality Control Intern,Reliance Industries,Manufacturing,"Team Work, Excel",Chennai,12,4000,Diploma,Assist with research and development in manufacturing field.,1,2025-11-27
+747,Digital Marketing Intern,Bajaj Finance,Marketing,"Social Media, Communication, Marketing",Delhi,12,6000,High School,Work on real-world marketing projects and gain hands-on experience.,1,2025-11-07
+748,Medical Research Intern,TVS Motor,Healthcare,"Communication, Problem Solving",Bangalore,12,4000,High School,Work on real-world healthcare projects and gain hands-on experience.,2,2025-11-09
+749,Quality Control Intern,Tech Mahindra,Manufacturing,"Problem Solving, Team Work, Excel",Kolkata,12,5000,High School,Assist with research and development in manufacturing field.,9,2025-11-18
+750,Healthcare Administration Intern,Maruti Suzuki,Healthcare,"MS Office, Problem Solving, Research, Communication",Rural,12,5000,Diploma,Support healthcare operations and contribute to team objectives.,5,2025-10-28
+751,Data Science Intern,Reliance Industries,IT,"Excel, Communication, Python, Problem Solving",Pune,12,5000,Undergraduate,Assist with research and development in it field.,9,2025-11-17
+752,Data Science Intern,Jubilant Foodworks,IT,"Communication, Data Analysis, Python, Problem Solving",Lucknow,12,5000,High School,Contribute to innovative it solutions and processes.,8,2025-10-10
+753,Educational Content Intern,Reliance Industries,Education,"Teaching, English, MS Office",Pune,6,4000,Diploma,Support education operations and contribute to team objectives.,6,2025-10-14
+754,Learning Design Intern,Eicher Motors,Education,"Leadership, English, Teaching",Pune,12,5000,Undergraduate,Assist with research and development in education field.,1,2025-11-25
+755,Legal Affairs Intern,Hero MotoCorp,Government,"English, Communication, Leadership, Research",Chennai,12,4000,Undergraduate,Assist with research and development in government field.,10,2025-10-15
+756,Brand Management Intern,Asian Paints,Marketing,"Design, MS Office",Ahmedabad,6,5000,Any,Contribute to innovative marketing solutions and processes.,5,2025-11-25
+757,Social Media Intern,Asian Paints,Marketing,"Social Media, Design, Communication, MS Office",Lucknow,12,5000,Undergraduate,Learn industry best practices in marketing domain.,1,2025-12-05
+758,Public Health Intern,Muthoot Finance,Healthcare,"Biology, Communication",Lucknow,12,6000,Any,Learn industry best practices in healthcare domain.,7,2025-11-16
+759,Process Engineering Intern,Mahindra Group,Manufacturing,"Problem Solving, Excel",Rural,6,6000,Undergraduate,Assist with research and development in manufacturing field.,10,2025-11-28
+760,Learning Design Intern,Hindustan Unilever,Education,"Teaching, English",Bhopal,12,4000,Undergraduate,Learn industry best practices in education domain.,8,2025-10-18
+761,Production Intern,ICICI Bank,Manufacturing,"Project Management, Excel",Delhi,12,5000,Undergraduate,Support manufacturing operations and contribute to team objectives.,8,2025-11-07
+762,Quality Control Intern,HDFC Bank,Manufacturing,"Problem Solving, Team Work, Project Management, Excel",Jaipur,12,4000,Diploma,Work on real-world manufacturing projects and gain hands-on experience.,7,2025-11-13
+763,Content Marketing Intern,Wipro,Marketing,"Social Media, Design, Marketing, Communication",Pune,12,4000,Undergraduate,Support marketing operations and contribute to team objectives.,2,2025-10-21
+764,Cybersecurity Intern,Tech Mahindra,IT,"Python, Data Analysis, Problem Solving",Mumbai,12,4000,High School,Assist with research and development in it field.,5,2025-10-19
+765,Industrial Design Intern,Nestle India,Manufacturing,"Team Work, Project Management, Problem Solving",Hyderabad,12,6000,High School,Contribute to innovative manufacturing solutions and processes.,4,2025-10-09
+766,Public Service Intern,Hindustan Unilever,Government,"English, Research",Jaipur,12,6000,High School,Learn industry best practices in government domain.,5,2025-11-19
+767,Software Development Intern,State Bank of India,IT,"Python, Problem Solving, Data Analysis",Hyderabad,12,4000,Undergraduate,Learn industry best practices in it domain.,10,2025-11-03
+768,Clinical Data Intern,Infosys,Healthcare,"MS Office, Biology, Research",Hyderabad,6,4000,Any,Assist with research and development in healthcare field.,9,2025-12-02
+769,Pharmacy Intern,Tata Consultancy Services,Healthcare,"Biology, Problem Solving, MS Office, Communication",Any Location,12,5000,High School,Support healthcare operations and contribute to team objectives.,4,2025-10-15
+770,Process Engineering Intern,Hindustan Unilever,Manufacturing,"Team Work, Problem Solving",Chennai,12,5000,Undergraduate,Contribute to innovative manufacturing solutions and processes.,8,2025-10-09
+771,Web Development Intern,Hindustan Unilever,IT,"Python, Communication",Hyderabad,12,5000,High School,Learn industry best practices in it domain.,8,2025-10-30
+772,Rural Development Intern,Sun Pharma,Agriculture,"Field Work, Agriculture, Research, Local Language",Bangalore,12,5000,Undergraduate,Support agriculture operations and contribute to team objectives.,2,2025-11-26
+773,Farm Management Intern,Hero MotoCorp,Agriculture,"Agriculture, Local Language, Research, Field Work",Bhopal,12,5000,Any,Learn industry best practices in agriculture domain.,6,2025-10-29
+774,Administrative Intern,Tech Mahindra,Government,"MS Office, Leadership",Chandigarh,12,5000,High School,Learn industry best practices in government domain.,5,2025-11-13
+775,Insurance Intern,Godrej Consumer,Finance,"Finance, Excel, Data Analysis, Communication",Delhi,12,6000,Diploma,Work on real-world finance projects and gain hands-on experience.,2,2025-11-20
+776,Audit Intern,Tech Mahindra,Finance,"Finance, Data Analysis, Excel",Pune,6,5000,Diploma,Contribute to innovative finance solutions and processes.,10,2025-11-26
+777,Supply Chain Intern,Bajaj Finance,Manufacturing,"Excel, Project Management, Problem Solving, Team Work",Bangalore,12,5000,Diploma,Learn industry best practices in manufacturing domain.,4,2025-11-02
+778,Communication Intern,Dr. Reddy's Labs,Government,"Communication, English, Research, MS Office",Hyderabad,12,5000,Any,Support government operations and contribute to team objectives.,7,2025-11-21
+779,Content Marketing Intern,Jubilant Foodworks,Marketing,"Social Media, Communication, Design, MS Office",Chandigarh,12,5000,High School,Support marketing operations and contribute to team objectives.,1,2025-10-10
+780,Administrative Intern,ICICI Bank,Government,"Research, English, MS Office",Jaipur,12,5000,Any,Learn industry best practices in government domain.,9,2025-10-25
+781,Clinical Data Intern,Bajaj Finance,Healthcare,"Communication, MS Office",Chennai,6,5000,Diploma,Assist with research and development in healthcare field.,10,2025-11-10
+782,Agricultural Marketing Intern,Bharti Airtel,Agriculture,"Agriculture, Field Work, Local Language",Pune,12,6000,High School,Work on real-world agriculture projects and gain hands-on experience.,1,2025-11-19
+783,Farm Management Intern,Mahindra Group,Agriculture,"Local Language, Agriculture",Kolkata,12,4000,Diploma,Contribute to innovative agriculture solutions and processes.,5,2025-10-26
+784,Communication Intern,TVS Motor,Government,"Research, Leadership, MS Office",Chennai,6,4000,High School,Support government operations and contribute to team objectives.,7,2025-10-16
+785,Software Development Intern,Maruti Suzuki,IT,"Data Analysis, Java, Python, Communication",Mumbai,6,5000,Undergraduate,Support it operations and contribute to team objectives.,8,2025-12-04
+786,Farm Management Intern,State Bank of India,Agriculture,"Agriculture, Research, Field Work",Ahmedabad,6,5000,Diploma,Support agriculture operations and contribute to team objectives.,2,2025-11-28
+787,Risk Management Intern,Wipro,Finance,"Mathematics, Communication, Data Analysis, Excel",Mumbai,12,5000,Diploma,Contribute to innovative finance solutions and processes.,4,2025-12-06
+788,Public Service Intern,Reliance Industries,Government,"Communication, Leadership, English, Research",Bangalore,12,6000,Diploma,Learn industry best practices in government domain.,2,2025-12-05
+789,Administrative Intern,Asian Paints,Government,"English, Leadership",Pune,12,5000,High School,Support government operations and contribute to team objectives.,4,2025-10-25
+790,Healthcare Administration Intern,Asian Paints,Healthcare,"Biology, Communication, Research, Problem Solving",Ahmedabad,12,4000,Diploma,Assist with research and development in healthcare field.,6,2025-10-16
+791,Software Development Intern,Hero MotoCorp,IT,"Communication, Data Analysis, Java, Excel",Jaipur,12,5000,Diploma,Support it operations and contribute to team objectives.,6,2025-11-27
+792,Medical Research Intern,ICICI Bank,Healthcare,"Communication, MS Office, Research",Chandigarh,6,5000,Undergraduate,Contribute to innovative healthcare solutions and processes.,2,2025-10-25
+793,Public Service Intern,Maruti Suzuki,Government,"English, Research, Communication",Hyderabad,12,4000,Undergraduate,Contribute to innovative government solutions and processes.,4,2025-11-27
+794,Policy Research Intern,Hero MotoCorp,Government,"Leadership, Research, English",Kolkata,12,4000,Diploma,Support government operations and contribute to team objectives.,4,2025-10-31
+795,Policy Research Intern,Reliance Industries,Government,"Leadership, English",Pune,12,4000,Diploma,Work on real-world government projects and gain hands-on experience.,1,2025-10-21
+796,Agri-tech Intern,Nestle India,Agriculture,"Research, Local Language, Agriculture",Hyderabad,12,5000,Undergraduate,Learn industry best practices in agriculture domain.,2,2025-11-03
+797,Rural Development Intern,Tech Mahindra,Agriculture,"Field Work, Agriculture, Research",Any Location,12,5000,High School,Assist with research and development in agriculture field.,3,2025-11-28
+798,Communication Intern,State Bank of India,Government,"MS Office, Research, English",Ahmedabad,12,5000,Diploma,Assist with research and development in government field.,5,2025-11-21
+799,Academic Research Intern,HDFC Bank,Education,"MS Office, English, Leadership",Ahmedabad,12,6000,Undergraduate,Work on real-world education projects and gain hands-on experience.,8,2025-11-29
+800,Digital Marketing Intern,Mahindra Group,Marketing,"Social Media, Communication, Design",Any Location,12,4000,High School,Work on real-world marketing projects and gain hands-on experience.,6,2025-11-09
